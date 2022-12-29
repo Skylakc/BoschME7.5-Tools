@@ -1,0 +1,15 @@
+primero  instalamos el programa
+
+conectamos el  op-com al ordenador para instalar los drivers
+
+abrimos el OCflash y actualizamos el  op-com con el firmware 1.59
+
+y por lo ultimo abrimos el software vaux-com (es la version 2012 ...pero esta modificado (actualizado) para  2014)  
+
+solo funciona con la version B ( todos los op-com clones China son  la version B)  agunos modulo  mas modernos como immo de la astra  J y otros mas de poca importancia FUNCCIONAN solo con la version C y D  que de momento no existen  como clones
+
+
+
+MUY importante..antes de actualizar el op-com es necesario saber que version tenemos  asi que abrimos las carcasa del op-com y en la placa base 
+tiene que estar escrito la  V5  si pone V6 no se puede actualizar(es nesesario hacer algunas modificaciones (La V6 mejor no actualizarla sin hacer antes los cambios ...se puede bloquear)
+ 

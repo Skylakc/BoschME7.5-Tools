@@ -1,0 +1,537 @@
+001Inf
+002Info. Centralita
+003ck
+004Check Algoritmo
+005Velocidad de repetición
+006File para modificar
+007File de parametros
+008Salvar file modificado
+009Calculadora
+010Disminuye aumentador
+011Aumenta aumentador
+012Activa desactiva aumentador
+013Help
+014Activa celda
+015R
+016reset emulador
+017Chk TR-Par Impar
+018Activa Checksum TR Par Impar
+019traza
+020Activa trazo
+021Emu
+022Activa emulador
+023Chk TR algo
+024Activa Checksum Algoritmo
+025=D
+026Iguala valor per indirizzi impar
+027=P
+028Iguala valor per indirizzi par
+029Alza plane Sx=+1 Dx=+x (valor programado)
+030Baja Plane Sx=-1  Dx=-x(valor programado)
+031FF
+032Plane de video a ff
+033=
+034Iguala valor a video
+03500
+036Video a 00
+037II
+038Iguala inidirizzo al original
+039I
+040Vai ad indirizzo
+041Inserire Indirizzo Esadecimale Richiesto
+042+
+043Aumenta sx+1 dx+5 Aumenta
+044-
+045Diminuisci sx-1 dx-5 Disminuye
+046Mouse Sx pagina adelante,Dx final de file
+047Mouse Sx pagina izquierda,Dx inicio de file
+048Mouse Sx un byte/word detras Dx pagina detras 
+049Mouse Sx ub byte/word adelante Dx una pagina adelante 
+050Spostamenti modificada 
+051Spostamenti modificada
+052Spostamenti modificada
+053Spostamenti modificada
+054Spostamenti Original   
+055spostementi Original
+056Spostamenti Original
+057Spostamenti Original
+058Comp.
+059Compara los dos files Sx en adelante y Dx atras
+060Hex
+061Aabre ventana hexadecimal
+062&Anulla 
+063Anula ultimas cinco modificaciones
+064&M
+065memoriza plane por nombre
+066
+067Collega Barre 
+068Slider
+069&Elimina 
+070Elimina copia seleccionada
+071-
+072selecciona Nº de copia posterior
+073+
+074selecciona Nº de copia anterior
+075&Pegar
+076Pegar plano seleccionado
+077&Copia
+078Copia Video
+079mantiene
+080mantiene copia
+081Visual.
+082visualiza copia seleccionada
+083-
+084Dimezza Zoom
+085+
+086Raddoppia Zoom
+087-
+088Disminuye zoom Sx-1, Dx-10
+089+
+090Aumenta Zoom Sx+1, Dx+10 
+091Byte/word seleccionada
+092Diferencia percentual
+093Diferencia Decimal
+094Valore de zoom
+095Indirizzo file modificado
+096Indirizzo file original
+097Valor hexadecimal modificado
+098Valor hexadecimal original
+099Valor decimal modificado
+100Valor decimal original
+101Lsb
+102Msb
+103Dec
+104Grafico a Byte(8bit) o Word(16bit)
+105Attiva byte low,con shift premuto +20 o -20 Activa byte ..............
+106Selecciona curva con nombre
+107Tipo apertura
+108Extender file original
+109Extender file modificado
+110Nombre file original
+111Nombre file modificado
+112Cancela punto seleccionado
+113Inicio file original
+114Inicio file modificado
+115&File
+116&Abre file para modificar
+117&Guarda file modificado
+118&Abre file de herramienta
+119&Salva file de herramienta
+120&Crea directorio
+121&fin
+122&Modifica
+123&Copia
+124&Pegar
+125&Anula
+126&Checksum
+127Calcula Checksum &8 bit
+128Calcula Checksum &Range 8 bit
+129Calcula Checksum &Par Impar
+130Calcula Checksum Range Par &Impar
+131Calcula Checksum &Bcb calcula 
+132&Buscar
+133Buscar &valor hexadecimal
+134Buscar $valor numérico
+135Buscar plano
+136Buscar $secuencia
+137Buscar plano por secuencia
+138Buscar area checksum
+139Buscar espacio checksum
+140257 bytes FF
+141514 bytes FF
+142257 bytes 00
+143514 bytes 00
+144&Instrumento
+145Plano 2D
+146Plano 3D
+147&Informacion centralita
+148&Color de fondo
+149Color de fondo &copia
+150Colore &Griglia 
+151Color de barra
+152&Emular
+153&Carga emulador
+154Test &Pod
+155&Reset emulador
+156Reset &Target
+157&Configura Reset
+158Salvar trabajo realizado ?
+159Abrir nuevo trabajo
+160El inicio de la izquierda tiene que ser inferior a la del final
+161Checksum 8 bit Range
+162No se han encontrado 257 bytes 00
+163Buscar por cheksum
+164Encontrados 257 bytes a 00, llevar a FF para correccion del checksum
+165Buscar por checksum
+166No se han encontrado 257 bytes FF
+167Buscar por cheksum
+168No se han encontrado 514 bytes 00
+169Se han encontrado 514 bytes 00, llevar a FF para correccion de checksum
+170Traza
+171Abre File
+172Posicion de File seleccionado
+173original high
+174original low
+175modificada impar
+176modificada par
+177&Renombra
+178Renombra file seleccionado
+179Sfoglia
+180Sfoglia Modificata Low
+181Sfoglia
+182Sfoglia Originale Low
+183Sfoglia
+184Sfoglia Modificato High
+185Sfoglia
+186Sfoglia Originale High
+187Original
+188Modificado
+189Modificado
+190Original
+191Tipo apertura
+192Siemens 1
+193Fiat ME7
+194Cbc
+195Doppia E.
+196Bcb
+197Siemens
+198Normale
+199Final
+200Chiudi Finestra
+201&Abrir
+202Abre grafico
+203File
+204Directory directorio
+205Checksum
+206Dimension del file
+207Tipo Eprom
+208Tipo Micro 
+209Numero programa
+210Numero centralita
+211Tipo de implanto
+212&File 
+213&Abrir
+214Fin
+215&Recien
+216Siemens 2
+217Siemens 1
+218Abrir original high
+219Abrir modificada hihg
+220Abrir original low
+221Abrir modificada low
+222El nombre del file modificado tiene que ser
+223Diferente al del original
+224Abrir
+225File original largo
+226Ha una lunghezza diversa dal
+227File modificado largo
+228Nombre de file ya existente
+229Renombra
+230Nombre del file de herraminta ya existente
+231Il file non è Bcb
+232Apertura 
+233Error en la descompresion BCb
+234Error en la descombresion Bosch
+235Error
+236Eprom LOW
+237Eprom HIGH
+238Original High
+239Modificado High
+240Original       
+241Modificado 
+242El file
+243ya existe
+244Sovrascrivere ? Sobreescribir?
+245Salva
+246Error al guardar
+247Codifica Bosch 
+248Codifica CBC
+249Codifica BCB
+250Modificato modificado
+251Codifica Siemens
+252No codificar siemens
+253Guardar los dos files
+254Guardar un file
+255&Guardar
+256&Cancelar
+257Sfoglia
+258Carpeta donde salvar el file
+259Inserire Percorso e Nome File
+260Sfoglia
+261Carpeta donde salvar el file
+262Modificado
+263Eprom High
+264Eprom Low
+265Eprom
+266Eprom Dispar-Par
+267Eprom Dispar
+268Guardar Eprom High 
+269Guardar Eprom Low
+270El nombre del file modificado tiene que ser
+271Diferente al del original
+272Insertar el nombre del file Eprom High
+273Insertar el nombre del file Eprom High+Low
+274Insertar el nombre del file Eprom High
+275Insertar nombre file Eprom
+276Salvar File de Herramientas
+277File modificado
+278File original
+279&Asociar
+280&final
+281&guardar
+282Microprocesador
+283Tipo Eprom
+284Nº programa
+285Nº Centralita
+286Insertar el nombre del fichero de herramientas
+287Salvar file de Herramientas
+288Error de escritura del file
+299Guarda file de herramintas
+300Guarda file de herramientas original
+301Salvar file de herramientas modificado
+302Cargar al emulador
+303Invierte orden Impar Par
+304Traza
+305Inicio
+306Fin
+307Byte-Word
+308Tipo
+309&Fin
+310&Carga
+311Porta printer Imprimir
+312Tipo Eprom
+313-- inicializacion Emulador
+314-- Controlar puerto lpt y conexion emulador 
+315-- configuracion tipo de eprom
+316-- Configurazione eprom non riuscita -- 
+317-- Error set trazo de buffer
+318-- Error set range trace
+319-- Scarico file non riuscito --
+320-- Inicio emulador
+321-- Inizio emulazione non riuscita --
+322-- Carga efectuada
+323-- Emulador Ok
+324-- Error de inicializacion Nº 
+325-- Memoria congigurada
+326-- Memoria no Configurada
+327-- File transferido
+328-- File no transferido, codigo:
+329El file no tiene el tamaño estandar
+330Con tamaño no permitido
+331-- Carga file
+332-- Errore set Trigger trace --
+333Apertura file de herramientas
+334&Fin
+335&Abrir
+336Tipo de implanto
+337Numero de centralita
+338Numero de programa
+339Tipo de Micro
+340Tipo de Eprom
+341buscar Area checksum
+342Vai a: Ir a:
+343Fin
+344Inicio
+345Buscar con Offset
+346Fin
+347Cancelar
+348&Buscar
+349Offset 
+350Encontrado
+351Inicio
+352Fin
+353Checksum encontrado
+354Checksum 
+355Calcula
+356Fin
+357&Corregir
+358Complemento a FFFF
+359Checksum Algoritmo
+360&Corregir
+361&Fin
+362Checksum Bcb
+363&Calcula
+364&Corregir
+365&Fin
+366No se ha encontrado la secuencia Bcb
+367&Lenguage
+368Checksum range 8 bit
+369&calcula
+370&Fin
+371Checksum 16
+372Checksum                          Complemento a FFFF
+373Checksum Range Hi LO
+374&Fin
+375&Calcula
+376Fin
+377Inicio
+378Low
+379High
+380Tiene que ser a la izquierda del fin
+381Superior al de partida
+382Imposta Checksum TR Par Impar
+383Zona 1
+384Inicio
+385Fin
+386Inicio area de correccion
+387Zona 2
+388Inicio area de correccion
+389Fin
+390Inicio
+391&Ok
+392Procedimiento terminado
+393&Anular
+394Salvar file de herramienta
+395Salvar file modificado
+396&Chiudi
+397Salir del programa sin guardar?
+398Configuracion reset
+399Activo Alto
+400Activo Bajo
+401&OK
+402Duracion Reset Ms
+403Crear Carpeta
+404&Fin
+405&Crear
+406Nombre de la carpeta creada
+407Error de creacion de carpeta
+408Informacion centralita
+409&Escribir SEt
+410Modificado
+411Original
+412&Salir
+413N° Programa
+414N° Centralita
+415Marca Ecu 
+416Gestion de memorizacion de plano
+417&Guardar
+418&Salida
+419&Insertar
+420&Renombrar
+421Eliminar
+422Insertar nombre del mapa
+423Plano 2D
+424&Fin
+425Scostamento Curve 
+426Numero Curva
+427Plano 3d
+428Griglia
+429Rotacion horizontal
+430&Fin
+431Numero curva
+432Buscar plano por secuencia
+433&Fin
+434&Interrumpir
+435&inicio
+436Punta    plano
+437Scostamento alejar
+438Trabajo reciente
+439&Azzera Acercar
+440&Ok
+441Buscar Ascii
+442Buscar su original
+443Buscar su modifado
+444&Buscar
+455&fin
+466Secuencia Ascii de busqueda
+447Insertar secuencia Ascii de busqueda
+448Secuencia no encontrada
+449Busqueda Hexadecimal
+450&Fin
+451&Ricerca buscar
+452Buscar su modificado
+453Buscar su original
+454Insertar secuencia hexadecimal de busqueda
+455Insertar secuencia hexadecimal de busqueda
+456Secuencia hexadecimal no encontrada
+457Buscar plano
+458Buscar hexadecimal
+459Selecciona File
+460&Fin
+461&Selecciona
+462Buscar secuencia
+463&Fin
+464&Ricerca Buscar
+465Buscar su modificado
+466Buscar su original
+467Quanto
+468Bytes Hex
+469Secuencia Ascii de busqueda
+470Insertar byte hexadecimal a buscar
+471Insertar cuantos bytes a buscar
+472Secuencia no encontrada
+473Test Pod
+474&Test
+475Porta Printe Puerto Impresion
+476&Fine Fin
+477-- inicializacion
+478-- Error inicializacion Nº 
+479-- Errore Test N°  Error
+480-- Emulador
+481-- INIZIO tEST pOD inicio
+482-- Test OK --
+483Visualisacion Plano Memorizzato
+484Ayuda
+485Esadecimale Hexadecimal
+486Escribir hexadecimal y clicar
+487Tasto Sx pagina adelante Dx fin file 
+488Tasto Sx riga avanti adelante
+489Tasto Sx riga indietro izquierda
+490Tasto Sx pagina atras Dx inicio file
+491Indirizzo
+492Valor hexadecimal
+493Valor decimal
+494Caracter Ascii
+495&File
+496&Fin
+497&Busqueda
+498&Busqueda Hexadecimal
+499Busqueda &Ascii
+500Incrementa
+501Disminuye
+50200
+503FF
+504______________________________
+505Scambiar Nibble
+506Scambiar con byte atras 
+507Scambiar con byte adelante 
+508&Checksum
+509&Cheksum Range 8 bit
+510Checksum &Range Hi LO
+511Busqueda &diferencias
+512Diferencia
+513Indirizzo 
+514Original
+515Modificar
+516Diferente
+517&Busqueda
+518&fin
+519&Pega cheksum TR Par-Impar
+520No codificacion Bosch
+521Fin file original
+522Fin file modificado
+523&fin 
+524Nombre Herramineta
+525Plano encontrado
+526Activa help in linea
+527Calculo checksum algoritmo
+528Revoluciones / Carga
+529Word por curva
+530Revoluciones/Curva
+531Revoluciones/plano
+532g
+533Memoriza revoluciones
+534Insertar nº word para curva
+535S
+536Memoriza el principio del plano
+537Swap
+538Edc16
+539ME9
+540Utilidades
+541Doblar file
+542Dividir file
+543No se puede conectar con la ubicacion, comprobar la conexion
+544Checksum 32 bit
+545Necessitar 4 byte por la corection
+546Corretto
+547Error

@@ -1,0 +1,4246 @@
+0000	Ausgabe Ende
+0001	Bremsensteuergeraet
+0002	Getriebesteuergeraet
+0003	Steuergeraet
+0004	
+0005	
+0006	
+0007	
+0008	
+0009	
+000A	
+000B	
+000C	
+000D	
+000E	
+000F	
+0010	Stellmotor Fussraum-/ Defrostklappe hinten rechts-V195
+0011	Stellmotor Fussraum-/ Defrostklappe hinten links-V196
+0012	Stellmotor Kaltklappe-V197
+0013	Stellmotor Warmklappe-V198
+0014	Stellmotor Absperrklappe Defr. und Mannanstroemer re-V199
+0015	Stellmotor Absperrklappe Defr. und Mannanstroemer li-V200
+0016	Stellmotor Warmklappe Mittelkonsole hinten re-V201
+0017	Stellmotor Warmklappe Mittelkonsole hinten li-V202
+0018	Stellmotor Kaltklappe Mittelkonsole hinten re-V203
+0019	Stellmotor Kaltklappe Mittelkonsole hinten li-V204
+001A	Stellmotor Verteilklappe Defr. oder Mannanstroemer re-V205
+001B	Stellmotor Verteilklappe Defr. oder Mannanstroemer li-V206
+001C	Stellmotor Designblende links-V207
+001D	Stellmotor Designblende mitte-V208
+001E	Stellmotor Designblende rechts-V209
+001F	Taster fuer Defrost hinten links-E299
+0020	Taster fuer Defrost hinten rechts-E300
+0021	Taster fuer Ausstroemer vorn links-E301
+0022	Taster fuer Ausstroemer vorn mitte links-E302
+0023	Taster fuer Ausstroemer vorn mitte rechts-E303
+0024	Taster fuer Ausstroemer vorn rechts-E304
+0025	Taster fuer Temperaturunter-schied Fussraum/Kopfraum-E305
+0026	Taster fuer Ausstroemer Mittelkonsole hinten links-E306
+0027	Taster fuer Ausstroemer Mittelkonsole hinten rechts-E307
+0028	reserviert Kriegshammer
+0029	Stellmotor fuer indirekte Belueftungsklappe-V213
+002A	Lampe fuer Parklicht links-M43
+002B	Lampe fuer Parklicht rechts-M44
+002C	Stellgliedtest Gruppe 1 durchfuehren
+002D	Stellgliedtest Gruppe 2 durchfuehren
+002E	reserviert Kriegshammer
+002F	reserviert Kriegshammer
+0030	Temperaturfuehler Waermetauscher links-G306
+0031	Temperaturfuehler Waermetauscher rechts-G307
+0032	Temperaturfuehler Verdampfer-G308
+0033	Temperaturfuehler Fussraum hinten links-G309
+0034	Temperaturfuehler Fussraum hinten rechts-G310
+0035	Temperaturfuehler Mittelkonsole hinten links-G311
+0036	Temperaturfuehler Mittelkonsole hinten rechts-G312
+0037	reserviert Kriegshammer
+0038	Geblaesemotor fuer Temperaturfuehler Innen -V210
+0039	Stellmotor fuer Absperrklappe B-Saeule und Fussraum rechts-V211
+003A	Relais fuer Heizung Wischerruhestellung-J582
+003B	Klemme 30 fuer Innenbeleuchtung
+003C	Lampen fuer  Nebelscheinwerfer
+003D	Fussraumleuchten
+003E	Funktionsanforderung Fahrwerk
+003F	Schalter fuer Rueckfahrleuchten-F4
+0040	Stellmotor fuer Absperrklappe B-Saeule und Fussraum links-V212 
+0041	Heizelement im Fussraum hinten links-Z42
+0042	Heizelement im Fussraum hinten rechts-Z43
+0043	Verbraucher 1
+0044	Verbraucher 2
+0045	reserviert Kriegshammer
+0046	Spannung Starterbatterie
+0047	Taster fuer Nebelscheinwerfer
+0048	Taster fuer Nebelschlussleuchte
+0049	Taster fuer Handschuhfach
+004A	Sicherung fuer Steckdose 1
+004B	Sicherung fuer Steckdose 2
+004C	Sicherung fuer Steckdose 3
+004D	Endschalter fuer Scheibenwischer
+004E	Trennrelais 2.Batterie
+004F	Schalter fuer Innenbeleuchtung
+0050	Funktionsanforderung Schiebedach
+0051	Unterspannungsabschaltung Sitzheizung
+0052	Klemme 61 fuer Generator
+0053	Vorlauf Kraftstoffpumpe
+0054	Umschaltrelais fuer Bordnetzbatterie-J579
+0055	Umschaltrelais fuer Starterbatterie-J580
+0056	Relais fuer Parallelschaltung Batterien-J581
+0057	Klemme 30 fuer startrelevante Verbraucher
+0058	Ladeueberwachung fuer Starterbatterie
+0059	Leitungsueberwachung fuer Klemme 30  Starterbatterie
+005A	Versorgungsleitung Klemme 30 Starterbatterie
+005B	Signal Zuendschluessel steckt
+005C	Temperaturfuehler Starterbatterie-G331
+005D	Klemme 15 fuer startrelevante Verbraucher
+005E	reserviert Kriegshammer
+005F	reserviert Kriegshammer
+0060	reserviert Kriegshammer
+0061	reserviert Kriegshammer
+0062	reserviert Kriegshammer
+0063	reserviert Kriegshammer
+0064	reserviert Kriegshammer
+0065	reserviert Kriegshammer
+0066	reserviert Kriegshammer
+0067	reserviert Kriegshammer
+0068	reserviert Kriegshammer
+0069	reserviert Kriegshammer
+006A	reserviert Kriegshammer
+006B	reserviert Kriegshammer
+006C	reserviert Kriegshammer
+006D	reserviert Kriegshammer
+006E	reserviert Kriegshammer
+006F	reserviert Kriegshammer
+0070	reserviert Kriegshammer
+0071	reserviert Kriegshammer
+0072	reserviert Kriegshammer
+0073	reserviert Kriegshammer
+0074	reserviert Kriegshammer
+0075	reserviert Kriegshammer
+0076	reserviert Kriegshammer
+0077	reserviert Kriegshammer
+0078	reserviert Kriegshammer
+0079	reserviert Kriegshammer
+007A	reserviert Kriegshammer
+007B	reserviert Kriegshammer
+007C	reserviert Kriegshammer
+007D	reserviert Kriegshammer
+007E	reserviert Kriegshammer
+007F	reserviert Kriegshammer
+0080	reserviert Kriegshammer
+0081	reserviert Kriegshammer
+0082	reserviert Kriegshammer
+0083	reserviert Kriegshammer
+0084	reserviert Kriegshammer
+0085	reserviert Kriegshammer
+0086	reserviert Kriegshammer
+0087	reserviert Kriegshammer
+0088	reserviert Kriegshammer
+0089	reserviert Kriegshammer
+008A	reserviert Kriegshammer
+008B	reserviert Kriegshammer
+008C	reserviert Kriegshammer
+008D	reserviert Kriegshammer
+008E	reserviert Kriegshammer
+008F	reserviert Kriegshammer
+0090	reserviert Kriegshammer
+0091	reserviert Kriegshammer
+0092	reserviert Kriegshammer
+0093	reserviert Kriegshammer
+0094	reserviert Kriegshammer
+0095	reserviert Kriegshammer
+0096	reserviert Kriegshammer
+0097	reserviert Kriegshammer
+0098	reserviert Kriegshammer
+0099	reserviert Kriegshammer
+009A	reserviert Kriegshammer
+009B	reserviert Kriegshammer
+009C	reserviert Kriegshammer
+009D	reserviert Kriegshammer
+009E	reserviert Kriegshammer
+009F	reserviert Kriegshammer
+00A0	
+00A1	
+00A2	
+00A3	
+00A4	
+00A5	
+00A6	
+00A7	
+00A8	
+00A9	
+00AA	
+00AB	
+00AC	
+00AD	
+00AE	
+00AF	
+00B0	
+00B1	
+00B2	
+00B3	
+00B4	
+00B5	
+00B6	
+00B7	
+00B8	
+00B9	
+00BA	
+00BB	
+00BC	
+00BD	
+00BE	
+00BF	
+00C0	
+00C1	
+00C2	
+00C3	
+00C4	
+00C5	
+00C6	
+00C7	
+00C8	
+00C9	
+00CA	
+00CB	
+00CC	
+00CD	
+00CE	
+00CF	
+00D0	
+00D1	
+00D2	
+00D3	
+00D4	
+00D5	
+00D6	
+00D7	
+00D8	
+00D9	
+00DA	
+00DB	
+00DC	
+00DD	
+00DE	
+00DF	
+00E0	
+00E1	
+00E2	
+00E3	
+00E4	
+00E5	
+00E6	
+00E7	
+00E8	
+00E9	
+00EA	
+00EB	
+00EC	
+00ED	Magnetventil fuer ABS vorn links-N59
+00EE	Magnetventil fuer ABS vorn rechts-N58
+00EF	Magnetventil fuer ABS hinten links-N57
+00F0	Magnetventil fuer ABS hinten rechts-N56
+00F1	Druckregelventil fuer Anti-Schlupf-N238
+00F2	Ventil fuer Motordrosselung-N237
+00F3	Motorbremse
+00F4	Versorgungsspannung fuer ABS-Ventile\nvorn rechts + hinten links
+00F5	Versorgungsspannung fuer ABS-Ventile\nvorn links + hinten rechts
+00F6	Masse fuer ABS-Ventile\nvorn rechts + hinten links
+00F7	Masse fuer ABS-Ventile\nvorn links + hinten rechts
+00F8	Schalter fuer Getriebe-E206
+00F9	
+00FA	Schalter fuer Gelaendebetrieb-E207
+00FB	
+00FC	
+00FD	
+00FE	Anti-Schlupf Einstellung fehlt
+00FF	Ventile fuer ABS
+0100	
+0101	Einlassventil ABS vorn links-N101
+0102	Magnetventil 1-N88
+0103	Einlassventil ABS vorn rechts-N99
+0104	Magnetventil 2-N89
+0105	Einlassventil ABS hinten-N103
+0106	Magnetventil 3-N90
+0107	Getriebe
+0108	Magnetventil 4-N91
+0109	Auslassventil ABS vorn links-N102
+010A	Magnetventil 5-N92
+010B	Auslassventil ABS vorn rechts-N100
+010C	Magnetventil 6-N93
+010D	Auslassventil ABS hinten-N104
+010E	Magnetventil 7-N94
+010F	siehe Reparaturgruppe 01
+0110	
+0111	Einlassventil ABS hinten rechts-N133
+0112	Einlassventil ABS hinten links-N134
+0113	Auslassventil ABS hinten rechts-N135
+0114	Auslassventil ABS hinten links-N136
+0115	Ein-/Auslassventil ABS vorn links-N137
+0116	Hauptventil ABS-N105
+0117	Ventil 1 fuer Differentialsperre-N125
+0118	Ventil 2 fuer Differentialsperre-N126
+0119	Geber fuer Fahrgeschwindigkeit-G68
+011A	Drosselklappensteller-V60
+011B	Drehzahlfuehler vorn links-G47
+011C	Ein-/Auslassventil ABS vorn rechts-N138
+011D	Drehzahlfuehler vorn rechts-G45
+011E	Ein-/Auslassventil ABS hinten links-N139
+011F	Drehzahlfuehler hinten rechts-G44
+0120	
+0121	Ein-/Auslassventil ABS hinten rechts-N140
+0122	Drehzahlfuehler hinten links-G46
+0123	Druckschalter-F116/Warnkontakt-F117
+0124	Hydraulische Energieversorgung Druckniveau
+0125	Multifunktionsschalter-F125
+0126	Druckschalter 1 fuer Getriebezustand
+0127	Druckschalter 2 fuer Getriebezustand
+0128	Kick-down-Schalter-F8
+0129	Geber fuer Getriebedrehzahl-G38
+012A	Schalter fuer Differentialsperre-E121
+012B	Programmschalter-E122
+012C	Geber fuer Getriebeoeltemperatur-G93
+012D	Rueckfoerderpumpe fuer ABS-V39
+012E	Relais fuer Magnetventile ABS-J106
+012F	Funktionswahlschalter-E91
+012F	
+0131	Kraftstoffverbrauchsanzeige-Signal
+0132	Sekundaerluftsystem Zylinder-Reihe 1
+0133	Sekundaerluftsystem Zylinder-Reihe 2
+0134	
+0135	Dosierpumpe fuer Reinigungsmittel-V135
+0136	Temperaturfuehler 1 fuer Katalysator-G20
+0137	
+0138	Temperaturfuehler 2 fuer Katalysator-G132
+0139	Katalysator
+013A	Zweiwegeventil fuer Abgasrueckfuehrung-N161
+013B	
+013C	
+013D	
+013E	
+013F	
+0140	
+0141	
+0142	
+0143	
+0144	
+0145	
+0146	
+0147	
+0148	
+0149	
+014A	
+014B	
+014C	
+014D	
+014E	
+014F	
+0150	
+0151	
+0152	
+0153	
+0154	
+0155	
+0156	
+0157	
+0158	
+0159	
+015A	
+015B	Magnetventil 8
+015C	Magnetventil 9
+015D	Magnetventil 10
+015E	Masserueckfuehrung Modulationsventile
+015F	Geber fuer Drehzahl Zwischenwelle-G265
+0160	
+0161	
+0162	
+0163	
+0164	
+0165	
+0166	
+0167	
+0168	
+0169	
+016A	
+016B	
+016C	
+016D	
+016E	
+016F	
+0170	
+0171	
+0172	
+0173	
+0174	
+0175	
+0176	
+0177	
+0178	
+0179	
+017A	
+017B	
+017C	
+017D	
+017E	
+017F	
+0180	
+0181	
+0182	
+0183	
+0184	
+0185	
+0186	
+0187	
+0188	
+0189	
+018A	
+018B	
+018C	
+018D	
+018E	
+018F	
+0190	
+0191	
+0192	
+0193	
+0194	
+0195	
+0196	
+0197	
+0198	
+0199	
+019A	
+019B	
+019C	
+019D	
+019E	
+019F	
+01A0	
+01A1	
+01A2	
+01A3	
+01A4	
+01A5	
+01A6	
+01A7	
+01A8	
+01A9	
+01AA	
+01AB	
+01AC	
+01AD	
+01AE	
+01AF	
+01B0	
+01B1	
+01B2	
+01B3	
+01B4	
+01B5	
+01B6	Geber 2 fuer Kraftstoffvorrat-G169
+01B7	Geber 3 fuer Kraftstoffvorrat-G237
+01B8	Geber fuer Kraftstoffvorrat-Zusatztank-G292
+01B9	Geber fuer Schwimmerstand Kraftstoffvorrat-Zusatztank-G293
+01BA	Klemme 87F Kraftstoffpumpe
+01BB	Sicherung Kraftstoffpumpe Zusatztank-S266
+01BC	Ansteuerung Kraftstoffpumpe Zusatztank
+01BD	
+01BE	
+01BF	
+01C0	Pumpe fuer Haldexkupplung -V181
+01C1	Vorladepumpe an
+01C2	Vorladepumpe aus
+01C3	Allradkupplung getrennt
+01C4	Allradkupplung geschlossen
+01C5	Funktionseinschraenkung durch uebertemperatur
+01C6	Allradueberwachung
+01C7	Steuergeraet fuer Zugang und Startberechtigung am Komfort CAN-J518
+01C8	Steuergeraet fuer Zugang und Startberechtigung-J518
+01C9	Steuergeraet fuer Bordnetz-J519
+01CA	Steuergeraet fuer Batterieueberwachung-J367
+01CB	Steuergeraet, Anzeige und Bedieneinheit fuer Information, vorne-J523 
+01CC	Steuergeraet, Anzeige und Bedieneinheit fuer Information, hinten-J524 
+01CD	Steuergeraet fuer Sitzverstellung mit Memory, Beifahrer-J521
+01CE	Steuergeraet fuer Sitzverstellung mit Memory, hinten-J522
+01CF	Steuergeraet fuer Digitales Soundpacket-J525
+01D0	Steuergeraet mit Anzeigeeinheit fuer Radio und Navigation-J503 
+01D1	Steuergeraet fuer Telefon/Telematik-J526
+01D2	Steuergeraet fuer Lenksaeulenelektronik-J527
+01D3	TV-Tuner-R78
+01D4	CD-ROM Laufwerk-R92
+01D5	Datenbus Infotainment im Eindraht
+01D6	Konzern-Datenbus Komfort im Eindraht
+01D7	Steuergeraet fuer EGD elektronisch geregelte Daempfung-J250
+01D8	Steuergeraet fuer Bremskraftverstaerkung-J539 
+01D9	Steuergeraet fuer elektrische Park-/Handbremse-J540   
+01DA	Steuergeraet fuer Wegfahrsperre, keine Kommunikation
+01DB	Steuergeraet fuer Schiebetuer-J558
+01DC	Steuergeraet fuer Kraftstoffpumpe-J538
+01DD	Steuergeraet, Anzeige und Bedieneinheit fuer Informationam Komfort CAN, vorne-J523 
+01DE	Steuergeraet, Anzeige und Bedieneinheit fuer Information am Komfort CAN , hinten-J524 
+01DF	Steuergeraet fuer Fernbedienung-Zentralverriegelung-J276
+01E0	Steuergeraet im Schalttafeleinsatz am Infotainment CAN-J285
+01E1	Steuergeraet fuer Verkehrsfunk-J559
+01E2	Anzeigeeinheit fuer TV und Video, hinten-R97
+01E3	
+01E4	
+01E5	
+01E6	
+01E7	
+01E8	
+01E9	
+01EA	
+01EB	
+01EC	
+01ED	ESP-Sensoreinheit 
+01EE	ESP-Sensoreinheit, falsches Bauteil
+01EF	ESP-Sensoreinheit, Versorgungsspannung
+01F0	Geber fuer Fahrzeugniveau vorne
+01F1	Geber fuer Fahrzeugniveau hinten 
+01F2	Fahrtschreiber
+01F3	Anzeige fuer Bordspannung-Y11
+01F4	Anzeige fuer oeltemperatur-Y12
+01F5	Kontrollampe fuer oelstand-K38
+01F6	Kontrollampe fuer Wegfahrsperre-K115
+01F7	Ansteuerung Ventile Pumpe/Duese
+01F8	Ventil fuer Pumpe/Duese Zylinder 1-N240
+01F9	Ventil fuer Pumpe/Duese Zylinder 2-N241
+01FA	Ventil fuer Pumpe/Duese Zylinder 3-N242
+01FB	Ventil fuer Pumpe/Duese Zylinder 4-N243
+01FC	Ventil fuer Pumpe/Duese Zylinder 5-N244
+01FD	Ventil fuer Pumpe/Duese Zylinder 6-N245
+01FE	
+01FF	Waehlhebel-E313
+0200	Hallgeber nicht auf Bezugsmarke
+0201	Geber fuer Motordrehzahl-G28
+0202	Geber fuer Zuendzeitpunkt-G4
+0203	Hallgeber-G40
+0204	Leerlaufschalter-F60
+0205	Vollastschalter-F81
+0206	Drosselklappenpotentiometer-G69
+0207	Geber fuer Saugrohrdruck-G71
+0208	Luftmassen-/mengenmesser-G70/G19
+0209	CO-Potentiometer-G74
+020A	Geber fuer Kuehlmitteltemperatur-G62
+020B	Geber fuer Ansauglufttemperatur-G42
+020C	Klopfsensor 1-G61
+020D	Lambda-Sonde-G39
+020E	Bremslichtschalter-F
+020F	Geber fuer Saugrohrtemperatur-G72
+0210	Hoehengeber-F96
+0211	Drehzahlinformation fehlt
+0212	Drosselklappensteller/Potentiometer-G88
+0213	Luftmassenmesser Referenzspannung
+0214	Versorgungsspannung
+0215	Leerlaufregelung
+0216	Geber fuer oeltemperatur-G8
+0217	Erste Klopfregelung
+0218	Zweite Klopfregelung
+0219	Lambda-Regelung
+021A	Referenzspannung
+021B	Geber fuer Kraftstofftemperatur-G81
+021C	Klopfsensor 2-G66
+021D	Potentiometer fuer Schieberweg-G99
+021E	Geber fuer Nadelhub-G80
+021F	Drehzahl nach Maximum ueberschritten
+0220	Ladedruck nach Maximum ueberschritten
+0221	Motor/Getriebe elektrische Verbindung
+0222	Datenleitung defekt
+0223	Druckkontrollschalter fuer ABS-F137
+0224	Spannungsversorgung Fehlerspeicher
+0225	Verbrauchssignal
+0226	Spritzbeginnregelung
+0227	Katalysatoruebertemperatur
+0228	Potentiometer fuer Luftmengenmesser-G19
+0229	Luftmassenmesser-G70
+022A	Lambda-Regelung 2
+022B	Lambda-Sonde 2-G108
+022C	Potentiometer fuer Abgasrueckfuehrung-G212
+022D	Druckschalter Servolenkung-F88
+022E	Einstellgrenze Gemischregler mager
+022F	Einstellgrenze Gemischregler fett
+0230	Abgasrueckfuehrungssystem
+0231	Gemischanpassung
+0232	Geber fuer oelstand-/Temperatur-G266
+0233	Anzeige fuer Momentanverbrauch-Y10
+0234	
+0235	Bedienungs-und Anzeigeeinheit fuerClimatronic hinten-E265
+0236	Lenkhilfe-Betrieb
+0237	Ansteuerung Lenkmotor
+0238	Positionssensoren im Lenkmotor
+0239	Strom Lenkmotor
+023A	Relais fuer Lenkmotor-J509
+023B	Lenkkopplung
+023C	Geber fuer Lenkposition-G268
+023D	Geber fuer Lenkmoment-G269
+023E	Antriebsmotor ein
+023F	Saugrohrdruck
+0240	Klemme 15
+0241	Klopfregelung Zylinder 1
+0242	Klopfregelung Zylinder 2
+0243	Klopfregelung Zylinder 3
+0244	Klopfregelung Zylinder 4
+0245	Klopfregelung Zylinder 5
+0246	Klopfregelung Zylinder 6
+0247	Klopfregelung Zylinder 7
+0248	Klopfregelung Zylinder 8
+0249	Temperaturfuehler Abgasrueckfuehrung-G98
+024A	Regelung Abgasrueckfuehrungssystem
+024B	Einstellgrenze Gemischregler
+024C	Zuender fuer Airbag (Fahrerseite)-N95
+024D	Zuender 1 fuer Airbag (Beifahrerseite)-N131
+024E	Zuender 2 fuer Airbag (Beifahrerseite)-N132
+024F	Gurtschalter Fahrerseite-E24
+0250	Gurtschalter Beifahrerseite-E25
+0251	Sitzkontaktschalter Beifahrersitz-F151
+0252	Zuendkreise Airbag
+0253	Crashdaten gespeichert
+0254	Kurzschluss zwischen Ventilleitungen
+0255	Unterschiedliche Raddrehzahlimpulse
+0256	Hydraulisch-/mechanischer Fehler
+0257	Plausibilitaet Druck-/Bremslichtschalter
+0258	Potentiometer-Stellmotor\nfuer Temperaturklappe-G92
+0259	Potentiometer-Stellmotor\nfuer Zentralklappe-G112
+025A	Potentiometer-Stellmotor\nfuer Fussraum-/Defrostklappe-G114
+025B	Stellmotor fuer Fussraum-/Defrostklappe-V85
+025C	Potentiometer-Stellmotor\nfuer Staudruckklappe-G113
+025D	Zweiwegeventil Frisch-/Umluftklappe-N63
+025E	Zweiwegeventil fuer Kuehlmittelabsperrventil-N147
+025F	Aussentemperaturanzeiger-G106
+0260	Geber fuer Beladungszustand-G119
+0261	Zuendausgang 1
+0262	Zuendausgang 2
+0263	Zuendausgang 3
+0264	Zuendausgang 4
+0265	Zuendausgang 5
+0266	Zuendausgang 6
+0267	Zuendausgang 7
+0268	Zuendausgang 8
+0269	Geber fuer Verzoegerung links-Airbag-G104
+026A	Geber fuer Verzoegerung rechts-Airbag-G105
+026B	Geberzuleitung links
+026C	Geberzuleitung rechts
+026D	Ventil fuer Druckminderung-N155
+026E	Kraftstoffilter entwaessern
+026F	ABS/Getriebe elektrische Verbindung
+0270	Klimakompressoreingriff
+0271	Geschwindigkeitssignal
+0272	Kontrollampe fuer Vorgluehzeit-K29
+0273	Geber fuer Wasserstand-G120
+0274	Stellgroessenueberwachung
+0275	Bremspedalschalter-F47
+0276	Klimaanlage eingeschaltet
+0277	Verbindung AC - Motronic
+0278	Klimatronic Kombi Interface
+0279	Leitungen Zuender/Geber fuer Verzoegerung
+027A	Vorwiderstand fuer EDS-N159
+027B	Heizung Lambdasonde vor Katalysator
+027C	Geber fuer Beschleunigung vorn rechts-G121
+027D	Geber fuer Beschleunigung hinten links-G122
+027E	Motor/Getriebe elektrische Verbindung 2
+027F	Geber fuer Verzoegerung-G123
+0280	Relais fuer Heizung Lambdasonde-J278
+0281	ATF Temperatur
+0282	EDS Umschaltventil vorn rechts-N166
+0283	EDS Auslassventil vorn rechts-N167
+0284	EDS Umschaltventil vorn links-N168
+0285	EDS Auslassventil vorn links-N169
+0286	ABS-ASR/Motor elektrische Verbindung 1
+0287	ABS-ASR/Motor elektrische Verbindung 2
+0288	Heizung Lambdasonde nach Katalysator
+0289	Ein-/Auslassventil ABS hinten-N160
+028A	Kupplungspedalschalter-F36
+028B	Leitungen fuer Zuendkreise
+028C	Gangueberwachung
+028D	Plausibilitaet Waehlhebel/Getriebe
+028E	Zuender Gurtstraffer (Fahrerseite)-N153
+028F	Zuender Gurtstraffer (Beifahrerseite)-N154
+0290	Sitzbelegungssensor (Beifahrerseite)-G128
+0291	Stellmotor fuer Mittenausstroemer-V102
+0292	Bedienungseinheit
+0293	Selbsttest
+0294	Kickdownschalter/Drosselklappenpotentiometer
+0295	Temperaturanzeige
+0296	Drehzahlmesser
+0297	Geschwindigkeitsmesser
+0298	Kraftstoffvorratsanzeige
+0299	Kontrollampe fuer Gurtwarnung-K19
+029A	Gong
+029B	Aussentemperatursignal
+029C	Bordspannung Klemme 30
+029D	zweite Fehlerlampe-K97
+029E	Geber fuer Drosselklappensteller-G127
+029F	Schalter fuer GRA-E45
+02A0	Hydraulikpumpe ABS mit Vorwiderstand
+02A1	Bremse betaetigen
+02A2	Bremse loesen
+02A3	Evl:0V   Avl:0V   Rad vorn links blockiert
+02A4	Evl:UBAT   Avl:0V   Rad vorn links blockiert
+02A5	Evl:UBAT   Avl:UBAT   Rad vorn links frei
+02A6	Evl:UBAT   Avl:0V   Rad vorn links frei
+02A7	Heizung Lambdasonde 2 vor Katalysator
+02A8	Evr:0V   Avr:0V   Rad vorn rechts blockiert
+02A9	Evr:UBAT   Avr:0V   Rad vorn rechts blockiert
+02AA	Evr:UBAT   Avr:UBAT   Rad vorn rechts frei
+02AB	Evr:UBAT   Avr:0V   Rad vorn rechts frei
+02AC	Heizung Lambdasonde 2 nach Katalysator
+02AD	Ehl:0V   Ahl:0V   Rad hinten links blockiert
+02AE	Ehl:UBAT   Ahl:0V   Rad hinten links blockiert
+02AF	Ehl:UBAT   Ahl:UBAT   Rad hinten links frei
+02B0	Ehl:UBAT   Ahl:0V   Rad hinten links frei
+02B1	Falschluft im Ansaugsystem
+02B2	Ehr:0V   Ahr:0V   Rad hinten rechts blockiert
+02B3	Ehr:UBAT   Ahr:0V   Rad hinten rechts blockiert
+02B4	Ehr:UBAT   Ahr:UBAT   Rad hinten rechts frei
+02B5	Ehr:UBAT   Ahr:0V   Rad hinten rechts frei
+02B6	Beleuchtung/Schalter und Instrumente
+02B7	EDS-Ventile/Hydraulikpumpe:UBAT\n Rad vorn links/vorn rechts blockiert
+02B8	Ventil fuer Druckminderer links-N170
+02B9	Ventil fuer Druckminderer rechts-N171
+02BA	Steuergeraet erhoehte Stromaufnahme
+02BB	Lambdasonde nach Katalysator-G130
+02BC	Lambdasonde 2 nach Katalysator-G131
+02BD	Kuehlmittel-uebertemperaturtest
+02BE	Geber fuer Kraftstoffzusammensetzung-G133
+02BF	Leerlauferkennung\nDrosselklappenpotentiometer/Leerlaufschalter
+02C0	EDS Ventile/Hydr-P:UBAT-Raeder blockiert
+02C1	Relais fuer Kuehlerluefter Stufe 1 - J279
+02C2	Relais fuer Kuehlerluefter Stufe 2 - J513
+02C3	Ventil fuer Mittelduesen - N236
+02C4	VORSICHT Luefter wird eingeschaltet
+02C5	Fotosensor 2 fuer Sonneneinstrahlung-G134
+02C6	Stellmotor fuer Defrostklappe-V107
+02C7	Stellmotor fuer Fussraumklappe links-V108
+02C8	Stellmotor fuer Fussraumklappe rechts-V109
+02C9	Stellmotor fuer Mittenausstroemer links-V110
+02CA	Stellmotor fuer Mittenausstroemer rechts-V111
+02CB	Stellmotor fuer Fondausstroemer-V112
+02CC	Stellmotor fuer Umluftklappe-V113
+02CD	Stellmotor fuer AKF-Klappe-V114
+02CE	Schalter fuer Duese links oben-F179
+02CF	Schalter fuer Duese rechts oben-F180
+02D0	Schalter fuer Duese links unten-F181
+02D1	Schalter fuer Duese rechts unten-F182
+02D2	Schalter fuer Duese links Mitte-F183
+02D3	Schalter fuer Duese rechts Mitte-F184
+02D4	Schalter fuer Duese Fondraum links-F185
+02D5	Schalter fuer Duese Fondraum rechts-F186
+02D6	Schalter fuer Duese Fondraum Mitte-F187
+02D7	Potentiometer im Stellmotor\nfuer Defrostklappe-G135
+02D8	Potentiometer im Stellmotor\nfuer Mittenausstroemer links-G136
+02D9	Potentiometer im Stellmotor\nfuer Mittenausstroemer rechts-G137
+02DA	Potentiometer im Stellmotor\nfuer Mittenausstroemer-G138
+02DB	Potentiometer im Stellmotor\nfuer Fussraumklappe links-G139
+02DC	Potentiometer im Stellmotor\nfuer Fussraumklappe rechts-G140
+02DD	Potentiometer im Stellmotor\nfuer Fondausstroemer-G141
+02DE	Potentiometer in Mittelduese-G142
+02DF	Potentiometer im Stellmotor\nfuer Umluftklappe-G143
+02E0	Potentiometer im Stellmotor\nfuer AKF-Klappe-G144
+02E1	Ventil fuer Heizungsregelung links-N175
+02E2	Ventil fuer Heizungsregelung rechts-N176
+02E3	Pumpe fuer Kuehlmittelumlauf-V50
+02E4	Geber fuer Zylinder 1 Erkennung-G145
+02E5	Bremspedalueberwachung
+02E6	Fahrbatterie-Belueftungssystem
+02E7	Geber fuer Batteriebelueftung-G146
+02E8	Fahrbatterie-Temperaturregelung
+02E9	Isolationsueberwachung
+02EA	Fahrbatterie Zellenausfall
+02EB	Geber fuer Batterietemperatur vorn-G52
+02EC	Geber fuer Batterietemperatur hinten-G53
+02ED	Lueftungsklappe
+02EE	Fehlerlampe
+02EF	Kapazitaetsanzeige Fahrbatterie
+02F0	Luefter und Batterieheizung
+02F1	Elektrische Verbindungen Raddrehzahlimpulse
+02F24	Heissleuchte
+02F3	Kontrollampe fuer oeldruck-K3
+02F4	Geber fuer Ausstroemtemperatur links-G150
+02F5	Geber fuer Ausstroemtemperatur rechts-G151
+02F6	Sekundaerluftsystem
+02F7	Einsteller fuer Ausstroemtemperatur links-G155
+02F8	Einsteller fuer Ausstroemtemperatur rechts-G156
+02F9	Fehler in Motorsteuergeraet gespeichert
+02FA	Einspritzventil-N181
+02FB	Geber fuer Gasdruck (Fahrerseite)-G147
+02FC	Geber fuer Gasdruck (Beifahrerseite)-G148
+02FD	Geber fuer Regelschieberweg-G149
+02FE	Geber fuer Ausstroemtemperatur vorn-G152
+02FF	Geber fuer Verdampfertemperatur hinten-G153
+0300	Geber fuer Waermetauschertemperatur hinten-G154
+0301	Geber Kuehlmitteltemperatur Motorausgang-G82
+0302	Geber Kuehlmitteltemperatur Kuehlerausgang-G83
+0303	Geber fuer Kraftstoffvorratsanzeige-G
+0304	oeldruckschalter-F22
+0305	Geber fuer oeldruck-G10
+0306	Geber fuer Fahrzeugniveau hinten links-G76
+0307	Geber fuer Fahrzeugniveau hinten rechts-G77
+0308	Geber fuer Fahrzeugniveau vorn links-G78
+0309	Geber fuer Gaspedalstellung-G79
+030A	Geber fuer Lenkwinkel-G85
+030B	Temperaturfuehler Aussentemperatur-G17
+030C	Geber fuer Vertikalbeschleunigung-G90
+030D	Stellmotor vorn links-V76
+030E	Stellmotor vorn rechts-V77
+030F	Stellmotor hinten links-V78
+0310	Stellmotor hinten rechts-V79
+0311	Temperaturfuehler Schalttafel-G56
+0312	Temperaturfuehler Dach-G86
+0313	Temperaturfuehler Frischluftansaugkanal-G89
+0314	Zweiwegeventil Fussraum-Defrostklappe-N118
+0315	Schalter fuer Rueckwaertsfahrt-F41
+0316	Frisch-/Umluftklappe
+0317	Temperaturschalter fuer Verdampfer-E33
+0318	Druckschalter fuer Klimaanlage-F129
+0319	Geber fuer Bremspedalstellung-G100
+031A	Geber fuer Hydraulikpumpe-G101
+031B	Geber fuer Vertikalbeschleunigung hinten-G102
+031C	Geblaese fuer Temperaturfuehler-V42
+031D	Fotosensor fuer Sonneneinstrahlung-G107
+031E	Segmenttest
+031F	Geber fuer Kuehlmitteltemperatur-G110
+0320	Temperaturfuehler Geblaese-G109
+0321	Hochdruckschalter Magnetkupplung-F118
+0322	Niederdruckschalter fuer Klimaanlage-F73
+0323	Geber fuer Federweg vorn rechts-G116
+0324	Geber fuer Federweg vorn links-G115
+0325	Ventil fuer Federbein vorn links-N148
+0326	Ventil fuer Federbein vorn rechts-N149
+0327	Ventil fuer Federbein hinten links-N150
+0328	Ventil fuer Federbein hinten rechts-N151
+0329	Bremskraftverstaerker ESP
+032A	Geber 1/2 fuer Bremsdruck
+032B	System nicht abfragebereit
+032C	Loeseschalter fuer Magnetspule fuer Bremsdruck -F84
+032D	Geber 2 fuer Bremsdruck-G214
+032E	Magnetspule fuer Bremsdruck-N247
+032F	Schalter fuer Bremserkennung-F238
+0330	Sensor fuer Lenkhilfe-G250
+0331	Lenkhilfetemperaturschutz
+0332	Geber fuer Ausstroemtemperatur Verdampfer
+0333	Hochdruckgeber -G65
+0334	Schalter fuer Bremserkennung-F83
+0335	Antenne 2 fuer Radio
+0336	Verbindung vom DSP zum Radio
+0337	Line-Ausgang vorne links
+0338	Kontrollampe fuer ASR-K86
+0339	beheizbarer Fahrersitz
+033A	beheizbarer Beifahrersitz
+033B	Relais fuer Luefter fuer Kuehlmittel
+033C	Relais fuer 3-te Stufe fuer Luefter fuer Kuehlmittel
+033D	Steuergeraet fuer Heizung
+033E	Steuergeraet fuer Verdeckbetaetigung
+033F	Steuergeraet fuer Luefter fuer Kuehlmittel,Stufe 1+2
+0340	Bedienungs-und Anzeigeeinheit
+0341	Signal fuer Ansteuerung beheizbare Frontscheibe
+0342	Signal fuer Ansteuerung beheizbare Heckscheibe
+0343	Verbindung zum Steuergeraet fuer Verdeckbetaetigung
+0344	Ventil 1 fuer Gangwahl-N284
+0345	Ventil 2 fuer Gangwahl-N285
+0346	Ventil 3 fuer Gangwahl-N286
+0347	Ventil 4 fuer Gangwahl-N287
+0348	Relais fuer Hydraulikpumpe Getriebe-J510
+0349	Geber fuer Hydraulikdruck Getriebe-G270
+034A	Steuergeraet fuer elektronisches Schaltgetriebe
+034B	Potentiometer fuer Waehlhebel Vor/Zurueck
+034C	Schalter fuer Gassenerkennung Waehlhebel
+034D	Schalter fuer N-Erkennung Waehlhebel-F258
+034E	Schalter Stop-Erkennung Waehlhebel-F259
+034F	Relais fuer Verbraucherabschaltung-J511
+0350	Schalter fuer Start/Stop Betrieb
+0351	S-Kontakt am Zuendanlasschalter-D
+0352	Steuerausgang Aktivverstaerker, am Radio
+0353	Lautsprecher
+0354	Lautsprecher vorn
+0355	Lautsprecher hinten
+0356	Ausgang Radiodisplay Schalttafeleinsatz
+0357	Verbindung zum CD-Wechsler
+0358	Antenne, am Radio
+0359	CD-Wechsler-R41
+035A	Verbindung ZF-Ausgang Radio zum Antennenverstaerker
+035B	Line-Ausgang vorne rechts
+035C	Line-Ausgang hinten links
+035D	Verbindung zum Rechner fuer Navigation
+035E	Antenne fuer Navigation (GPS)-R50/R52
+035F	Antenne 1 fuer TV-R55
+0360	Antenne 2 fuer TV-R56
+0361	Antenne 3 fuer TV-R57
+0362	Antenne 4 fuer TV-R58
+0363	Verbindung zum ABS-Steuergeraet
+0364	Drehwinkelsensor-G208
+0365	Line-Ausgang hinten rechts
+0366	Tieftonlautsprecher vorn links-R21
+0367	Tieftonlautsprecher vorn rechts-R23
+0368	Tieftonlautsprecher hinten links-R15
+0369	Tieftonlautsprecher hinten rechts-R17
+036A	Hochtonlautsprecher vorn links-R20
+036B	Hochtonlautsprecher vorn rechts-R22
+036C	Hochtonlautsprecher hinten links-R14
+036D	Hochtonlautsprecher vorn rechts-R16
+036E	Verbindungen zu Lautsprechern vorn links
+036F	Verbindungen zu Lautsprechern vorn rechts
+0370	Verbindungen zu Lautsprechern hinten links
+0371	Verbindungen zu Lautsprechern hinten rechts
+0372	Bedienungseinheit fuer Programmwahl-E200
+0373	Zuendanlassschalter -D (Klemme S)
+0374	Zuendanlassschalter -D (Klemme X)
+0375	Zuendanlassschalter -D (Klemme 50)
+0376	Blinkerschalter -E2
+0377	Taster fuer Warnlicht -E229
+0378	Scheibenwischerschalter fuer Intervallbetrieb-E22
+0379	Signalhornbetaetigung-H
+037A	Taster fuer beheizbare Heckscheibe-E230
+037B	Taster Fernentriegelung,Heckklappe-E233
+037C	Taster fuer Entriegelung Heckklappenschliesszylinder-F248
+037D	Taster fuer Entriegelung Heckklappengriff-E234
+037E	Taster fuer Heizung Aussenspiegel-E231
+037F	GRA/ADR Bedienteil-E45
+0380	Schliesseinheit Heckklappe
+0381	Scheibenwaschpumpe-V5
+0382	Ansteuerung Klimakompressor
+0383	Sicherung fuer Wischermotor-S128
+0384	Sicherung fuer Signalhorn/Doppeltonhorn-S194
+0385	Rueckfahrleuchten
+0386	Sicherung fuer Fernentriegel., Heckklappe-S195
+0387	Sicherung fuer Heizung, Aussenspiegel-S196
+0388	Sicherung fuer Magnet fuer Waehlhebelsperre-S197
+0389	Sicherung fuer Rueckfahrleuchten-S40
+038A	Signalhorn/Doppeltonhorn-H1
+038B	Eingriff Lastmanagement
+038C	Steuergeraet fuer Wischermotor
+038D	Scheibenwischermotor-V (Stufe 1/2)
+038E	Kontrollampe fuer Warnblinkanlage-K6
+038F	Kontrollampe beheizbare Heckscheibe-K10
+0390	Schalter fuer Fensterheber vorn links-E40
+0391	Schalter fuer Fensterheber vorn rechts,Fahrer-E81
+0392	Schalter fuer Fensterheber hinten links,Fahrer-E53
+0393	Schalter fuer Fensterheber hinten rechts,Fahrer-E55
+0394	Sperrschalter fuer Fensterheber hinten-E39
+0395	Regler fuer Scheibenwischer-Intervallschaltung
+0396	Klemme 31
+0397	Motor fuer Heckscheibenwischer-V12
+0398	beheizbare Aussenspiegel (Z4/Z5)
+0399	Kontrollampe fuer beheizbaren Aussenspiegel-K153
+039A	Scheibenwischerschalter fuer Intervallbetrieb-E22(Stufe1)
+039B	Scheibenwischerschalter fuer Intervallbetrieb-E22(Stufe2)
+039C	Relais Scheinwerferreinigungsanlage-J39
+039D	Sicherung (30) fuer Innenleuchten-S261
+039E	Klemme 30
+039F	Klemme 30 rechts
+03A0	Schliesseinheit fuer Zentralverriegelung\nFahrerseite-F220
+03A1	Schliesseinheit fuer Zentralverriegelung\nBeifahrerseite-F221
+03A2	Schliesseinheit fuer Zentralverriegelung\nhinten links-F222
+03A3	Schliesseinheit fuer Zentralverriegelung\nhinten rechts-F223
+03A4	Motor Fensterheber Fahrerseite-V147
+03A5	Motor Fensterheber Beifahrerseite-V148
+03A6	Motor Fensterheber hinten links-V26
+03A7	Motor Fensterheber hinten rechts-V27
+03A8	Schalter Fensterheber Beifahrerseite-E107
+03A9	Schalter Fensterheber hinten links-E52
+03AA	Schalter Fensterheber hinten rechts-E54
+03AB	Motor Spiegelverstellung Fahrerseite-V149
+03AC	Motor Spiegelverstellung Beifahrerseite-V150
+03AD	Motor Spiegelanklappung Fahrerseite-V121
+03AE	Motor Spiegelanklappung Beifahrerseite-V122
+03AF	beheizbarer Aussenspiegel FS-Z4
+03B0	beheizbarer Aussenspiegel BFS-Z5
+03B1	Crashsensor fuer Frontairbag-G190
+03B2	Innenleuchte-W
+03B3	Schalter Fernentriegelung Heckklappe-E188
+03B4	Signal Schiebedach schliessen
+03B5	Motor fuer Zentralverriegelung\nHeckklappe-V53,LOCK
+03B6	Motor fuer Zentralverriegelung\nHeckklappe-V53,UNLOCK
+03B7	Relais fuer Motor Fernentriegelung\nHeckklappe-J398
+03B8	Signal Fahrertuer offen
+03B9	Zeitbegrenzung Innenlicht
+03BA	Sperrelais fuer Anlasser-J433
+03BB	Schluessel 1
+03BC	Schluessel 2
+03BD	Schluessel 3
+03BE	Schluessel 4
+03BF	Kontrollampe Zentralverriegelung Safe-K133
+03C0	Schalter Zentralverriegelung Fahrerseite-F59
+03C1	Schalter Zentralverriegelung Beifahrerseite-F114
+03C2	Alarm durch Neigungssensor
+03C3	Signalleitung zum Neigungssensor
+03C4	Signal Fahrertuer offen; Plus
+03C5	Sicherung fuer Alarmhorn-S158
+03C6	Sicherung fuer Blinkleuchten-S151
+03C7	Blinkleuchten links
+03C8	Blinkleuchten rechts
+03C9	Sicherung fuer beheizbare Heckscheibe-S41
+03CA	
+03CB	Relais fuer beheizbare Frontscheibe links-J410
+03CC	Relais fuer beheizbare Frontscheibe rechts-J411
+03CD	Schalter fuer beheizbare Heckscheibe-E15
+03CE	Schalter fuer beheizbare Frontscheibe-E180
+03CF	beheizbare Heckscheibe-Z1
+03D0	Kontrollampe fuer beheizbare Frontscheibe-K122
+03D1	Abblendlicht links + rechts
+03D2	Lampe fuer Abblendlichtscheinwerfer links-M29
+03D3	Lampe fuer Abblendlichtscheinwerfer rechts-M31
+03D4	Sicherung fuer Abblendlicht links-S152
+03D5	Sicherung fuer Abblendlicht rechts-S153
+03D6	Sicherung fuer Standlicht links-S154
+03D7	Sicherung fuer Standlicht rechts-S155
+03D8	Lampe fuer Schlusslicht links-M4
+03D9	Lampe fuer Schlusslicht rechts-M2
+03DA	Sicherung fuer Bremsleuchten-S156
+03DB	Lampe fuer Bremslicht links-M9
+03DC	Lampe fuer Bremslicht rechts-M10
+03DD	Sicherung fuer Verbraucherabschaltung-S157
+03DE	Verbraucherabschaltung
+03DF	Innenbeleuchtung
+03E0	Verbraucherabschaltung aktiv
+03E1	Verbraucherabschaltung inaktiv
+03E2	Geber vordere Hoehenverstellung Fahrersitz-G215
+03E3	Geber hintere Hoehenverstellung Fahrersitz-G216
+03E4	Geber Hoehenverstellung Kopfstuetze Fahrersitz-G217
+03E5	Motor fuer Laengsverstellung Fahrersitz-V28
+03E6	Motor fuer Lehnenverstellung Fahrersitz-V45
+03E7	Motor vordere Hoehenverstellung Fahrersitz-V29
+03E8	Motor hintere Hoehenverstellung Fahrersitz-V30
+03E9	Motor Kopfstuetzenverstellung Fahrersitz-V103
+03EA	Taster vordere Hoehenverstellung auf,Fahrersitz-E208
+03EB	Taster vordere Hoehenverstellung ab,Fahrersitz-E209
+03EC	Taster hintere Hoehenverstellung auf,Fahrersitz-E210
+03ED	Taster hintere Hoehenverstellung ab,Fahrersitz-E211
+03EE	Taster Laengsverstellung vor,Fahrersitz-E212
+03EF	Taster Laengsverstellung zurueck,Fahrersitz-E213
+03F0	Hinweis:Notausschalter betaetigt!
+03F1	Geber Laengsverstellung,Fahrersitz-G218
+03F2	Geber Lehnenverstellung,Fahrersitz-G219
+03F3	Taster Kopfstuetzenverstellung auf,Fahrersitz-E214
+03F4	Taster Kopfstuetzenverstellung ab,Fahrersitz-E215
+03F5	Klimakompressor Lastsignal
+03F6	Endstufe fuer Luefterthermostat
+03F7	Kuehlerlueftersteuerung
+03F8	Luftablassventil Gasfederdaempfung-N106
+03F9	Kompressor fuer Gasfederdaempfung-V65
+03FA	Luefter fuer Kuehlmittel-V7
+03FB	Relais
+03FC	Wasserpumpe-V36
+03FD	Kontrollampe fuer Differentialsperre-K81
+03FE	Innenleuchte, Kombibild aktiviert
+03FF	Summer/Gong-H3
+0400	Regensensor -G213
+0401	Ansteuerung Fehlerlampe defekt
+0402	Geblaese fuer Verdampfer hinten-V20
+0403	Warmluftgeblaese hinten-V47
+0404	Relais fuer Geblaese-J323
+0405	Relais fuer Klimaanlage-J32
+0406	Schluesseltaster Zentralverriegelung\nFahrerseite,verriegeln
+0407	Schluesseltaster Zentralverriegelung\nFahrerseite,entriegeln
+0408	Schluesseltaster Zentralverriegelung\nBeifahrerseite,verriegeln
+0409	Schluesseltaster Zentralverriegelung\nBeifahrerseite,entriegeln
+040A	Fensterheber Thermoschutz aktiv,Fahrer
+040B	Fensterheber Thermoschutz aktiv,Beifahrer
+040C	Fensterheber Thermoschutz aktiv,hinten links
+040D	Fensterheber Thermoschutz aktiv,hinten rechts
+040E	Zentralverriegelung Thermoschutz
+040F	Geber fuer Kuehlmitteltemperaturanzeige-G2
+0410	ABS/Getriebe elektrische Verbindung 2
+0411	ASR-Funktion unplausibel
+0412	Steuergeraet nicht codiert
+0413	Steuergeraet: falsche Softwareversion
+0414	Steuergeraet falsch codiert
+0415	Schalter fuer Tiptronic-F189
+0416	Kontrollampe fuer Bremsbelag-K32
+0417	Kontrollampe fuer Zweikreis-und Handbremsanlage-K7
+0418	Kontrollampe fuer Dieselelektronik-K104
+0419	Bordspannung Klemme 50
+041A	Gluehkerzenueberwachung
+041B	Stellmotor Kraftstoffmengenregelung-V117
+041C	Potentiometer fuer Lastsignal-G157
+041D	Ventil fuer Einspritzbeginn-N182
+041E	Relais fuer Spannungsversorgung Klemme 30-J317
+041F	Geber fuer Kraftstoffoerderbeginn-G158
+0420	Funktion:Ausgleichsladung
+0421	Funktion:Spannungs-Konstantladung
+0422	Funktion:Strom-Konstantladung
+0423	Geber fuer Rotorlage-G159
+0424	Geber fuer Wicklungstemperatur Nutgrund-G160
+0425	Geber fuer Wicklungstemperatur Wickelkopf-G161
+0426	Signal fuer Batteriestromreduzierung
+0427	Schalter fuer E-Erkennung Waehlhebel-F271
+0428	Klemme 58d - Dimmung Innenlicht
+0429	Verbindung RNS zum TV-Antennenverstaerker
+042A	 
+042B	Ventil fuer Abschaltung 2. Waermetauscher-N317
+042C	Relais fuer Hydraulikpumpe Kupplungssteller -J498
+042D	Drucksystem Bremskraftverstaerker
+042E	Relais fuer Anlasser-J53
+042F	Geber fuer Kupplungsweg-G162
+0430	Unterdruckventil fuer Kupplungssteller-N183
+0431	Drucksystem Kupplung
+0432	Belueftungsventil fuer Kupplungssteller-N184
+0433	Relais fuer Unterdruckpumpe-J318
+0434	Relais fuer Hydraulikpumpe Kupplung-J319
+0435	Unterdruckschalter Bremskraftverstaerker-F190
+0436	Schalter fuer Gangbetaetigung-F191
+0437	Relais fuer Lenkungshydraulik-J320
+0438	Schalter Servolenkungsunterstuetzung-F192
+0439	Vorrangschaltventil-N185
+043A	Kontrollampe fuer Kraftstoffreserve-K105
+043B	Kontrollampe fuer Waschwassermangel-K106
+043C	Kontrollampe fuer Temperatur-Warnung 0°C-K107
+043D	Kontrollampe fuer Temperatur-Warnung 4°C-K108
+043E	Geber fuer Geschwindigkeitsmesser-G22
+043F	Grundeinstellung nicht durchgefuehrt
+0440	Gemischanpassung 2
+0441	Schalter fuer Spannbuegel abgelegt-F204
+0442	Schalter fuer Spannbuegel angehoben-F203
+0443	Schalter fuer Verdeck vorn-F202
+0444	Schalter fuer Verdeck abgelegt-F171
+0445	Schalter fuer Verdeckkastendeckel oben-F201
+0446	Schalter 3 Verdeckkastendeckel links-F195
+0447	Schalter 2 Verdeckkastendeckel links-F197
+0448	Schalter 1 Verdeckkastendeckel links-F199
+0449	Schalter fuer Verdeck verriegelt-F172
+044A	Schalter fuer Heckklappe zu-F206
+044B	Schalter fuer Kofferraum verriegelt
+044C	Schalter fuer Kofferraum entriegelt
+044D	Schalter fuer Entriegelungssperre-F205
+044E	Schalter 3 Verdeckkastendeckel rechts-F196
+044F	Schalter 2 Verdeckkastendeckel rechts-F198
+0450	Schalter 1 Verdeckkastendeckel rechts-F200
+0451	Magnetventil 8-N186
+0452	Relais fuer Fensterheber absenken-J291
+0453	Kontrolleuchte fuer Verdeck-K98
+0454	Relais fuer Fensterheber anheben-J292
+0455	Relais fuer Hydraulikpumpe-J321
+0456	Magnet fuer Entriegelungssperre-N187
+0457	Stellmotor 1 fuer Kofferraumschloss
+0458	Stromversorgung fuer Stellmotor 1 und 2
+0459	Stellmotor 2 fuer Kofferraumschloss
+045A	Schalter fuer Handbremskontrolle-F9
+045B	Keine Anzeige im Display
+045C	Stellmotor fuer Verdeckentriegelung
+045D	Belastungssignal fuer Generatorklemme DF
+045E	Motorvorwaermung
+045F	Signal fuer Gangerkennung
+0460	Nockenwellenverstellung 1
+0461	Nockenwellenverstellung 2
+0462	Hallgeber 2-G163
+0463	Ansteuerung fehlerhaft
+0464	Ladezeitueberwachung
+0465	Saugrohrumschaltung
+0466	Signal fuer Motordrehzahl
+0467	Kontrollampe fuer Kraftstoffreserve-K16
+0468	Lesespule fuer Wegfahrsicherung-D2
+0469	S-Kontakt
+046A	ABS-Betrieb
+046B	Ansteuerung Blinkleuchten
+046C	Infrarotsensor vorn-G166
+046D	Infrarotsensor hinten-G167
+046E	Alarmhorn-H12
+046F	Sensoren fuer Innenraumueberwachung
+0470	Anlasser Startunterbrechung
+0471	Schalter fuer Zentralverriegelung;\nVerriegelungskontakte
+0472	Schalter fuer Zentralverriegelung;\nFahrertuer Entriegelung
+0473	Schalter fuer Zentralverriegelung;\nBeifahretuer Entriegelung
+0474	Schalter fuer Zentralverriegelung;\nHeckklappe Entriegelung
+0475	Schalter fuer Heckklappenentriegelung-E165
+0476	Motoren fuer Zentralverriegelung;\nFahrertuer und Tankventil zu
+0477	Motoren fuer Zentralverriegelung;\nFahrertuer und Tankventil auf
+0478	Motor fuer Zentralverriegelung;\nBeifahrertuer oeffnen
+0479	Motoren fuer Zentralverriegelung;\nhintere Tueren oeffnen
+047A	Motoren fuer Zentralverriegelung;\nBeifahrer-und hintere Tueren zu
+047B	Motor fuer Heckklappenverriegelung-V120
+047C	Aktivierung der Safe Sicherung Tueren
+047D	Deaktivierung der Safe Sicherung Tueren
+047E	Analoganzeigen
+047F	Sperrschalter fuer Dieselmotor-F207
+0480	Schalter fuer Gangueberwachung-F209
+0481	Schalter fuer Ecomatic-E163
+0482	Druckschalter fuer Kupplungssystem-F210
+0483	Kupplung
+0484	Schalter fuer Gangerkennung-F208
+0485	Versorgungsspannung fuer Alarmhorn
+0486	Versorgungsspannung fuer Blinkleuchten
+0487	Leitungen fuer Safe Sicherung
+0488	Relais fuer Gluehkerzen-Kuehlmittel-J325
+0489	Endstufe Nockenwellensteuerungsventil
+048A	Verbrennungsaussetzer
+048B	Zuenddurchschlag
+048C	ESP-Betrieb
+048D	Drosselklappensteuereinheit-J338
+048E	Signal fuer Motormoment
+048F	Ventil fuer Vollastanschlag-N194
+0490	Ventil fuer Leerlaufdrehzahlanhebung-N177
+0491	Tuerkontaktschalter Fahrerseite-F2
+0492	Geber fuer Einspritzdauer-G175
+0493	Temperaturfuehler Beifahrersitz-G60
+0494	Temperaturfuehler Fahrersitz-G59
+0495	Motor fuer Laengsverstellung Fahrersitz-V28
+0496	Motor fuer Hoehenverstellung Fahrersitz-V138
+0497	Einsteller fuer beheizbaren Fahrersitz-E94
+0498	Schluessel
+0499	Motorsteuergeraet
+049A	
+049B	Schluesselprogrammierung falsch
+049C	Motor/Klimakompressorabschaltung\nelektrische Verbindung
+049D	Initialisierung: nur 2 Schluessel gelernt
+049E	Hoehenadaption
+049F	Kontrollampe fuer Katalysator-K72
+04A0	Geber fuer Ausstroemtemperatur hinten-G174
+04A1	Frischluftgeblaese hinten-V80
+04A2	Stellmotor fuer Luftverteilung hinten-V136
+04A3	Stellmotor fuer Temperaturklappe hinten-V137
+04A4	Steuergeraet/Magnetkupplung-elektrische Verbindung
+04A5	Stellmotor fuer Luftverteilung vorn-V145
+04A6	Steuergeraet/Stellmotoren-elektrische Verbindung
+04A7	Motoren fuer Sitzverstellung
+04A8	Kupplung fuer Wandlerueberbrueckung
+04A9	Relais fuer kleine Heizleistung-J359
+04AA	Relais fuer grosse Heizleistung-J360
+04AB	ENDE
+04AC	Motor/Getriebe - Datenbus
+04AD	Datenbus Antrieb falscher Softwarestand
+04AE	Datenbus Komfort falscher Softwarestand
+04AF	Motor/ABS - elektrische Verbindung
+04B0	Versorgungsspannung fuer ABS-Ventile
+04B1	Versorgungsspannung fuer ABS-Pumpe
+04B2	Diagnoseleitung
+04B3	ABS/Schalttafeleinsatz elektrische Verbindung
+04B4	Geber fuer Motortemperatur-G27
+04B5	Relais fuer Climatronic-J254
+04B6	Signal fuer Zeitspanne Zuendung aus
+04B7	Steuergeraet fuer Zusatzheizung
+04B8	Datensaetze im Steuergeraet veraendert
+04B9	Drehzahlsignal Generatorklemme W
+04BA	Steuergeraet lernt Verstellbereich
+04BB	Zuender fuer Gurtstraffer hinten,Fahrerseite-N196
+04BC	Zuender fuer Gurtstraffer hinten,Beifahrerseite-N197
+04BD	Zuender fuer Gurtstraffer hinten Mitte-N198
+04BE	Crashdaten Gurtstraffer gespeichert
+04BF	Sitzbelegungssensor hinten,Fahrerseite-G177
+04C0	Sitzbelegungssensor hinten,Beifahrerseite-G178
+04C1	Zuender Seitenairbag Fahrerseite-N199
+04C2	Zuender Seitenairbag Beifahrerseite-N200
+04C3	Zuender Seitenairbag hinten,Fahrerseite-N201
+04C4	Zuender Seitenairbag hinten,Beifahrerseite-N202
+04C5	Crashsensor Seitenairbag\nFahrerseite-G179
+04C6	Crashsensor Seitenairbag\nBeifahrerseite-G180
+04C7	Signal Zentralverriegelung oeffnen
+04C8	Steuergeraet passt nicht zum Fahrzeug
+04C9	Funkempfaenger Standheizung-R64
+04CA	Crashdaten Seitenairbag gespeichert,Fahrerseite
+04CB	Crashdaten Seitenairbag gespeichert,Beifahrerseite
+04CC	Schluesselschalter Abschaltung Airbag, Beifahrerseite-E224
+04CD	Geber fuer Luftfeuchtigkeit,Klimaanlage-G260
+04CE	Geber fuer Ausstroemtemperatur Fussraum links-G261
+04CF	Geber fuer Ausstroemtemperatur Fussraum rechts-G262
+04D0	Regelventil fuer Kompressor,Klima-N280
+04D1	Absperrventil fuer Kuehlmittel ,Heizung-N279
+04D2	Steuergeraet fuer beheizbare Frontscheibe-J505
+04D3	Sekundaerlufteinblasventil-N112
+04D4	Magnet fuer Waehlhebelsperre-N110
+04D5	Kraftstoffabschaltventil-N109
+04D6	Zuendwinkelverstellung
+04D7	Belueftungsventil Drosselklappensteller-N97
+04D8	Entlueftungsventil Drosselklappensteller-N117
+04D9	Magnetventil 2 fuer Aktivkohlebehaelter-N115
+04DA	Endstufen im Steuergeraet
+04DB	Ventil Registersaugrohrumschaltung-N156
+04DC	Steuergeraet Lambda-Sondenheizung-J208
+04DD	Drucksteller-N73
+04DE	Relais fuer Ansaugrohrvorwaermung-J81
+04DF	Magnetventil 1 fuer Aktivkohlebehaelter-N80
+04E0	Zweiwegeventil-Vollastanreicherung-N54
+04E1	Einspritzventil Zylinder 1-N30
+04E2	Einspritzventil Zylinder 2-N31
+04E3	Einspritzventil Zylinder 3-N32
+04E4	Einspritzventil Zylinder 4-N33
+04E5	Einspritzventil Zylinder 5-N83
+04E6	Einspritzventil Zylinder 6-N84
+04E7	Einspritzventil Zylinder 7-N85
+04E8	Einspritzventil Zylinder 8-N86
+04E9	Ventil fuer Leerlaufstabilisierung-N71
+04EA	Luftklappensteller-V63
+04EB	Kraftstoffpumpenrelais-J17
+04EC	Ventil fuer Schubabschaltung-N65
+04ED	Taktventil fuer Lambdaregelung-N7
+04EE	Magnetventil Ladedruckbegrenzung-N75
+04EF	Kaltstartventil-N17
+04F0	Relais fuer Sekundaerluftpumpe-J299
+04F1	Ventil fuer Abgasrueckfuehrung-N18
+04F2	Relais fuer Gluehkerzen-J52
+04F3	Steuergeraet fuer Gluehzeitautomatik-J179
+04F4	Mengensteller-N146
+04F5	Ventil fuer Einspritzbeginn-N108
+04F6	Magnetkupplung fuer Klimaanlage-N25
+04F7	Stellmotor fuer Temperaturklappe-V68
+04F8	Stellmotor fuer Zentralklappe-V70
+04F9	Frischluftgeblaese-V2
+04FA	Stellmotor fuer Staudruckklappe-V71
+04FB	Schluesselschalter Abschaltung Seitenairbags hinten-E280
+04FC	Hydraulikpumpe ABS-V64
+04FD	Relais fuer Hydraulikpumpe ABS-J185
+04FE	Abschaltrelais fuer EDS-J263
+04FF	Geber fuer Laengsbeschleunigung -G251   
+0500	Airbag Beifahrerseite abgeschaltet
+0501	Airbag Fahrerseite abgeschaltet
+0502	Umschaltventil fuer Saugrohrklappe-N239
+0503	Motor fuer Saugrohrklappe-V157
+0504	Seitenairbag Fahrerseite abgeschaltet
+0505	Seitenairbag Beifahrerseite abgeschaltet
+0506	Gurtstraffer FAhrerseite abgeschaltet
+0507	Gurtstraffer Beifahrerseite abgeschaltet
+0508	Klemme 30 Lenkhilfe
+0509	Klemme 15 Lenkhilfe
+050A	Referenzspannung Lenkhilfe
+050B	Schluesselsch. Abschaltung Seitenairbag hinten, Fahrerseite-E295
+050C	Schluesselsch. Abschaltung Seitenairbag hinten, Beifahrers.-E296
+050D	Kontrollampe fuer Seitenairbag aus, hinten Fahrerseite-K167
+050E	Kontrollampe fuer Seitenairbag aus, hinten Beifahrerseite-K168
+050F	Steuergeraet im Schalttafeleinsatz falsch kodiert
+0510	Geber fuer Ausstroemtemperatur Mitte-G191
+0511	Geber fuer Ausstroemtemperatur Fussraum-G192
+0512	Kontrollampentest Kombiinstrument
+0513	Diagnose-Interface fuer Datenbus-J533
+0514	Steuergeraet fuer Navigation mit CD Laufwerk-J401
+0515	Steuergeraet fuer Spracheingabe-J507
+0516	Steuergeraet fuer Telematik-J499
+0517	Sende- und Empfangsgeraet fuer Telefon
+0518	Radio
+0519	Datenbus Infotainment
+051A	schneller Datenbus Display
+051B	LWL-Datenbus Display
+051C	Steuergeraet fuer Dachelektronik-J528
+051D	Steuergeraet fuer Lenkhilfe-J500
+051E	Steuergeraet fuer Niveauregelung-J197
+051F	Daten-BUS Information
+0520	Daten-BUS Antrieb
+0521	Daten-BUS Antrieb im Notlauf
+0522	Motorsteuergeraet
+0523	Getriebesteuergeraet
+0524	Bremsensteuergeraet
+0525	Steuergeraet im Schalttafeleinsatz-J285
+0526	Steuergeraet fuer Einspritzpumpe-J399
+0527	Steuergeraet fuer Abstandsregelung-J428
+0528	Steuergeraet fuer Climatronic-J255
+0529	Steuergeraet fuer Airbag-J234
+052A	Steuergeraet fuer Multifunktionseinheit
+052B	Steuergeraet fuer automatische Kupplung
+052C	Steuergeraet fuer Allradantrieb
+052D	Steuergeraet fuer Reifendruckueberwachung
+052E	Steuergeraet fuer Multifunktionslenkrad
+052F	Steuergeraet fuer Einparkhilfe
+0530	Daten-BUS Komfort
+0531	Daten-BUS Komfort im Notlauf
+0532	Zentralsteuergeraet f.Komfortsystem -J393
+0533	Tuersteuergeraet Fahrerseite-J386
+0534	Tuersteuergeraet Beifahrerseite-J387
+0535	Tuersteuergeraet hinten links-J388
+0536	Tuersteuergeraet hinten rechts-J389
+0537	Steuergeraet fuer Sitz-/Spiegelposition Fahrer-J543
+0538	Konzern-Datenbus Komfort
+0539	Tuerinnengriffbeleuchtung
+053A	Signal Tueren nicht geschlossen
+053B	Ausstiegswarnleuchte
+053C	Spiegelverstellschalter
+053D	Steuergeraet im Schalttafeleinsatz am Komfort CAN-J285
+053E	Motorsteuergeraet 2 (Slave 1)
+053F	Motorsteuergeraet 3 (Slave 2)
+0540	Gasentladungslampe
+0541	Zuendmodul fuer Gasentladungslampe
+0542	Leitung zum Zuendmodul
+0543	Leitung zur Gasentladungslampe
+0544	Kontrollampe fuer Innenraumueberwachungsabschaltung-K162
+0545	Alarm durch Sensor fuer Diebstahlwarnanlage vorne
+0546	Alarm durch Sensor fuer Diebstahlwarnanlage hinten
+0547	Leitung fuer Kommunikation auf Masse
+0548	Leitung fuer Taktsignal vorne, 5V Pegel
+0549	Leitung fuer Taktsignal hinten, 5V Pegel
+054A	Freigabesignal Wegfahrsperre
+054B	Signal;alle Fenster oeffnen
+054C	Signal;alle Fenster und Schiebedach schliessen
+054D	Motor fuer Tankdeckelverriegelung-V155
+054E	Schalter fuer Innenverriegelung,Fahrerseite-E150
+054F	Schalter fuer Innenverriegelung,Beifahrerseite-E198
+0550	Schalter fuer Diebstahlwarnanlage oeffnen
+0551	Schalter fuer Diebstahlwarnanlage schliessen
+0552	Schalter fuer Heckklappe schliessen-F124
+0553	Schalter fuer Zentralverriegelung; Fahrertuer-F59
+0554	Schalter fuer Zentralverriegelung; Beifahrertuer-F114
+0555	Lock/Unlock Schalter/Verriegelungstaster innen
+0556	oeffnung durch Crash-Signal
+0557	Abschaltung der Pumpe fuer Zentralverriegelung
+0558	Alarm durch Schalter Kofferraum
+0559	Alarm durch Schalter Motorhaube
+055A	Alarm durch Innenraumueberwachung
+055B	Alarm durch Tuerkontaktschalter Fahrerseite
+055C	Alarm durch Tuerkontaktschalter hinten/Beifahrerseite
+055D	Alarm durch Massekontakt Radio
+055E	Alarm durch Klemme 15
+055F	Ventile fuer Motorlagerung Stufe 1
+0560	Drehzahlsignal fuer Einspritzpumpe
+0561	Ultraschallsensor links fuer Diebstahlwarnanlage-G170
+0562	Ultraschallsensor rechts fuer Diebstahlwarnanlage-G171
+0563	Schalter fuer Innenraumueberwachung-E183
+0564	Alarm durch Sensor fuer Diebstahlwarnanlage hinten links
+0565	Alarm durch Sensor fuer Diebstahlwarnanlage hinten rechts
+0566	Alarm durch Sensor fuer Diebstahlwarnanlage vorn links
+0567	Alarm durch Sensor fuer Diebstahlwarnanlage vorn rechts
+0568	Alarm durch Glasbruchsensoren
+0569	Kontrollampe fuer Alarmanlage-K95
+056A	Alarmausloesung erzeugen
+056B	Leitung fuer Spannungsversorgung
+056C	Leitung fuer Taktsignal
+056D	Schalter fuer Heckklappe oeffnen-F124
+056E	Innenraumueberwachung aktivieren
+056F	Crashsignal simulieren
+0570	naechstes Stellglied: --> betaetigen
+0571	Geber fuer Niveauregelung-G84
+0572	Kontrollampe fuer Niveauregelung-K134
+0573	Motor fuer Kompressor-Niveauregelung-V66
+0574	Ventile fuer Federbeine h-N150/151
+0575	Ablassmagnetventil Niveauregelung-N111
+0576	Signalleitung von Zentralverriegelung: Tueren auf
+0577	Relais fuer Kompressor-Niveauregelung-J403
+0578	Niveauregelung
+0579	>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+057A	Datenleitung von Navigation
+057B	Glasbruchsensoren hinten
+057C	Ventile fuer Motorlagerung Stufe 2
+057D	Ventil 2 fuer Abgasrueckfuehrung-N213
+057E	keine Flammenbildung
+057F	Flammenabbruch
+0580	Unterspannungsabschaltung (Festwert)
+0581	wiederholte Flammenunterbrechung
+0582	Heizgeraet ueberhitzt
+0583	Temperaturfuehler-G18
+0584	Gluehkerze mit Flammenueberwachung-Q8
+0585	Dosierpumpe-V54
+0586	Verbrennungsluftgeblaese-V6
+0587	Umwaelzpumpe-V55
+0588	Signal fuer Ansteuerung Frischluftgeblaese
+0589	Signal fuer Ansteuerung Wasserheizung
+058A	Schaltventil 1 fuer Fahrdynamikregelung-N225
+058B	Schaltventil 2 fuer Fahrdynamikregelung-N226
+058C	Hochdruckschaltventil 1 fuer Fahrdynamikregelung-N227
+058D	Hochdruckschaltventil 2 fuer Fahrdynamikregelung-N228
+058E	Hydraulikpumpe fuer Fahrdynamikregelung-V156
+058F	Sensor fuer Querbeschleunigung-G200
+0590	Geber fuer Drehrate-G202,Signalleitung 
+0591	Geber fuer Drehrate-G202, Referenzleitung 
+0592	Bedienungseinheit im Lenkrad-E221
+0593	Radio lauter
+0594	Radio leiser
+0595	Suchlauf Radiosender aufwaerts
+0596	Suchlauf Radiosender abwaerts
+0597	Telefonspeicher
+0598	naechster Telefonspeicher
+0599	Lautsprecher Telefon/Navigation-R39
+059A	Relais fuer Bremslichtunterdrueckung ESP-J508
+059B	Geber 1 fuer Bremsdruck-G201
+059C	Bremsfluessigkeitsstand zu niedrig
+059D	Regellage nicht gelernt
+059E	Fahrzeug wird angehoben
+059F	Schraeglage pruefen
+05A0	Kraftstoffuellstandssignal
+05A1	Geber fuer Kraftstoffmangel-G210
+05A2	Aussetzer durch Kraftstoffmangel
+05A3	Anpassung an Batterie nicht erfolgt
+05A4	Unterspannungsabschaltung (Automatik)
+05A5	Geber fuer Laengsverstellung,Fahrersitz-G227
+05A6	Geber fuer Lehnenverstellung,Fahrersitz-G230
+05A7	Geber fuer Hoehenverstellung,Fahrersitz-G231
+05A8	Geber fuer Neigungsverstellung,Fahrersitz-G232
+05A9	Schalter fuer Neigungsverstellung Fahrersitz-E222,zurueck
+05AA	Schalter fuer Neigungsverstellung Fahrersitz-E222,vor
+05AB	Schalter fuer Laengs- und Hoehenverstellung-E61,auf
+05AC	Schalter fuer Laengs- und Hoehenverstellung-E61,ab
+05AD	Schalter fuer Laengs- und Hoehenverstellung-E61,vor
+05AE	Schalter fuer Laengs- und Hoehenverstellung-E61,zurueck
+05AF	Schalter fuer Lehnenverstellung-E96,vor
+05B0	Schalter fuer Lehnenverstellung-E96,zurueck
+05B1	Signal fuer Spiegelposition
+05B2	Signal von Zentralverriegelung
+05B3	Taster Fahrer 1/Memorysitz-E218
+05B4	Taster Fahrer 2/Memorysitz-E219
+05B5	Taster Fahrer 3/Memorysitz-E220
+05B6	Ultraschallsensor fuer Diebstahlwarnanlage-G209
+05B7	Alarm durch Sensor fuer Diebstahlwarnanlage
+05B8	Geber fuer Bremsdruck/Querbeschleunigung
+05B9	Signalleitung vom Kombiinstrument
+05BA	Signalleitung zum Kombiinstrument
+05BB	Sensor fuer Reifendruck vorn links-G222
+05BC	Sensor fuer Reifendruck vorn rechts-G223
+05BD	Sensor fuer Reifendruck hinten links-G224
+05BE	Sensor fuer Reifendruck hinten rechts-G225
+05BF	Sensor fuer Reifendruck Reserverad-G226
+05C0	Antenne fuer Reifendruckueberwachung vorn links-R59
+05C1	Antenne fuer Reifendruckueberwachung vorn rechts-R60
+05C2	Antenne fuer Reifendruckueberwachung hinten links-R61
+05C3	Antenne fuer Reifendruckueberwachung hinten rechts-R62
+05C4	Antenne Reifendruckueberwachung Reserverad-R63
+05C5	System abgeschaltet
+05C6	ueberwachung Reserverad abgeschaltet
+05C7	Geber fuer Kopfstuetzenverstellung-G129
+05C8	Schalter fuer Kopfstuetzenverstellung-E155, auf
+05C9	Schalter fuer Kopfstuetzenverstellung-E155, ab
+05CA	Motoren fuer Zentralverriegelung
+05CB	Ansteuerung Heckdeckelfernentriegelung
+05CC	Schluesseltaster ZV verriegeln
+05CD	Schluesseltaster ZV entriegeln
+05CE	Systemfunktionstest aktiviert
+05CF	Systemfunktionstest 
+05D0	Geber fuer Kuehlmitteltemperatur - Heizung-G241
+05D1	ueberhitzungsfuehler-G189
+05D2	Flammenwaechter-G64
+05D3	Gluehkerze fuer Heizung-Q9
+05D4	Funktionssperre
+05D5	Lampe fuer Blinklicht vorne links-M5
+05D6	Lampe fuer Standlicht links-M1
+05D7	Lampe fuer Fernlichtscheinwerfer links-M30
+05D8	Lampe fuer Nebelscheinwerfer links-L22
+05D9	Lampe fuer Blinklicht vorne rechts-M7
+05DA	Lampe fuer Standlicht rechts-M3
+05DB	Lampe fuer Fernlichtscheinwerfer rechts-M32
+05DC	Lampe fuer Nebelscheinwerfer rechts-L23
+05DD	Lampe fuer Blinklicht hinten links-M6
+05DE	Lampe fuer Nebelschlussleuchte links-L46
+05DF	Lampe fuer hochgesetzte Bremsleuchte-M25
+05E0	Kennzeichenleuchte-X
+05E1	Lampe fuer Blinklicht hinten rechts-M8
+05E2	Lampe fuer Nebelschlussleuchte rechts-L47
+05E3	Initialisierung nicht erfolgreich
+05E4	Abschaltung da Endlage nicht erreicht
+05E5	Spoiler nicht ausgefahren bei Geschwindigkeit groesser Warnschwelle
+05E6	Spoiler nicht ausgefahren bei Geschwindigkeit groesser Alarmschwelle
+05E7	Schalter fuer Heckspoiler verfahren
+05E8	Steuergeraet fuer Schiebedach
+05E9	Schiebeaufstelldach kann nicht senken
+05EA	Regler fuer Schiebedachverstellung
+05EB	Freigabesignal vom Komfortsystem
+05EC	Klemme 30 links
+05ED	Steuergeraet fuer Anhaengererkennung-J345
+05EE	Lampe fuer Rueckfahrtlicht links-M16
+05EF	Lampe fuer Rueckfahrtlicht rechts-M17
+05F0	Steuergeraet fuer Regen- und Lichterkennung-J520
+05F1	Sensor fuer Reifendruck
+05F2	Bedienhoerer fuer Telefon-R37
+05F3	Mikrofon fuer Telefon-R38
+05F4	Antenne fuer Telefon
+05F5	Telefonkarte fuer Telematik
+05F6	Taster fuer Notruf-E276
+05F7	Taster fuer Pannenruf-E275
+05F8	Zusatzantenne fuer Telematik-R90
+05F9	Zusatzlautsprecher fuer Telematik-R91
+05FA	Stummschaltung Radio
+05FB	Notbatterie
+05FC	Signalleitung zum Kombi
+05FD	Kl. 56 (Scheinwerferlicht)
+05FE	Ansteuerung Stellmotor fuer Leuchtweitenregelung links-V48
+05FF	Ansteuerung Stellmotor fuer Leuchtweitenregelung rechts-V49
+0600	Fahrzeug wird abgesenkt
+0601	Geber fuer Fahrzeugniveau-Versorgungsspannung
+0602	Stellmotoren fuer Leuchtweitenregulierung-V48/V49
+0603	Scheinwerfer wurden nicht justiert
+0604	Scheinwerfer werden gesenkt
+0605	Scheinwerfer werden angehoben
+0606	Geber fuer Drehrate-G202
+0607	Warnsummer fuer Einparkhilfe-H15
+0608	Kontrollampe fuer Einparkhilfe-K136
+0609	Geber fuer Einparkhilfe hinten links-G203
+060A	Geber fuer Einparkhilfe hinten links mitte-G204
+060B	Geber fuer Einparkhilfe hinten rechts mitte-G205
+060C	Geber fuer Einparkhilfe hinten rechts-G206
+060D	Versorgungsspannung fuer Geber Einparkhilfe
+060E	Signal fuer Rueckwaertsgang
+060F	Signal zum Schliessen Zentralverriegelung
+0610	Motor fuer Zentralverriegelung-Fahrertuer-V56,LOCK
+0611	Motor fuer Zentralverriegelung-Beifahrertuer-V57,LOCK
+0612	Motoren fuer Zentralverriegelung-Tueren hinten,LOCK
+0613	Motoren fuer Zentralverriegelung,SAVE
+0614	Motoren fuer Zentralverriegelung,UNLOCK
+0615	Kontaktschalter im Schliesszylinder\nFahrerseite-F241,oeffnen
+0616	Kontaktschalter im Schliesszylinder\nFahrerseite-F241,schliessen
+0617	Fahrertuer
+0618	Beifahrertuer
+0619	Tuer hinten links
+061A	Tuer hinten rechts
+061B	Schalter fuer Innenverriegelung\nFahrerseite-E150,LOCK
+061C	Schalter fuer Innenverriegelung\nFahrerseite-E150,UNLOCK
+061D	Kofferraumleuchte-W3
+061E	Signal fuer Innenraumueberwachung aktivieren
+061F	Kontaktschalter fuer Diebstahlwarnanlage-F120
+0620	Signal fuer Komfortoeffnung
+0621	Signal fuer Komfortschliessung
+0622	Abschaltverzoegerung Klemme 15
+0623	Signal fuer Sitzmemory
+0624	Alarm durch Tuerkontaktschalter Beifahrerseite
+0625	Alarm durch Tuerkontaktschalter hinten links
+0626	Alarm durch Tuerkontaktschalter hinten rechts
+0627	Regelung abgeschaltet
+0628	
+0629	Abschaltung durch uebertemperatur
+062A	Kontrollampe fuer Airbag aus,Beifahrerseite-K145
+062B	Signal Sitzbelegungssensor Beifahrerseite-G128
+062C	Belegungssensor Kindersitz,Beifahrerseite-G211
+062D	falsches Bauteil erkannt
+062E	Signal fuer Kuehlmitteltemperatur
+062F	Leck im System erkannt
+0630	Fahrzeug zu tief,Hochpumpen gestartet
+0631	Kontaktschalter Schliesszylinder\nBeifahrerseite-F242,oeffnen
+0632	Kontaktschalter Schliesszylinder\nBeifahrerseite-F242,schliessen
+0633	Zuender 2 fuer Airbag Fahrerseite-N250
+0634	Zuender fuer Kopfairbag Fahrerseite-N251
+0635	Zuender Kopfairbag Beifahrerseite-N252
+0636	Zuender fuer Unterbrechung Batterie-N253
+0637	Kontrollampe Airbag aus,Fahrerseite-K144
+0638	Sensor fuer Luftguete-G238
+0639	beheizbare Frontscheibe-Z2
+063A	Relais fuer Generatorzuschaltung-J442
+063B	Taster fuer Reifendruckkontrolle-E226
+063C	Stellmotor fuer Frisch-/Umluftklappe-V154
+063D	Vorladekreis Fahrbatterie
+063E	Spannung Fahrbatterie
+063F	Hauptrelais fuer Elektroantrieb-J437
+0640	Drosselklappensignal vom Motorsteuergeraet
+0641	Geber fuer Rotorlage im Elektromotor
+0642	Fahrmotor fuer Elektroantrieb-V141
+0643	Umrichter-C21
+0644	Potentiometer 1 fuer Gangerkennung-G239
+0645	Potentiometer 2 fuer Gangerkennung-G240
+0646	Signal von Batterieueberwachung
+0647	ueberstromabschaltung
+0648	Kontrollampentest
+0649	Luefter im Steuergeraet
+064A	Schalter fuer Antriebsart-E228
+064B	duo-Schalter auf Elektroantrieb stellen
+064C	Ventil fuer Kupplungssteller-N255
+064D	Relais fuer Pumpe Kraftstoffkuehlung-J445
+064E	Kapazitaetsverlust Fahrbatterie
+064F	Schalter fuer Fernentriegelung Tankklappe-E204
+0650	Signalleitung zur Innenraumueberwachung
+0651	Bitte Fehlerspeicher der Innenraumueberwachung auslesen
+0652	Ventil fuer automatisches Verdeck -N272
+0653	Motoren fuer Ablagefaecher hinten
+0654	Taster fuer Verdeckbetaetigung -E137
+0655	Netzstecker ausserhalb der Halterung
+0656	Spannungswandler (264V/12V) -A13
+0657	Signal fuer Generatorladen
+0658	Schalter fuer Antriebsart -E228, Startstellung 
+0659	Warnsummer fuer Einparkhilfe vorn-H22
+065A	Geber fuer Einparkhilfe vorne rechts-G252
+065B	Geber fuer Einparkhilfe vorne rechts Mitte-G253
+065C	Geber fuer Einparkhilfe vorne links Mitte-G254
+065D	Geber fuer Einparkhilfe vorne links-G255 
+065E	Zuender Zusatzseitenairbag FS-N277
+065F	Zuender Zusatzseitenairbag BFS-N278
+0660	Verlust Hochstromkapazitaet
+0661	Ausfall Thermomanagement
+0662	Zuender fuer Unterbrechung Batterie, abgeschaltet
+0663	Crashdaten Zuender fuer Unterbrechung Batterie gespeichert
+0664	Zuender Gurtstraffer hinten Fahrerseite-N196
+0665	Zuender Gurtstraffer hinten Beifahrerseite-N197
+0666	Crash-Sensor Seitenairbag hinten Fahrerseite-G256
+0667	Crash-Sensor Seitenairbag hinten Beifahrerseite-G257
+0668	Gurtschalter hinten Fahrerseite-E258
+0669	Gurtschalter hinten Beifahrerseite-E259
+066A	Sitzbelegungssensor hinten Fahrerseite-G177
+066B	Sitzbelegungssensor hinten Beifahrerseite-G178
+066C	Seitenairbag hinten Fahrerseite abgeschaltet
+066D	Seitenairbag hinten Beifahrerseite abgeschaltet
+066E	Kopfairbag Fahrerseite abgeschaltet
+066F	Kopfairbag Beifahrerseite abgeschaltet
+0670	Gurtstraffer hinten Fahrerseite abgeschaltet
+0671	Gurtstraffer hinten Beifahrerseite abgeschaltet
+0672	Crash-Daten Seitenairbag Fahrerseite hinten gespeichert
+0673	Crash-Daten Seitenairbag Beifahrerseite hinten gespeichert
+0674	Schluesselschalter FahrerairbagE285
+0675	Warnlampe Fahrerairbag deaktiviert
+0676	Warnlampe Gurtschalter-K163
+0677	Schalter fuer Kindersitzerkennung -F262
+0678	Crashsignal
+0679	Schalter fuer Kindersitzerkennung links -F263
+067A	Schalter fuer Kindersitzerkennung rechts -F264
+067B	Crashschwelle Gurtstraffer ueberschritten
+067C	Crashschwelle US-Airbag ueberschritten
+067D	Crashschwelle RDW-Airbag ueberschritten
+067E	Schalter fuer Innenverriegelung\Beifahrerseite-E198,LOCK
+067F	Schalter fuer Innenverriegelung\Beifahrerseite-E198,UNLOCK
+0680	Schalter fuer Innenverriegelung\hinten links-E 273,LOCK
+0681	Schalter fuer Innenverriegelung\hinten links-E 273,UNLOCK
+0682	Schalter fuer Innenverriegelung\hinten rechts-E274 ,LOCK
+0683	Schalter fuer Innenverriegelung\hinten rechts-E 274,UNLOCK
+0684	Taster Fahrer 4/Memorysitz-E282
+0685	Taster fuer Memory, Fahrersitz-E283
+0686	Signalleitung von Bedieneinheit fuer Garagentoroeffnung-E284
+0687	Sensor fuer Distanzregelung,links-G258
+0688	Sensor fuer Distanzregelung,rechts-G259
+0689	Poti fuer Membranweg im Bremskraftverstaerker
+068A	ADR-Loeseschalter im Bremskraftverstaerker
+068B	ADR-Loeseschalter/Poti fuer Membranweg
+068C	ADR-Loeseschalter/Druck im Bremskraftverstaerker
+068D	Ventil fuer ADR-Bremseneingriff
+068E	Schalter fuer Distanzwahl, ADR-E260
+068F	Drehzahlsignal vom ABS fuer Rad vorne links
+0690	Drehzahlsignal vom ABS fuer Rad vorne rechts
+0691	Drehzahlsignal vom ABS fuer Rad hinten links
+0692	Drehzahlsignal vom ABS fuer Rad hinten rechts
+0693	Raddrehzahlsignale/Geschwindigkeit
+0694	Steuergeraet 2 fuer Diesel-Direkteinspritzung -J494
+0695	Luftmassenmesser 2 -G246
+0696	Steuergeraet fuer Kuehlerluefternachlauf -J138
+0697	Magnetventil 2 fuer Ladedruckbegrenzung -N274
+0698	Relais fuer Kuehlmittelpumpe -J235
+0699	Ventile fuer Getriebelagerung
+069A	Geber fuer Kraftstoffdruck -G247
+069B	Regler fuer Kraftstoffdruck -N276
+069C	Relais fuer Kuehlmittelzusatzpumpe -J496
+069D	Ventil fuer Drosselklappe -N211
+069E	Signalleitung vom Airbag
+069F	Geber 2 fuer Kraftstofftemperatur -G248
+06A0	Fussraumleuchte hl -W45
+06A1	Fussraumleuchte hr -W46
+06A2	Freigabesignal fuer Fensterheber
+06A3	Motor fuer ZV, Heckklappe -V53
+06A4	Signalhorn fuer DWA -H8
+06A5	Dimmung fuer Innenlicht
+06A6	Fussraumleuchte links -W9
+06A7	Fussraumleuchte rechts -W10
+06A8	Kl. 58 (Beleuchtungsdimmung)
+06A9	Umschalter fuer Spiegelverstellung -E48
+06AA	Schalter fuer Spiegelverstellung -E43
+06AB	Tuerkontaktschalter Beifahrerseite-F3
+06AC	Tuerkontaktschalter hinten links -F10
+06AD	Tuerkontaktschalter hinten rechts -F11
+06AE	Motoren fuer ZV, FahrerseiteV56
+06AF	Motoren fuer ZV, Beifahrerseite-V57
+06B0	Motoren fuer ZV, hinten links-V115
+06B1	Motoren fuer ZV, hinten rechtsV97
+06B2	Umschaltung Audio/Telefon
+06B3	Gespraechsfunktion Telefon
+06B4	Ansteuerung GRA-Wiederaufnahme/Beschleunigen
+06B5	Ansteuerung GRA-Speichern/Reduzierung
+06B6	Ansteuerung GRA-ausschalten
+06B7	Geber fuer Laengsverstellung,Beifahrersitz-G278
+06B8	Geber fuer Lehnenverstellung,Beifahrersitz-G279
+06B9	Geber fuer hintere Hoehenverstellung,Beifahrersitz-G280
+06BA	Geber fuer vordere Hoehenverstellung,Beifahrersitz-G281
+06BB	Geber fuer Hoehenverstellung Kopfstuetze, Beifahrersitz-G282
+06BC	Schalter fuer Laengsverstellung Beifahrersitz-E64,vor
+06BD	Schalter fuer Laengsverstellung Beifahrersitz-E64,zurueck
+06BE	Schalter fuer Lehnenverstellung, Beifahrersitz-E98,vor
+06BF	Schalter fuer Lehnenverstellung, Beifahrersitz-E98,zurueck
+06C0	Schalter fuer hintere Hoehenverstellung Beifahrersitz-E66,auf
+06C1	Schalter fuer hintere Hoehenverstellung Beifahrersitz-E66,ab
+06C2	Schalter fuer vordere Hoehenverstellung Beifahrersitz-E65,auf
+06C3	Schalter fuer vordere Hoehenverstellung Beifahrersitz-E65,ab
+06C4	Schalter fuer Kopfstuetzenverstellung Beifahrersitz-E170,auf
+06C5	Schalter fuer Kopfstuetzenverstellung Beifahrersitz-E170,ab
+06C6	Potentiometer fuer Spiegelverstellung horizontal, Fahrerseite
+06C7	Potentiometer fuer Spiegelverstellung horizontal, Beifahrerseite
+06C8	Potentiometer fuer Spiegelverstellung vertikal, Fahrerseite
+06C9	Potentiometer fuer Spiegelverstellung vertikal, Beifahrerseite
+06CA	Crashsensor fuer Frontairbag, Fahrerseite-G283
+06CB	Crashsensor fuer Frontairbag, Beifahrerseite-G284
+06CC	Zuender fuer Gurtstraffer-2-, Fahrerseite-N297
+06CD	Zuender fuer Gurtstraffer-2-, Beifahrerseite-N298
+06CE	Zuender fuer Knieairbag, Fahrerseite-N295
+06CF	Zuender fuer Knieairbag, Beifahrerseite-N296
+06D0	Zuendanlassschalter- D (Klemme P)
+06D1	Taste fuer Sprechfunkgeraet-E76
+06D2	Schalter fuer Alarmanlage-E75
+06D3	Geber fuer beheizbares Lenkrad-Z36
+06D4	Schalter fuer Tiptronic im Lenkrad, hoch
+06D5	Schalter fuer Tiptronic  im Lenkrad, runter
+06D6	Multifunktionstasten  im Lenkrad, links
+06D7	Multifunktionstasten  im Lenkrad, rechts
+06D3	 beheizbares Lenkrad-Z36
+06D9	Scheibenwischermotor-V, Stufe 1
+06DA	Scheibenwischermotor-V, Stufe 2
+06DB	Lichtschalter-E1, Standlicht
+06DC	Schalter fuer Nebelscheinwerfer und -schlussleuchte-E23, Nebelscheinwerfer
+06DD	Pumpe fuer Scheinwerfer-Reinigungsanlage-V11
+06DE	Lampen fuer Bremslichter 
+06DF	Relais fuer Doppeltonhorn
+06E0	Steuergeraet Lenkhilfe-J500 keine Kommunikation mit Motorsteuergeraet
+06E1	Magnet fuer ueberrollschutz, Fahrerseite-N309
+06E2	Magnet fuer ueberrollschutz, Beifahrerseite-N310
+06E3	ueberrollschutz zu viele Ausloesungen
+06E4	Achtung: Verdeck muss geoeffnet sein. ueberrollschutz wird aktiviert.
+06E5	Motorsteuergeraet - Regeldifferenz
+06E6	Bremsensteuergeraet - Regeldifferenz
+06E7	Geber fuer Fahrzeugniveau links-Versorgungsspannung
+06E8	Geber fuer Fahrzeugniveau rechts-Versorgungsspannung
+06E9	Geber fuer Fahrzeugniveau vorn rechts-G289
+06EA	Geber fuer Kompressortemperatur Niveauregelung-G290
+06EB	Steuergeraet fuer Leuchtweitenregelung-J431
+06EC	Signalleitung von Druckgeber Niveauregelung-G291
+06ED	Ventil fuer Druckspeicher Niveauregelung-N311
+06EE	 Steuergeraet fuer Leuchtweitenregelung-J431, Versorgungsspannung
+06EF	Signalleitung zum Steuergeraet fuer Leuchtweitenregelung-J431
+06F0	Bedienungseinheit fuer Niveauregelung-E281
+06F1	Redundanter Signalpfad von Bedienungseinheit fuer Niveauregelung-E281
+06F2	Anhaenger-Signal
+06F3	Signal von Diebstahlwarnanlage: Innenraumueberwachung aktiv
+06F4	Geber fuer Fahrzeugniveau
+06F5	extremer Fahrzeugschiefstand
+06F6	Fahrzeug wird auf Normalniveau gebracht. 
+06F7	Ansteuerung der LED´s im Bedienteil fuer Niveauregelung
+06F8	Fahrzeug wird vorne links abgesenkt. 
+06F9	Fahrzeug wird vorne rechts abgesenkt. 
+06FA	Fahrzeug wird hinten links abgesenkt. 
+06FB	Fahrzeug wird hinten rechts abgesenkt.
+06FC	Druckspeicher wird gefuellt und geleert. 
+06FD	Test i.O.
+06FE	Test n.i.O.
+06FF	Unterdruckpumpe-V22
+0700	Unterdruckpumpe-V22, Ansteuerung Plus
+0701	Unterdruckpumpe-V22, Ansteuerung Minus
+0702	Steuergeraet falsche Fahrgestellnummer
+0703	Unterdrucksystem Bremse
+0704	Telematik-SIM-Karte
+0705	Ventil fuer Hydraulikdruck Servolenkung-N315
+0706	Schalter fuer Innenverriegelung\hinten mitte-E286 ,LOCK
+0707	Schalter fuer Innenverriegelung\hinten mitte-E286 ,UNLOCK
+0708	Lichtschalter-E1
+0709	Tuerwarnleuchte, Fahrerseite-W30
+070A	Tuerwarnleuchte, Beifahrerseite-W36
+070B	Tuerwarnleuchte, hinten links-W37
+070C	Tuerwarnleuchte, hinten rechts-W38
+070D	Einstiegsleuchte, Fahrerseite
+070E	Einstiegsleuchte, Beifahrerseite
+070F	Einstiegsleuchte, hinten links-W33
+0710	Einstiegsleuchte, hinten rechts-W34
+0711	Stellmotor fuer Temperaturklappe links-V158
+0712	Stellmotor fuer Temperaturklappe rechts-V159
+0713	Versorgungsspannung fuer Tuersteuergeraet Fahrerseite-J386
+0714	Versorgungsspannung fuer Tuersteuergeraet Beifahrerseite-J387
+0715	Versorgungsspannung fuer Tuersteuergeraet hinten links-J388
+0716	Versorgungsspannung fuer Tuersteuergeraet hinten rechts-J389
+0717	Schalter fuer Alarmanlage aus-E217
+0718	Tueraussengriffschalter in Fahrertuer-F272
+0719	Tueraussengriffschalter in Beifahrertuer-F273
+071A	Tueraussengriffschalter in Tuer hinten links-F274
+071B	Tueraussengriffschalter in Tuer hinten rechts-F275
+071C	Tuerinnengriffschalter in Fahrertuer-F276
+071D	Tuerinnengriffschalter in Beifahrertuer-F277
+071E	Tuerinnengriffschalter in Tuer hinten links-F278
+071F	Tuerinnengriffschalter in Tuer hinten rechts-F279
+0720	Kontrollampe fuer Airbags hinten aus-K164
+0721	Druckspeicher wird getestet 
+0722	Geber fuer Lenkwinkel-G85, Spannungsversorgung KL30
+0723	Steuergeraet im Schalttafeleinsatz-J285, Radumfang unplausibel
+0724	Lampe fuer Schlusslicht links
+0725	Lampe fuer Schlusslicht rechts
+0726	Lampen fuer Nebelschlussleuchten
+0727	Schalter fuer Fensterheber, vorn und hinten-E154
+0728	Antenne fuer Reifendruckueberwachung, vorne-R95
+0729	Antenne fuer Reifendruckueberwachung, hinten-R96
+072A	Lampe fuer Seitenblinkleuchte links-M18
+072B	Lampe fuer Seitenblinkleuchte rechts-M19
+072C	Kompressor abgeschaltet
+072D	Lesegeraet fuer Chip Card-R99
+072E	Sende-/Empfangsmodul 2 fuer Innenraumueberwachung-G305
+072F	Sende-/Empfangsmodul 1 fuer Innenraumueberwachung-G303
+0730	
+0731	Potentiometer-Stellmotor fuer\nTemperaturklappe links-G220
+0732	Potentiometer-Stellmotor fuer\nTemperaturklappe rechts-G221
+082F	Komponentenschutz aktiv
+4000	
+4001	
+4002	
+4003	
+4004	
+4005	
+4006	
+4007	
+4008	
+4009	
+400A	Bank1, Nockenwellenverstellung Fehlfunktion
+400B	Bank1,Nockenwellenspaetverstellung Soll nicht erreicht
+400C	Bank1,Nockenwellenfruehverstellung Soll nicht erreicht
+400D	Bank1,Nockenwellenverstellung, AuslassFehlfunktion
+400E	Bank1,Nockenwellenspaetverstellung, Auslass Soll nicht erreicht
+400F	Bank1,Nockenwellenfruehverstellung, Auslass Soll nicht erreicht
+4010	
+4011	
+4012	
+4013	
+4014	Bank2, Nockenwellenverstellung Fehlfunktion
+4015	Bank2,Nockenwellenspaetverstellung Soll nicht erreicht
+4016	Bank2,Nockenwellenfruehverstellung Soll nicht erreicht
+4017	Bank2, Nockenwellenverstellung, Auslass Fehlfunktion
+4018	Bank2,Nockenwellenspaetverstellung, Auslass Soll nicht erreicht
+4019	Bank2,Nockenwellenfruehverstellung, Auslass Soll nicht erreicht
+401A	
+401B	
+401C	
+401D	
+401E	Bank1-Sonde1,Heizstromkreis Unterbrechung
+401F	Bank1-Sonde1,Heizstromkreis Kurzschluss nach Masse
+4020	Bank1-Sonde1,Heizstromkreis Kurzschluss nach Plus
+4021	
+4022	
+4023	
+4024	Bank1-Sonde2,Heizstromkreis Unterbrechung
+4025	Bank1-Sonde2,Heizstromkreis Kurzschluss nach Masse
+4026	Bank1-Sonde2,Heizstromkreis Kurzschluss nach Plus
+4027	
+4028	
+4029	
+402A	
+402B	
+402C	
+402D	
+402E	
+402F	
+4030	
+4031	
+4032	Bank2-Sonde1,Heizstromkreis Elektrischer Fehler
+4033	Bank2-Sonde1,Heizstromkreis Kurzschluss nach Masse
+4034	Bank2-Sonde1,Heizstromkreis Kurzschluss nach Plus
+4035	
+4036	
+4037	
+4038	Bank2-Sonde2,Heizstromkreis Elektrischer Fehler
+4039	Bank2-Sonde2,Heizstromkreis Kurzschluss nach Masse
+403A	Bank2-Sonde2,Heizstromkreis Kurzschluss nach Plus
+403B	
+403C	
+403D	
+403E	
+403F	
+4040	
+4041	Luftsteuerventil fuer Einspritzv.-N212 unplausibles Signal
+4042	Luftsteuerventil fuer Einspritzv.-N212 Kurzschluss nach Masse
+4043	Luftsteuerventil fuer Einspritzv.-N212 Kurzschluss nach Plus
+4044	
+4045	
+4046	
+4047	
+4048	
+4049	
+404A	
+404B	
+404C	
+404D	
+404E	
+404F	
+4050	
+4051	
+4052	
+4053	
+4054	
+4055	
+4056	
+4057	
+4058	
+4059	Ventil fuer Kraftstoffdosierung-N290 unplausibles Signal
+405A	Ventil fuer Kraftstoffdosierung-N290 Unterbrechung
+405B	Ventil fuer Kraftstoffdosierung-N290 Kurzschluss nach Masse
+405C	Ventil fuer Kraftstoffdosierung-N290 Kurzschluss nach Plus
+405D	
+405E	
+405F	
+4060	
+4061	
+4062	
+4063	
+4064	Luftmassenmesser-G70 Versorgungsspannung
+4065	Luftmassenmesser-G70 unplausibles Signal
+4066	Luftmassenmesser-G70 Signal zu klein
+4067	Luftmassenmesser-G70 Signal zu gross
+4068	
+4069	Geber fuer Saugrohrdruck-G71 Versorgungsspannung
+406A	Saugrohrdruck/Luftdruck=>-G71/-F96 unplausibles Signal
+406B	Saugrohrdruck/Luftdruck=>-G71/-F96 Signal zu klein
+406C	Saugrohrdruck/Luftdruck=>-G71/-F96 Signal zu gross
+406D	
+406E	
+406F	
+4070	Geber fuer Ansauglufttemp.-G42 Signal zu klein
+4071	Geber fuer Ansauglufttemp.-G42 Signal zu gross
+4072	
+4073	
+4074	Geber fuer Kuehlmitteltemp.-G62 unplausibles Signal
+4075	Geber fuer Kuehlmitteltemp.-G62 Signal zu klein
+4076	Geber fuer Kuehlmitteltemp.-G62 Signal zu gross
+4077	
+4078	Drosselklappenpotentiometer-G69 elektr.Fehler im Stromkreis
+4079	Drosselklappenpotentiometer-G69 unplausibles Signal
+407A	Drosselklappenpotentiometer-G69 Signal zu klein
+407B	Drosselklappenpotentiometer-G69 Signal zu gross
+407C	
+407D	Kuehlmitteltemp.fuer Lambdaregelung nicht erreicht
+407E	
+407F	
+4080	Ventil fuer Kuehlmittelkreislauf-N214 Temperatur unterhalb Regelbereich
+4081	
+4082	Bank1-Sonde1 elektr.Fehler im Stromkreis
+4083	Bank1-Sonde1 Spannung zu klein
+4084	Bank1-Sonde1 Spannung zu gross
+4085	Bank1-Sonde1 Signal zu langsam
+4086	Bank1-Sonde1 keine Aktivitaet
+4087	Bank1-Sonde1,Heizstromkreis elektr.Fehler
+4088	Bank1-Sonde2 elektr.Fehler im Stromkreis
+4089	Bank1-Sonde2 Spannung zu klein
+408A	Bank1-Sonde2 Spannung zu gross
+408B	Bank1-Sonde2 Signal zu langsam
+408C	Bank1-Sonde2 keine Aktivitaet
+408D	Bank1-Sonde2,Heizstromkreis elektr.Fehler
+408E	
+408F	
+4090	
+4091	
+4092	
+4093	
+4094	
+4095	Kraftstoffbemessungssystem(Bank1) Abweichung der Einspritzzeiten 
+4096	Bank2-Sonde1 elektr.Fehler im Stromkreis
+4097	Bank2-Sonde1 Spannung zu klein
+4098	Bank2-Sonde1 Spannung zu gross
+4099	Bank2-Sonde1 Signal zu langsam
+409A	Bank2-Sonde1 keine Aktivitaet
+409B	Bank2-Sonde1,Heizstromkreis elektr.Fehler
+409C	Bank2-Sonde2 elektr.Fehler im Stromkreis
+409D	Bank2-Sonde2 Spannung zu klein
+409E	Bank2-Sonde2 Spannung zu gross
+409F	Bank2-Sonde2 Signal zu langsam
+40A0	Bank2-Sonde2 keine Aktivitaet
+40A1	Bank2-Sonde2,Heizstromkreis elektr.Fehler
+40A2	
+40A3	
+40A4	
+40A5	
+40A6	
+40A7	
+40A8	
+40A9	
+40AA	Bank1,Kraftstoffbemessungssystem Fehlfunktion
+40AB	Bank1,Kraftstoffbemessungssystem System zu mager
+40AC	Bank1,Kraftstoffbemessungssystem System zu fett
+40AD	Bank2,Kraftstoffbemessungssystem Fehlfunktion
+40AE	Bank2,Kraftstoffbemessungssystem System zu mager
+40AF	Bank2,Kraftstoffbemessungssystem System zu fett
+40B0	
+40B1	
+40B2	
+40B3	
+40B4	
+40B5	
+40B6	Geber fuer Kraftstofftemp.-G81 Kurzschluss nach Masse
+40B7	Geber fuer Kraftstofftemp.-G81 Unterbrechung/Kurzschluss nach Plus
+40B8	
+40B9	
+40BA	
+40BB	
+40BC	
+40BD	
+40BE	
+40BF	Geber fuer Kraftstoffdruck-G247 unplausibles Signal
+40C0	Geber fuer Kraftstoffdruck-G247 Kurzschluss nach Masse
+40C1	Geber fuer Kraftstoffdruck-G247 Kurzschluss nach Plus
+40C2	Geber fuer Kraftstoffdruck-G247 Unterbrechung
+40C3	
+40C4	Geber fuer oeltemperatur -G8 unplausibles Signal
+40C5	Geber fuer oeltemperatur -G8 Signal zu klein
+40C6	Geber fuer oeltemperatur -G8 Signal zu gross
+40C7	
+40C8	
+40C9	Einspritzventil Zyl.1-N30 elektr.Fehler im Stromkreis
+40CA	Einspritzventil Zyl.2-N31 elektr.Fehler im Stromkreis
+40CB	Einspritzventil Zyl.3-N32 elektr.Fehler im Stromkreis
+40CC	Einspritzventil Zyl.4-N33 elektr.Fehler im Stromkreis
+40CD	Einspritzventil Zyl.5-N83 elektr.Fehler im Stromkreis
+40CE	Einspritzventil Zyl.6-N84 elektr.Fehler im Stromkreis
+40CF	Einspritzventil Zyl.7-N85 elektr.Fehler im Stromkreis
+40D0	Einspritzventil Zyl.8-N86 elektr.Fehler im Stromkreis
+40D1	Einspritzventil Zyl.9-N299 elektr.Fehler im Stromkreis
+40D2	Einspritzventil Zyl.10-N300 elektr.Fehler im Stromkreis
+40D3	Einspritzventil Zyl.11-N301 elektr.Fehler im Stromkreis
+40D4	Einspritzventil Zyl.12-N302 elektr.Fehler im Stromkreis
+40D5	
+40D6	
+40D7	Kraftstoffabschaltventil-N109 Fehlfunktion
+40D8	Ventil fuer Einspritzbeginn-N108 Fehlfunktion
+40D9	
+40DA	
+40DB	maximale Motordrehzahl ueberschritten
+40DC	
+40DD	Winkelgeber 2 fuer DK-Antrieb-G188 unplausibles Signal
+40DE	Winkelgeber 2 fuer DK-Antrieb-G188 Signal zu klein
+40DF	Winkelgeber 2 fuer DK-Antrieb-G188 Signal zu gross
+40E0	
+40E1	Geber fuer Gaspedalstellung-G79 Versorgungsspannung
+40E2	Geber 1/2 f. Gaspedalstellung-G79+G185 unplausibles Signal
+40E3	Geber fuer Gaspedalstellung-G79 Signal zu klein
+40E4	Geber fuer Gaspedalstellung-G79 Signal zu gross
+40E5	
+40E6	Kraftstoffpumpenrelais-J17 elektr.Fehler im Stromkreis
+40E7	
+40E8	
+40E9	
+40EA	Ladedruckregelung Regelgrenze ueberschritten
+40EB	Ladedruckregelung Regelgrenze unterschritten
+40EC	Geber fuer Ladedruck-G31 unplausibles Signal
+40ED	Geber fuer Ladedruck-G31 Signal zu klein
+40EE	Geber fuer Ladedruck-G31 Signal zu gross
+40EF	
+40F0	
+40F1	
+40F2	
+40F3	Magnetventil fuer Ladedruckbegrenzung-N75  Unterbrechung/Kurzschluss nach Masse
+40F4	
+40F5	Magnetventil fuer Ladedruckbegrenzung-N75 Kurzschluss nach Masse
+40F6	Magnetventil fuer Ladedruckbegrenzung-N75 Kurzschluss nach Plus
+40F7	
+40F8	
+40F9	
+40FA	
+40FB	
+40FC	Spritzbeginnregelung Regeldifferenz
+40FD	
+40FE	
+40FF	
+4100	
+4101	
+4102	
+4103	
+4104	
+4105	Einspritzventil Zyl.1-N30 Kurzschluss nach Masse
+4106	Einspritzventil Zyl.1-N30 Kurzschluss nach Plus
+4107	
+4108	Einspritzventil Zyl.2-N31 Kurzschluss nach Masse
+4109	Einspritzventil Zyl.2-N31 Kurzschluss nach Plus
+410A	
+410B	Einspritzventil Zyl.3-N32 Kurzschluss nach Masse
+410C	Einspritzventil Zyl.3-N32 Kurzschluss nach Plus
+410D	
+410E	Einspritzventil Zyl.4-N33 Kurzschluss nach Masse
+410F	Einspritzventil Zyl.4-N33 Kurzschluss nach Plus
+4110	
+4111	Einspritzventil Zyl.5-N83 Kurzschluss nach Masse
+4112	Einspritzventil Zyl.5-N83 Kurzschluss nach Plus
+4113	
+4114	Einspritzventil Zyl.6-N84 Kurzschluss nach Masse
+4115	Einspritzventil Zyl.6-N84 Kurzschluss nach Plus
+4116	
+4117	Einspritzventil Zyl.7-N85 Kurzschluss nach Masse
+4118	Einspritzventil Zyl.7-N85 Kurzschluss nach Plus
+4119	
+411A	Einspritzventil Zyl.8-N86 Kurzschluss nach Masse
+411B	Einspritzventil Zyl.8-N86 Kurzschluss nach Plus
+411C	
+411D	Einspritzventil Zyl.9-N299 Kurzschluss nach Masse
+411E	Einspritzventil Zyl.9-N299 Kurzschluss nach Plus
+411F	
+4120	Einspritzventil Zyl.10-N300 Kurzschluss nach Masse
+4121	Einspritzventil Zyl.10-N300 Kurzschluss nach Plus
+4122	
+4123	Einspritzventil Zyl.11-N301 Kurzschluss nach Masse
+4124	Einspritzventil Zyl.11-N301 Kurzschluss nach Plus
+4125	
+4126	Einspritzventil Zyl.12-N302 Kurzschluss nach Masse
+4127	Einspritzventil Zyl.12-N302 Kurzschluss nach Plus
+4128	
+4129	
+412A	
+412B	
+412C	Verbrennungsaussetzer erkannt
+412D	Zyl.1 Verbrennungsaussetzer erkannt
+412E	Zyl.2 Verbrennungsaussetzer erkannt
+412F	Zyl.3 Verbrennungsaussetzer erkannt
+4130	Zyl.4 Verbrennungsaussetzer erkannt
+4131	Zyl.5 Verbrennungsaussetzer erkannt
+4132	Zyl.6 Verbrennungsaussetzer erkannt
+4133	Zyl.7 Verbrennungsaussetzer erkannt
+4134	Zyl.8 Verbrennungsaussetzer erkannt
+4135	Zyl.9 Verbrennungsaussetzer erkannt
+4136	Zyl.10 Verbrennungsaussetzer erkannt
+4137	Zyl.11 Verbrennungsaussetzer erkannt
+4138	Zyl.12 Verbrennungsaussetzer erkannt
+4139	Verbrennungsaussetzer erkannt Grund: Kraftstoffmangel
+413A	Verbrennungsaussetzer Einzelzylinder
+413B	
+413C	
+413D	
+413E	Schlechtwegeinfo/Motorsollmom.vom ABS-SG elektr.Fehler im Stromkreis
+413F	
+4140	
+4141	Geber fuer Motordrehzahl-G28 unplausibles Signal
+4142	Geber fuer Motordrehzahl-G28 kein Signal
+4143	
+4144	Klopfregelung Fehlfunktion
+4145	Klopfsensor 1-G61 elektr. Fehler im Stromkreis
+4146	Klopfsensor 1-G61 unplausibles Signal
+4147	Klopfsensor 1-G61 Signal zu klein
+4148	Klopfsensor 1-G61 Signal zu gross
+4149	
+414A	
+414B	
+414C	Klopfsensor 2-G66 Signal zu klein
+414D	Klopfsensor 2-G66 Signal zu gross
+414E	
+414F	Geber fuer Motordrehzahl-G28 Fehlfunktion
+4150	Geber fuer Motordrehzahl-G28 fehlender Zahn
+4151	Kurbelwellenpos.-sensor=>Geber-G4 Signal zu klein
+4152	
+4153	
+4154	Nockenwellenpositionssensor Fehlfunktion
+4155	Nockenwellenpos.-sensor=>Geber-G40 unplausibles Signal
+4156	Nockenwellenpos.-sensor=>Geber-G40 Signal zu klein
+4157	Nockenwellenpos.-sensor=>Geber-G40 Signal zu gross
+4158	
+4159	Nockenwellenpos.-sensor=>Geber-G163 elektrischer Fehler
+415A	Nockenwellenpos.-sensor=>Geber-G163 unplausibles Signal
+415B	Nockenwellenpos.-sensor=>Geber-G163 Kurzschluss nach Masse
+415C	Nockenwellenpos.-sensor=>Geber-G163 Kurzschluss nach Plus
+415D	
+415E	
+415F	Zuendansteuerung Zyl. 1 Fehlfunktion
+4160	Zuendansteuerung Zyl. 2 Fehlfunktion
+4161	Zuendansteuerung Zyl. 3 Fehlfunktion
+4162	Zuendansteuerung Zyl. 4 Fehlfunktion
+4163	Zuendansteuerung Zyl. 5 Fehlfunktion
+4164	Zuendansteuerung Zyl. 6 Fehlfunktion
+4165	Zuendansteuerung Zyl. 7 Fehlfunktion
+4166	Zuendansteuerung Zyl. 8 Fehlfunktion
+4167	Zuendansteuerung Zyl. 9 Fehlfunktion
+4168	Zuendansteuerung Zyl. 10 Fehlfunktion
+4169	Zuendansteuerung Zyl. 11 Fehlfunktion
+416A	Zuendansteuerung Zyl. 12 Fehlfunktion
+416B	
+416C	
+416D	Nockenwellenpos.-sensor=>Geber-G300 Fehlfunktion
+416E	
+416F	Nockenwellenpos.-sensor=>Geber-G300 Signal zu klein
+4170	Nockenwellenpos.-sensor=>Geber-G300 Signal zu gross
+4171	
+4172	
+4173	
+4174	
+4175	
+4176	
+4177	
+4178	
+4179	
+417A	
+417B	
+417C	Gluehkerze -Q6 elektr. Fehler im Stromkreis
+417D	
+417E	
+417F	
+4180	
+4181	
+4182	
+4183	
+4184	
+4185	
+4186	Nockenwellenpos.-sensor=>Geber-G301 Fehlfunktion
+4187	
+4188	Nockenwellenpos.-sensor=>Geber-G301 Signal zu klein
+4189	Nockenwellenpos.-sensor=>Geber-G301 Signal zu gross
+418A	
+418B	
+418C	
+418D	
+418E	
+418F	
+4190	Abgasrueckfuehrungssystem Fehlfunktion
+4191	Abgasrueckfuehrungssystem Durchsatz zu klein
+4192	Abgasrueckfuehrungssystem Durchsatz zu gross
+4193	Ventil fuer Abgasrueckfuehrung -N18 Fehlfunktion
+4194	Abgasrueckfuehrungssystem Regeldifferenz
+4195	Temp.-Fuehler fuer Abgasrueckfuehrung-G98 Signal zu klein
+4196	Temp.-Fuehler fuer Abgasrueckfuehrung-G98 Signal zu gross
+4197	Potentiometer f. Abgasrueckfuehrung-G212 Signal zu klein
+4198	Potentiometer f. Abgasrueckfuehrung-G212 Signal zu gross
+4199	
+419A	Sekundaerluftsystem Fehlfunktion
+419B	Sekundaerluftsystem Durchfluss fehlerhaft
+419C	Sekundaerlufteinblasventil-N112 elektr.Fehler im Stromkreis
+419D	Sekundaerlufteinblasventil-N112 Unterbrechung
+419E	Sekundaerlufteinblasventil-N112 Kurzschluss
+419F	Sekundaerlufteinblasventil 2 -N320 elektr.Fehler im Stromkreis
+41A0	
+41A1	
+41A2	Relais fuer Sekundaerluftpumpe-J299 Fehlfunktion
+41A3	Relais fuer Sekundaerluftpumpe 2 -J545 Fehlfunktion
+41A4	Bank1,Katalysatorsystem Wirkung zu gering
+41A5	Vorkatalysator, Bank1 Wirkung zu gering
+41A6	Bank1,Hauptkatalysator Wirkung zu gering
+41A7	
+41A8	
+41A9	
+41AA	
+41AB	Temp.-Fuehler 1 fuer Kat-G20 Kurzschluss nach Masse
+41AC	Temp.-Fuehler 1 fuer Kat-G20 Unterbrechung/Kurzschluss nach Plus
+41AD	
+41AE	Katalysatorsystem, Bank2 Wirkung zu gering
+41AF	Vorkatalysator, Bank2 Wirkung zu gering
+41B0	Bank2,Hauptkatalysator Wirkung zu gering
+41B1	
+41B2	
+41B3	
+41B4	Temp.-Fuehler 2 fuer Kat-G132 unplausibles Signal
+41B5	Temp.-Fuehler 2 fuer Kat-G132 Kurzschluss nach Masse
+41B6	Temp.-Fuehler 2 fuer Kat-G132 Unterbrechung/Kurzschluss nach Plus
+41B7	
+41B8	Tankentlueftungssystem Fehlfunktion
+41B9	Tankentlueftungssystem Durchsatz fehlerhaft
+41BA	Tankentlueftungssystem Feinleck erkannt
+41BB	Tankentlueftungsventil-N80 elektr.Fehler im Stromkreis
+41BC	Tankentlueftungsventil-N80 Unterbrechung
+41BD	Tankentlueftungsventil-N80 Kurzschluss
+41BE	
+41BF	
+41C0	
+41C1	
+41C2	
+41C3	
+41C4	Drucksens. fuer Tankentlueftungssystem Signal zu klein
+41C5	Drucksens. fuer Tankentlueftungssystem Signal zu gross
+41C6	
+41C7	Tankentlueftungssystem Grobleck erkannt
+41C8	Tankentlueftungssystem Feinstleck erkannt
+41C9	
+41CA	
+41CB	
+41CC	
+41CD	Kraftstoffuellstandssignal unplausibles Signal
+41CE	Geber fuer Kraftstoffvorrat-G Signal zu klein
+41CF	Geber fuer Kraftstoffvorrat-G Signal zu gross
+41D0	
+41D1	
+41D2	
+41D3	
+41D4	
+41D5	
+41D6	
+41D7	
+41D8	
+41D9	
+41DA	
+41DB	
+41DC	
+41DD	
+41DE	
+41DF	
+41E0	Kuehlerluefteransteuerung 1 Elektrischer Fehler
+41E1	Kuehlerluefteransteuerung 2 Elektrischer Fehler
+41E2	
+41E3	
+41E4	
+41E5	
+41E6	
+41E7	
+41E8	
+41E9	
+41EA	
+41EB	
+41EC	Bank2,Sekundaerluftsystem Fehlfunktion
+41ED	
+41EE	
+41EF	
+41F0	
+41F1	
+41F2	
+41F3	
+41F4	
+41F5	Fahrzeug-Geschwindigkeitssignal unplausibles Signal
+41F6	
+41F7	Fahrzeug-Geschwindigkeitssignal Signal zu gross
+41F8	
+41F9	Leerlaufregelung Fehlfunktion
+41FA	Leerlaufregelung Drehzahl unter Sollwert
+41FB	Leerlaufregelung Drehzahl ueber Sollwert
+41FC	 
+41FD	 
+41FE	Leerlaufschalter-F60 Fehlfunktion
+41FF	
+4200	
+4201	Falscher Wegfahrsperrencode
+4202	
+4203	
+4204	
+4205	
+4206	
+4207	
+4208	
+4209	
+420A	
+420B	
+420C	
+420D	
+420E	
+420F	
+4210	
+4211	
+4212	
+4213	Lastsignal vom Klimakompressor unplausibles Signal
+4214	Drucksensor fuer Klimaanlage-G65 Signal zu klein
+4215	Drucksensor fuer Klimaanlage-G65 Signal zu gross
+4216	
+4217	
+4218	
+4219	
+421A	
+421B	
+421C	
+421D	
+421E	
+421F	
+4220	Geber 1 fuer Abgastemperatur -G235 Elektrischer Fehler
+4221	Geber 1 fuer Abgastemperatur -G235 Kurzschluss nach Masse
+4222	Geber 1 fuer Abgastemperatur -G235 Kurzschluss nach Plus
+4223	Geber 2 fuer Abgastemperatur -G236 Elektrischer Fehler
+4224	Geber 2 fuer Abgastemperatur -G236 Kurzschluss nach Masse
+4225	Geber 2 fuer Abgastemperatur -G236 Kurzschluss nach Plus
+4226	Servolenkung Druckregelung elektrischer Fehler
+4227	Druckschalter/Servolenkung -F88 unplausibles Signal
+4228	
+4229	
+422A	
+422B	
+422C	
+422D	
+422E	
+422F	
+4230	Spannungsversorgung unplausibles Signal
+4231	
+4232	Spannungsversorgung Spannung zu klein
+4233	Spannungsversorgung Spannung zu gross
+4234	
+4235	
+4236	
+4237	
+4238	Schalter fuer GRA-E45 unplausibles Signal
+4239	
+423A	
+423B	Bremslichtschalter-F unplausibles Signal
+423C	
+423D	
+423E	
+423F	
+4240	
+4241	
+4242	
+4243	
+4244	
+4245	
+4246	
+4247	
+4248	
+4249	
+424A	
+424B	
+424C	
+424D	
+424E	
+424F	
+4250	
+4251	
+4252	
+4253	
+4254	
+4255	
+4256	
+4257	
+4258	Datenbus Antrieb fehlende Botschaft 
+4259	Steuergeraet defekt
+425A	Steuergeraete-Programmierung Fehlfunktion
+425B	Steuergeraet defekt 
+425C	Steuergeraet defekt 
+425D	Steuergeraet defekt 
+425E	Steuergeraet defekt 
+425F	
+4260	
+4261	
+4262	
+4263	
+4264	
+4265	
+4266	
+4267	
+4268	
+4269	
+426A	
+426B	
+426C	
+426D	
+426E	
+426F	
+4270	
+4271	
+4272	
+4273	
+4274	
+4275	
+4276	
+4277	
+4278	
+4279	
+427A	
+427B	
+427C	
+427D	
+427E	Drosselklappensteuereinheit-J338 unplausibles Signal
+427F	Drosselklappensteuereinheit 2-J544 unplausibles Signal
+4280	
+4281	
+4282	Klopfregelung                    Steuergeraet defekt
+4283	
+4284	
+4285	Klimaanlage Eingang/Ausgang
+4286	
+4287	
+4288	
+4289	
+428A	Fehlerlampe fuer Eigendiagnose-K83 elektr.Fehler im Stromkreis
+428B	
+428C	
+428D	
+428E	Ausgangssignal fuer Motordrehzahl elektr. Fehler im Stromkreis
+428F	
+4290	Kraftstoffverbrauchssignal elektr. Fehler im Stromkreis
+4291	
+4292	
+4293	
+4294	Registersaugrohrumschaltung Elektrischer Fehler
+4295	Registersaugrohrumschaltung Kurzschluss nach Masse
+4296	Registersaugrohrumschaltung Kurzschluss nach Plus
+4297	
+4298	
+4299	
+429A	
+429B	
+429C	
+429D	
+429E	
+429F	
+42A0	
+42A1	
+42A2	
+42A3	
+42A4	
+42A5	
+42A6	
+42A7	
+42A8	
+42A9	
+42AA	
+42AB	
+42AC	
+42AD	Hauptrelais=>-J271 Unterbrechung
+42AE	Hauptrelais=>-J271 Kurzschluss nach Masse
+42AF	Hauptrelais=>-J271 Kurzschluss nach Plus
+42B0	Hauptrelais, Lastkreis=>-J271 Unterbrechung
+42B1	
+42B2	
+42B3	Kuehlerluefteransteuerung 1 Kurzschluss nach Masse
+42B4	Kuehlerluefteransteuerung 1 Kurzschluss nach Plus
+42B5	Kuehlerluefteransteuerung 2 Kurzschluss nach Masse
+42B6	Kuehlerluefteransteuerung 2 Kurzschluss nach Plus
+42B7	
+42B8	
+42B9	
+42BA	
+42BB	
+42BC	Steuergeraet defekt 
+42BD	
+42BE	Steuergeraet defekt
+42BF	Bremslichtschalter-F elektr.Fehler im Stromkreis
+42C0	
+42C1	Fahrstufensensor=>-F125 elektr.Fehler im Stromkreis
+42C2	Fahrstufensensor=>-F125 unplausibles Signal
+42C3	Fahrstufensensor=>-F125 Signal zu klein
+42C4	Fahrstufensensor=>-F125 Signal zu gross
+42C5	
+42C6	Geber fuer Getriebeoeltemp.-G93 elektr.Fehler im Stromkreis
+42C7	Geber fuer Getriebeoeltemp.-G93 unplausibles Signal
+42C8	Geber fuer Getriebeoeltemp.-G93 Signal zu klein
+42C9	Geber fuer Getriebeoeltemp.-G93 Signal zu gross
+42CA	
+42CB	Geber fuer Getriebeeingangsdrehzahl-G182 elektr.Fehler im Stromkreis
+42CC	Geber fuer Getriebeeingangsdrehzahl-G182 unplausibles Signal
+42CD	Geber fuer Getriebeeingangsdrehzahl-G182 kein Signal
+42CE	
+42CF	
+42D0	
+42D1	Geber fuer Getriebeausgangsdrehzahl-G195 unplausibles Signal
+42D2	Geber fuer Getriebeausgangsdrehzahl-G195 kein Signal
+42D3	
+42D4	
+42D5	Drehzahlsignal vom Motorsteuergeraet elektr.Fehler im Stromkreis
+42D6	Drehzahlsignal vom Motorsteuergeraet unplausibles Signal
+42D7	Drehzahlsignal vom Motorsteuergeraet kein Signal
+42D8	
+42D9	
+42DA	Gang-/Uebersetzungsueberwachung falsches Uebersetzungsverhaeltnis
+42DB	1. Gang falsches Uebersetzungsverhaeltnis
+42DC	2. Gang falsches Uebersetzungsverhaeltnis
+42DD	3. Gang falsches Uebersetzungsverhaeltnis
+42DE	4. Gang falsches Uebersetzungsverhaeltnis
+42DF	5. Gang falsches Uebersetzungsverhaeltnis
+42E0	
+42E1	
+42E2	
+42E3	
+42E4	Kupplung fuer Wandlerueberbrueckung mech.Fehler
+42E5	Kupplung fuer Wandlerueberbrueckung keine Kraftuebertragung
+42E6	
+42E7	
+42E8	
+42E9	
+42EA	
+42EB	
+42EC	Druckregelventil 1 elektr.Fehler im Stromkreis
+42ED	
+42EE	Schaltventil 1=>Magnetventil 1-N88 Funktionsstoerung
+42EF	Schaltventil 1=>Magnetventil 1-N88 Unterbrechung/Kurzschluss nach Masse
+42F0	Schaltventil 1=>Magnetventil 1-N88 Kurzschluss nach Plus
+42F1	Schaltventil 1=>Magnetventil 1-N88 elektr.Fehler im Stromkreis
+42F2	
+42F3	
+42F4	Schaltventil 2=>Magnetventil 2-N89 Unterbrechung/Kurzschluss nach Masse
+42F5	Schaltventil 2=>Magnetventil 2-N89 Kurzschluss nach Plus
+42F6	Schaltventil 2=>Magnetventil 2-N89 elektr.Fehler im Stromkreis
+42F7	
+42F8	
+42F9	Schaltventil 3=>Magnetventil 3-N90 Unterbrechung/Kurzschluss nach Masse
+42FA	Schaltventil 3=>Magnetventil 3-N90 Kurzschluss nach Plus
+42FB	Schaltventil 3=>Magnetventil 3-N90 elektr.Fehler im Stromkreis
+42FC	
+42FD	
+42FE	
+42FF	
+4300	Schaltventil 4=>Magnetventil 4-N91 elektr.Fehler im Stromkreis
+4301	
+4302	
+4303	
+4304	
+4305	Schaltventil 5=>Magnetventil 5-N92 elektr.Fehler im Stromkreis
+4306	
+4307	
+4308	
+4309	
+430A	Druckregelventil 2 elektr.Fehler im Stromkreis
+430B	
+430C	
+430D	
+430E	
+430F	
+4310	
+4311	
+4312	
+4313	
+4314	
+4315	
+4316	Programmschalter-E122 elektr.Fehler im Stromkreis
+4317	
+4318	
+4319	
+431A	
+431B	
+431C	
+431D	
+431E	Druckregelventil 3 elektr.Fehler im Stromkreis
+431F	
+4320	
+4321	
+4322	
+4323	
+4324	
+4325	
+4326	
+4327	
+4328	
+4329	
+432A	
+432B	starker Kupplungsschlupf
+432C	
+432D	
+432E	
+432F	Schalter fuer Tiptronik, hoch-F189 elektr.Fehler im Stromkreis
+4330	Schalter fuer Tiptronik, zurueck-F189 elektr.Fehler im Stromkreis
+4331	
+4332	
+4333	
+4334	
+4335	
+4336	
+4337	
+4338	
+4339	
+433A	
+433B	
+433C	
+433D	
+433E	
+433F	
+4340	
+4341	
+4342	
+4343	
+4344	
+4345	
+4346	
+4347	
+4348	
+4349	Geber 1 fuer Hydraulikdruck Getriebe unplausibles Signal
+434A	
+434B	
+434C	
+434D	
+434E	Geber 2 fuer Hydraulikdruck Getriebe unplausibles Signal
+434F	
+4350	
+4351	
+4352	
+4353	
+4354	
+4355
+4356
+4357
+4358
+4359
+435A
+435B
+435C
+435D
+435E
+435F
+4360
+4361
+4362
+4363
+4364
+4365	
+4366	 
+4367	
+4368	
+4369	
+436A	
+436B	
+436C	
+436D	
+436E	
+436F	
+4370	
+4371	
+4372	
+4373	
+4374	
+4375	
+4376	
+4377	
+4378	
+4379	
+437A	
+437B	
+437C	
+437D	
+437E	
+437F	
+4380	
+4381	
+4382	
+4383	
+4384
+4385
+4386
+4387
+4388
+4389
+438A
+438B
+438C
+438D
+438E
+438F
+4390
+4391
+4392
+4393
+4394
+4395
+4396
+4397
+4398
+4399
+439A
+439B
+439C
+439D
+439E
+439F
+43A0
+43A1
+43A2
+43A3
+43A4
+43A5
+43A6
+43A7
+43A8
+43A9
+43AA
+43AB
+43AC
+43AD
+43AE
+43AF
+43B0
+43B1
+43B2
+43B3
+43B4
+43B5
+43B6
+43B7
+43B8
+43B9
+43BA
+43BB
+43BC
+43BD
+43BE
+43BF
+43C0
+43C1
+43C2
+43C3
+43C4
+43C5
+43C6
+43C7
+43C8
+43C9
+43CA
+43CB
+43CC
+43CD
+43CE
+43CF
+43D0
+43D1
+43D2
+43D3
+43D4
+43D5
+43D6
+43D7
+43D8
+43D9
+43DA
+43DB
+43DC
+43DD
+43DE
+43DF
+43E0
+43E1
+43E2
+43E3
+43E4
+43E5
+43E6
+43E7
+4400	Einspritzventil Zyl.9-N299 elektr.Fehler im Stromkreis
+4401	Einspritzventil Zyl.10-N300 elektr.Fehler im Stromkreis
+4402	Einspritzventil Zyl.11-N301 elektr.Fehler im Stromkreis
+4403	Einspritzventil Zyl.12-N302 elektr.Fehler im Stromkreis
+4404	Momentendifferenz Zyl.1                            Grenzwert ueberschritten
+4405	Momentendifferenz Zyl.2                            Grenzwert ueberschritten
+4406	Momentendifferenz Zyl.3                           Grenzwert ueberschritten
+4407	Momentendifferenz Zyl.4                            Grenzwert ueberschritten
+4408	
+4409	
+440A	Einspritzventil Zyl.9-N299 Unterbrechung
+440B	Einspritzventil Zyl.10-N300 Unterbrechung
+440C	Einspritzventil Zyl.11-N301 Unterbrechung
+440D	Einspritzventil Zyl.12-N302 Unterbrechung
+440E	Ventil fuer Bypassklappe Luftfilter-N275 Kurzschluss nach Plus
+440F	Ventil fuer Bypassklappe Luftfilter-N275 Kurzschluss nach Masse
+4410	Ventil fuer Bypassklappe Luftfilter-N275 Unterbrechung
+4411	
+4412	
+4413	Geber fuer NOx-G295 Signal zu langsam
+4414	Kraftstoffdruckregelung Regelgrenze ueberschritten
+4415	Bank1,Nockenwellenspaetverstellung Soll nicht erreicht
+4416	Bank1,Nockenwellenfruehverstellung Soll nicht erreicht
+4417	Regelventil fuer Kraftstoffdruck-N276 Kurzschluss nach Masse
+4418	Regelventil fuer Kraftstoffdruck-N276 Unterbrechung
+4419	Regelventil fuer Kraftstoffdruck-N276 mechanischer Fehler
+441A	Ansteuerung Saugrohrklappe fuer Luftstromsteuerung Kurzschluss nach Plus
+441B	Ansteuerung Saugrohrklappe fuer Luftstromsteuerung Kurzschluss nach Masse
+441C	Ansteuerung Saugrohrklappe fuer Luftstromsteuerung Unterbrechung
+441D	Ventil fuer Saugrohrklappe, Luftstromsteuerung-N316 oberer Anschlag nicht erreicht
+441E	Ventil fuer Saugrohrklappe, Luftstromsteuerung-N316 unterer Anschlag nicht erreicht
+441F	Ventil fuer Saugrohrklappe, Luftstromsteuerung-N316 Sollwert nicht erreicht
+4420	Geber fuer NOx-G295 Signal zu gross
+4421	Geber fuer NOx-G295 Signal zu klein
+4422	Geber fuer NOx-G295 Signal ausserhalb Toleranz
+4423	Geber fuer NOx-G295 unplausibles Signal
+4424	Ansteuerung Heizung Geber fuer NOx Kurzschluss nach Plus
+4425	Ansteuerung Heizung Geber fuer NOx Kurzschluss nach Masse
+4426	Ansteuerung Heizung Geber fuer NOx Unterbrechung
+4427	Versorgung Einspritzventil(e) A Kurzschluss
+4428	Versorgung Einspritzventil(e) A elektr.Fehler im Stromkreis
+4429	Versorgung Einspritzventil(e) B Kurzschluss
+442A	Versorgung Einspritzventil(e) B elektr.Fehler im Stromkreis
+442B	reserviert fuer C & D (s.o.)
+442C	reserviert fuer C & D (s.o.)
+442D	reserviert fuer C & D (s.o.)
+442E	reserviert fuer C & D (s.o.)
+442F	Bank1,Ventil fuer Nockenwellenverstellung, Auslass-N318 elektr.Fehler im Stromkreis
+4430	Bank1,Ventil fuer Nockenwellenverstellung, Auslass-N318 Kurzschluss nach Plus
+4431	Bank1,Ventil fuer Nockenwellenverstellung, Auslass-N318 Kurzschluss nach Masse
+4432	Bank1,Ventil fuer Nockenwellenverstellung, Auslass-N318 Unterbrechung
+4433	Bank2,Ventil fuer Nockenwellenverstellung, Auslass-N319 elektr.Fehler im Stromkreis
+4434	Bank2,Ventil fuer Nockenwellenverstellung, Auslass-N319 Kurzschluss nach Plus
+4435	Bank2,Ventil fuer Nockenwellenverstellung, Auslass-N319 Kurzschluss nach Masse
+4436	Bank2,Ventil fuer Nockenwellenverstellung, Auslass-N319 Unterbrechung
+4437	Bank1,Nockenwellenverstellung, Auslass Kurzschluss nach Plus
+4438	Bank1,Nockenwellenverstellung, Auslass Kurzschluss nach Masse
+4439	Bank1,Nockenwellenverstellung, Auslass Unterbrechung
+443A	Bank2,Nockenwellenverstellung, Auslass Kurzschluss nach Plus
+443B	Bank2,Nockenwellenverstellung, Auslass Kurzschluss nach Masse
+443C	Bank2,Nockenwellenverstellung, Auslass Unterbrechung
+443D	Bank2,Nockenwellenspaetverstellung Soll nicht erreicht
+443E	Bank2,Nockenwellenfruehverstellung Soll nicht erreicht
+443F	Kraftstoffdruckregelung Regelgrenze unterschritten
+4440	Kraftstoffdrucksystem mechanischer Fehler
+4441	Kraftstoffdruckregelung Regeldifferenz
+4442	Ventil fuer Ansaugluftumschaltung-N335 Kurzschluss nach Plus
+4443	Ventil fuer Ansaugluftumschaltung-N335 Kurzschluss nach Masse
+4444	Ventil fuer Ansaugluftumschaltung-N335 Unterbrechung
+4445	Geber fuer NOx-G295, Heizungskontrollsignal Kurzschluss nach Masse
+4446	Geber fuer NOx-G295, Heizungskontrollsignal Kurzschluss nach Plus
+4447	Geber fuer NOx-G295, Heizungskontrollsignal unplausibles Signal
+4448	Geber fuer NOx-G295, Heizungskontrollsignal elektr. Fehler im Stromkreis
+4449	Luftmassenmesser 2-G246 Signal zu klein
+444A	Luftmassenmesser 2-G246 Signal zu gross
+444B	Lambda-Regelung Abgas-Bank 3 System zu mager
+444C	Lambda-Regelung Abgas-Bank 3 System zu fett
+444D	Lambda-Regelung Abgas-Bank 4 System zu mager
+444E	Lambda-Regelung Abgas-Bank 4 System zu fett
+444F	Lambda-Regelung Abgas-Bank 3 unplausibler Regelwert
+4450	Lambda-Regelung Abgas-Bank 4 unplausibler Regelwert
+4451	Abgas-Bank3, Gemischadaption Bereich 1 Magergrenze unterschritten
+4452	Abgas-Bank3, Gemischadaption Bereich 2 Magergrenze unterschritten
+4453	Abgas-Bank3, Gemischadaption Bereich 1 Fettgrenze ueberschritten
+4454	Abgas-Bank3, Gemischadaption Bereich 2 Fettgrenze ueberschritten
+4455	Abgas-Bank4, Gemischadaption Bereich 1 Magergrenze unterschritten
+4456	Abgas-Bank4, Gemischadaption Bereich 2 Magergrenze unterschritten
+4457	Abgas-Bank4, Gemischadaption Bereich 1 Fettgrenze ueberschritten
+4458	Abgas-Bank4, Gemischadaption Bereich 2 Fettgrenze ueberschritten
+4459	Bank2, Gemischadaption Bereich 1 Magergrenze unterschritten
+445A	Bank2, Gemischadaption Bereich 2 Magergrenze unterschritten
+445B	Bank2, Gemischadaption Bereich 1 Fettgrenze ueberschritten
+445C	Bank2, Gemischadaption Bereich 2 Fettgrenze ueberschritten
+445D	Bank1,Kraftstoffbemessungssystem 2 Fehlfunktion
+445E	Bank2,Kraftstoffbemessungssystem 2 Fehlfunktion
+445F	
+4460	
+4461	
+4462	
+4463	
+4464	Bank1-Sonde2,Heizstromkreis Leistung zu gering
+4465	Bank1-Sonde1 Spannung zu klein/Leckluft
+4466	Bank1-Sonde1,Heizstromkreis Kurzschluss nach Plus
+4467	Bank1-Sonde1,Heizstromkreis Leistung zu gering
+4468	Bank1-Sonde2 Spannung zu klein/Leckluft
+4469	Bank1-Sonde2,Heizstromkreis Kurzschluss nach Plus
+446A	Bank2-Sonde1 Spannung zu klein/Leckluft
+446B	Bank2-Sonde1,Heizstromkreis Kurzschluss nach Plus
+446C	Bank2-Sonde1,Heizstromkreis Leistung zu gering
+446D	Bank2-Sonde2 Spannung zu klein/Leckluft
+446E	Bank2-Sonde2,Heizstromkreis Kurzschluss nach Plus
+446F	Lambda-Regelung (Bank 1) System zu mager
+4470	Lambda-Regelung (Bank 1) System zu fett
+4471	Bank 1, Sonde 1 Innenwiderstand zu gross
+4472	Bank 1, Sonde 2 Innenwiderstand zu gross
+4473	Bank1-Sonde1,Heizstromkreis Kurzschluss nach Masse
+4474	Bank1-Sonde1,Heizstromkreis Unterbrechung
+4475	Bank1-Sonde2,Heizstromkreis Kurzschluss nach Masse
+4476	Bank1-Sonde2,Heizstromkreis Unterbrechung
+4477	Bank2-Sonde1,Heizstromkreis Kurzschluss nach Masse
+4478	Bank2-Sonde1,Heizstromkreis Unterbrechung
+4479	Bank2-Sonde2,Heizstromkreis Kurzschluss nach Masse
+447A	Bank2-Sonde2,Heizstromkreis Unterbrechung
+447B	Bank1,Gemischadaption Luft (add) System zu fett
+447C	Bank1,Gemischadaption Luft (add) System zu mager
+447D	Bank2,Gemischadaption Luft (add) System zu fett
+447E	Bank2,Gemischadaption Luft (add) System zu mager
+447F	Bank1,Gemischadaption (mult) System zu fett
+4480	Bank1,Gemischadaption (mult) System zu mager
+4481	Bank2,Gemischadaption (mult) System zu fett
+4482	Bank2,Gemischadaption (mult) System zu mager
+4483	Bank 2, Sonde 1 Innenwiderstand zu gross
+4484	Bank1+2-Sonde1,Heizstromkreis Kurzschluss nach Plus
+4485	Bank1+2-Sonde1,Heizstromkreis elektr.Fehler
+4486	Bank1+2-Sonde2,Heizstromkreis Kurzschluss nach Plus
+4487	Bank1+2-Sonde2,Heizstromkreis elektr.Fehler
+4488	Bank1,Gemischadaption (add) System zu mager
+4489	Bank1,Gemischadaption (add) System zu fett
+448A	Bank2,Gemischadaption (add) System zu mager
+448B	Bank2,Gemischadaption (add) System zu fett
+448C	Bank 2, Sonde 2 Innenwiderstand zu gross
+448D	Lasterfassung unplausibler Wert
+448E	Lasterfassung Grenze unterschritten
+448F	Lasterfassung Grenze ueberschritten
+4490	Luftmassenmesser-G70 Unterbrechung/Kurzschluss nach Masse
+4491	Luftmassenmesser-G70 Kurzschluss nach Plus
+4492	Luftmassenmesser-G70 Versorgungsspannung
+4493	Lambda-Regelung Bank 2 System zu mager
+4494	Lambda-Regelung Bank 2 System zu fett
+4495	Lambda-Regelung Bank 1 unplausibler Regelwert
+4496	Lambda-Regelung Bank 2 unplausibler Regelwert
+4497	Bank1, Gemischadaption Bereich 1 Magergrenze unterschritten
+4498	Bank1, Gemischadaption Bereich 2 Magergrenze unterschritten
+4499	Lambda-Sonden nach Kat vertauscht
+449A	Saugrohrumschaltung Fehlfunktion
+449B	Geber fuer Saugrohrdruck-G71 Kurzschluss nach Plus
+449C	Geber fuer Saugrohrdruck-G71 Unterbrechung/Kurzschluss nach Masse
+449D	Geber fuer Saugrohrdruck-G71 Versorgungsspannung
+449E	Geber fuer Saugrohrdruck-G71 unplausibles Signal
+449F	Signal Luftmassenmesser1/Luftmassenmesser2 unplausibles Verhaeltnis
+44A0	Geber fuer Saugrohrtemp.-G72 Kurzschluss nach Masse
+44A1	Geber fuer Saugrohrtemp.-G72 Unterbrechung/Kurzschluss nach Plus
+44A2	Geber fuer Kraftstofftemp.-G81 Kurzschluss nach Masse
+44A3	Geber fuer Kraftstofftemp.-G81 Unterbrechung/Kurzschluss nach Plus
+44A4	Geber fuer Kraftstofftemp.# -G81 unplausibles Signal
+44A5	Bank1, Gemischadaption Bereich 1 Fettgrenze ueberschritten
+44A6	Bank1, Gemischadaption Bereich 2 Fettgrenze ueberschritten
+44A7	Luftmassenmesser 2-G246 unplausibles Signal
+44A8	Luftmassenmesser 2-G246 Unterbrechung/Kurzschluss nach Masse
+44A9	Luftmassenmesser 2-G246 Kurzschluss nach Plus
+44AA	Luftmassenmesser 2-G246 Versorgungsspannung
+44AB	Winkelgeber 2 fuer DK-Antrieb-G188 unplausibles Signal
+44AC	Winkelgeber 2 fuer DK-Antrieb-G188 Signal zu klein
+44AD	Winkelgeber 2 fuer DK-Antrieb-G188 Signal zu gross
+44AE	Bank 1, Kraftstoffbemessungssystem Abweichung der Einspritzzeiten 
+44AF	Voreinspritzung abgeschaltet 
+44B0	Bank1,Lambdakorrektur hinter Kat Regelgrenze erreicht
+44B1	Bank2,Lambdakorrektur hinter Kat Regelgrenze erreicht
+44B2	lineare Lambda-Sonde / Pumpstrom Unterbrechung
+44B3	lineare Lambda-Sonde / Pumpstrom Kurzschluss nach Masse
+44B4	lineare Lambda-Sonde / Pumpstrom Kurzschluss nach Plus
+44B5	lineare Lambda-Sonde / Referenzspannung Unterbrechung
+44B6	lineare Lambda-Sonde / Referenzspannung Kurzschluss nach Masse
+44B7	lineare Lambda-Sonde / Referenzspannung Kurzschluss nach Plus
+44B8	lineare Lambda-Sonde/gemeinsame Massel. Unterbrechung
+44B9	lineare Lambda-Sonde/gemeinsame Massel. Kurzschluss nach Masse
+44BA	lineare Lambda-Sonde/gemeinsame Massel. Kurzschluss nach Plus
+44BB	lineare Lambda-Sonde/Kompensationswiderst. Unterbrechung
+44BC	lineare Lambda-Sonde/Kompensationswiderst. Kurzschluss nach Masse
+44BD	lineare Lambda-Sonde/Kompensationswiderst. Kurzschluss nach Plus
+44BE	lineare Lambda-Sonde/Referenzspannung unplausibel
+44BF	lineare Lambda-Sonden vor Kat vertauscht
+44C0	Geber fuer Kraftstoffdruck-G247 Versorgungsspannung
+44C1	Geber fuer Kraftstoffdruck-G247 Unterbrechung/Kurzschluss nach Plus
+44C2	Regelventil fuer Kraftstoffdruck-N276 Kurzschluss nach Plus
+44C3	Regelventil fuer Kraftstoffdruck-N276 Unterbrechung/Kurzschluss nach Masse
+44C4	Bank1-Sonde1,Heizstromkreis elektr.Fehler
+44C5	Bank2-Sonde1,Heizstromkreis elektr.Fehler
+44C6	Bank1-Sonde2,Heizstromkreis elektr.Fehler
+44C7	Bank2-Sonde2,Heizstromkreis elektr.Fehler
+44C8	Umluftventil fuer Turbolader -N249 mechanischer Fehler
+44C9	Einspritzventil Zyl.1-N30 elektr.Fehler im Stromkreis
+44CA	Einspritzventil Zyl.2-N31 elektr.Fehler im Stromkreis
+44CB	Einspritzventil Zyl.3-N32 elektr.Fehler im Stromkreis
+44CC	Einspritzventil Zyl.4-N33 elektr.Fehler im Stromkreis
+44CD	Einspritzventil Zyl.5-N83 elektr.Fehler im Stromkreis
+44CE	Einspritzventil Zyl.6-N84 elektr.Fehler im Stromkreis
+44CF	Einspritzventil Zyl.7-N85 elektr.Fehler im Stromkreis
+44D0	Einspritzventil Zyl.8-N86 elektr.Fehler im Stromkreis
+44D1	Einlasssperrventile fuer Zylinderabschaltung Kurzschluss nach Masse
+44D2	Einlasssperrventile fuer Zylinderabschaltung Kurzschluss nach Plus
+44D3	Einlasssperrventile fuer Zylinderabschaltung Unterbrechung
+44D4	Zylinderabschaltung, Bank 1
+44D5	Einspritzventil Zyl.1-N30 Kurzschluss nach Plus
+44D6	Einspritzventil Zyl.2-N31 Kurzschluss nach Plus
+44D7	Einspritzventil Zyl.3-N32 Kurzschluss nach Plus
+44D8	Einspritzventil Zyl.4-N33 Kurzschluss nach Plus
+44D9	Einspritzventil Zyl.5-N83 Kurzschluss nach Plus
+44DA	Einspritzventil Zyl.6-N84 Kurzschluss nach Plus
+44DB	Einspritzventil Zyl.7-N85 Kurzschluss nach Plus
+44DC	Einspritzventil Zyl.8-N86 Kurzschluss nach Plus
+44DD	Auslasssperrventile fuer Zylinderabschaltung Kurzschluss nach Masse
+44DE	Auslasssperrventile fuer Zylinderabschaltung Kurzschluss nach Plus
+44DF	Auslasssperrventile fuer Zylinderabschaltung Unterbrechung
+44E0	Zylinderabschaltung, Bank 2
+44E1	Einspritzventil Zyl.1-N30 Kurzschluss nach Masse
+44E2	Einspritzventil Zyl.2-N31 Kurzschluss nach Masse
+44E3	Einspritzventil Zyl.3-N32 Kurzschluss nach Masse
+44E4	Einspritzventil Zyl.4-N33 Kurzschluss nach Masse
+44E5	Einspritzventil Zyl.5-N83 Kurzschluss nach Masse
+44E6	Einspritzventil Zyl.6-N84 Kurzschluss nach Masse
+44E7	Einspritzventil Zyl.7-N85 Kurzschluss nach Masse
+44E8	Einspritzventil Zyl.8-N86 Kurzschluss nach Masse
+44E9	
+44EA	
+44EB	
+44EC	
+44ED	Einspritzventil Zyl.1-N30 Unterbrechung
+44EE	Einspritzventil Zyl.2-N31 Unterbrechung
+44EF	Einspritzventil Zyl.3-N32 Unterbrechung
+44F0	Einspritzventil Zyl.4-N33 Unterbrechung
+44F1	Einspritzventil Zyl.5-N83 Unterbrechung
+44F2	Einspritzventil Zyl.6-N84 Unterbrechung
+44F3	Einspritzventil Zyl.7-N85 Unterbrechung
+44F4	Einspritzventil Zyl.8-N86 Unterbrechung
+44F5	Geber fuer Nadelhub-G80 Kurzschluss nach Masse
+44F6	Geber fuer Nadelhub-G80 unplausibles Signal
+44F7	Geber fuer Nadelhub-G80 Unterbrechung/Kurzschluss nach Plus
+44F8	Spritzbeginnregelung Regeldifferenz
+44F9	Kraftstoffverbrauchssignal elektr. Fehler im Stromkreis
+44FA	Kraftstoffuellstand zu gering
+44FB	Ventil fuer Einspritzbeginn-N108 Kurzschluss nach Plus
+44FC	Ventil fuer Einspritzbeginn-N108 Unterbrechung/Kurzschluss nach Masse
+44FD	Kraftstoffverbrauchssignal Kurzschluss nach Masse
+44FE	Kraftstoffverbrauchssignal Kurzschluss nach Plus
+44FF	Geber fuer Kuehlmitteltemp.-G62 Kurzschluss nach Masse
+4500	Geber fuer Kuehlmitteltemp.-G62 Unterbrechung/Kurzschluss nach Plus
+4501	Ventil fuer Kuehlmittelkreislauf-N214 Unterbrechung
+4502	Ventil fuer Kuehlmittelkreislauf-N214 Kurzschluss nach Plus
+4503	Ventil fuer Kuehlmittelkreislauf-N214 Kurzschluss nach Masse
+4504	Ventil fuer Pumpe/Duese Zylinder 1-N240 Unplausibles Signal
+4505	Ventil fuer Pumpe/Duese Zylinder 1-N240 Regelgrenze ueberschritten
+4506	Ventil fuer Pumpe/Duese Zylinder 1-N240 Regelgrenze unterschritten
+4507	Ventil fuer Pumpe/Duese Zylinder 2-N241 Unplausibles Signal
+4508	Ventil fuer Pumpe/Duese Zylinder 2-N241 Regelgrenze ueberschritten
+4509	Ventil fuer Pumpe/Duese Zylinder 2-N241 Regelgrenze unterschritten
+450A	Ventil fuer Pumpe/Duese Zylinder 3-N242 Unplausibles Signal
+450B	Ventil fuer Pumpe/Duese Zylinder 3-N242 Regelgrenze ueberschritten
+450C	Ventil fuer Pumpe/Duese Zylinder 3-N242 Regelgrenze unterschritten
+450D	Ventil fuer Pumpe/Duese Zylinder 4-N243 Unplausibles Signal
+450E	Ventil fuer Pumpe/Duese Zylinder 4-N243 Regelgrenze ueberschritten
+450F	Ventil fuer Pumpe/Duese Zylinder 4-N243 Regelgrenze unterschritten
+4510	Ventil fuer Pumpe/Duese Zylinder 5-N244 Unplausibles Signal
+4511	Ventil fuer Pumpe/Duese Zylinder 5-N244 Regelgrenze ueberschritten
+4512	Ventil fuer Pumpe/Duese Zylinder 5-N244 Regelgrenze unterschritten
+4513	Ventil fuer Pumpe/Duese Zylinder 6-N245 Unplausibles Signal
+4514	Ventil fuer Pumpe/Duese Zylinder 6-N245 Regelgrenze ueberschritten
+4515	Ventil fuer Pumpe/Duese Zylinder 6-N245 Regelgrenze unterschritten
+4516	Ventil fuer Kraftstoffdosierung-N290 Kurzschluss nach Plus
+4517	Ventil fuer Kraftstoffdosierung-N290 Unterbrechung/Kurzschluss nach Masse
+4518	Luftsteuerventil fuer Einspritzv.-N212 Durchsatz zu klein
+4519	Ventil fuer Kraftstoffdosierung-N290 Kurzschluss nach Masse
+451A	Ventil fuer Kraftstoffdosierung-N290 Unterbrechung
+451B	Luftsteuerventil fuer Einspritzv.-N212 elektr.Fehler im Stromkreis
+451C	Luftsteuerventil fuer Einspritzv.-N212 Unterbrechung
+451D	Luftsteuerventil fuer Einspritzv.-N212 Kurzschluss nach Masse
+451E	Luftsteuerventil fuer Einspritzv.-N212 Kurzschluss nach Plus
+451F	Umluftventil fuer Turbolader -N249 Unterbrechung
+4520	Umluftventil fuer Turbolader -N249 Kurzschluss nach Plus
+4521	Umluftventil fuer Turbolader -N249 Kurzschluss nach Masse
+4522	Geber fuer Kuehlmitteltemperatur-Kuehlerausgang-G83 Signal zu gross
+4523	Geber fuer Kuehlmitteltemperatur-Kuehlerausgang-G83 Signal zu klein
+4524	Thermostat fuer Kennfeldgesteuerte Motorkuehlung-F265        Unterbrechung
+4525	Thermostat fuer Kennfeldgesteuerte Motorkuehlung-F265        Kurzschluss nach Plus
+4526	Thermostat fuer Kennfeldgesteuerte Motorkuehlung-F265        Kurzschluss nach Masse
+4527	Bypass Turbolader Durchsatz fehlerhaft
+4528	Fehler im Kuehlsystem
+4529	Verbindung Lader-Drosselklappe Druckabfall
+452A	Geber fuer Kuehlmitteltemperatur-Kuehlerausgang-G83 Unplausibles Signal
+452B	Ventil fuer Kraftstoffdosierung-N290 Fehlfunktion
+452C	Verbrennungsaussetzer erkannt Grund: Kraftstoffmangel
+452D	Klopfregelung Zyl.9 Regelgrenze erreicht
+452E	Klopfregelung Zyl.10 Regelgrenze erreicht
+452F	Klopfregelung Zyl.11 Regelgrenze erreicht
+4530	Klopfregelung Zyl.12 Regelgrenze erreicht
+4531	Zuendansteuerung Zyl. 9 Unterbrechung
+4532	Zuendansteuerung Zyl. 9 Kurzschluss nach Plus
+4533	Zuendansteuerung Zyl. 9 Kurzschluss nach Masse
+4534	Zuendansteuerung Zyl. 10 Unterbrechung
+4535	Zuendansteuerung Zyl. 10 Kurzschluss nach Plus
+4536	Zuendansteuerung Zyl. 10 Kurzschluss nach Masse
+4537	Zuendansteuerung Zyl. 11 Unterbrechung
+4538	Zuendansteuerung Zyl. 11 Kurzschluss nach Plus
+4539	Zuendansteuerung Zyl. 11 Kurzschluss nach Masse
+453A	Zuendansteuerung Zyl. 12 Unterbrechung
+453B	Zuendansteuerung Zyl. 12 Kurzschluss nach Plus
+453C	Zuendansteuerung Zyl. 12 Kurzschluss nach Masse
+453D	
+453E	
+453F	Klopfsensor 1-G61 Kurzschluss nach Masse
+453F	Klopfsensor 1-G61Kurzschluss nach Masse
+4540	Klopfsensor 2-G66Kurzschluss nach Masse
+4541	Klopfsensor 3-G198Signal zu klein
+4542	Klopfsensor 3-G198Signal zu gross
+4543	Klopfsensor 4-G199Signal zu klein
+4544	Klopfsensor 4-G199Signal zu gross
+4545	Klopfregelung Zyl.1Regelgrenze erreicht
+4546	Klopfregelung Zyl.2Regelgrenze erreicht
+4547	Klopfregelung Zyl.3Regelgrenze erreicht
+4548	Klopfregelung Zyl.4Regelgrenze erreicht
+4549	Klopfregelung Zyl.5Regelgrenze erreicht
+454A	Klopfregelung Zyl.6Regelgrenze erreicht
+454B	Klopfregelung Zyl.7Regelgrenze erreicht
+454C	Klopfregelung Zyl.8Regelgrenze erreicht
+454D	
+454E	
+454F	Motormomentenueberwachung 2Regelgrenze ueberschritten
+4550	Motormomentenueberwachung Regelgrenze ueberschritten
+4551	Bank1,Nockenwellenpos.-sensor=>-G40Kurzschluss nach Masse
+4552	Bank1,Nockenwellenpos.-sensor=>-G40Unterbrechung/Kurzschluss nach Plus
+4553	Kurbelwellenpos.-/Motordrehzahlsensorvertauscht
+4554	Nockenwellenpos.-/Kurbelwellenpos.-sensfalsche Zuordnung
+4555	Zuendausgang 1Kurzschluss nach Masse
+4556	Zuendausgang 1Kurzschluss nach Plus
+4557	Zuendausgang 2Kurzschluss nach Masse
+4558	Zuendausgang 2Kurzschluss nach Plus
+4559	Zuendausgang 3Kurzschluss nach Masse
+455A	Zuendausgang 3Kurzschluss nach Plus
+455B	Bank 2, Nockenwellenpos.-/Kurbelwellenpos.-sens.falsche Zuordnung
+455C	Zuendausgang 1Unterbrechung
+455D	Zuendausgang 2Unterbrechung
+455E	Zuendausgang 3Unterbrechung
+455F	Bank1,Nockenwellenpos.-sensor=>-G40unplausibles Signal bei Start
+4560	Bank1,NockenwellenverstellungSollposition nicht erreicht
+4561	
+4562	Geber fuer Regelschieberweg-G149elektr.Fehler im Stromkreis
+4563	Zuendansteuerung Zyl. 1Unterbrechung
+4564	Zuendansteuerung Zyl. 1Kurzschluss nach Plus
+4565	Zuendansteuerung Zyl. 1Kurzschluss nach Masse
+4566	Zuendansteuerung Zyl. 2Unterbrechung
+4567	Zuendansteuerung Zyl. 2Kurzschluss nach Plus
+4568	Zuendansteuerung Zyl. 2Kurzschluss nach Masse
+4569	Zuendansteuerung Zyl. 3Unterbrechung
+456A	Zuendansteuerung Zyl. 3Kurzschluss nach Plus
+456B	Zuendansteuerung Zyl. 3Kurzschluss nach Masse
+456C	Zuendansteuerung Zyl. 4Unterbrechung
+456D	Zuendansteuerung Zyl. 4Kurzschluss nach Plus
+456E	Zuendansteuerung Zyl. 4Kurzschluss nach Masse
+456F	Zuendansteuerung Zyl. 5Unterbrechung
+4570	Zuendansteuerung Zyl. 5Kurzschluss nach Plus
+4571	Zuendansteuerung Zyl. 5Kurzschluss nach Masse
+4572	Zuendansteuerung Zyl. 6Unterbrechung
+4573	Zuendansteuerung Zyl. 6Kurzschluss nach Plus
+4574	Zuendansteuerung Zyl. 6Kurzschluss nach Masse
+4575	Zuendansteuerung Zyl. 7Unterbrechung
+4576	Zuendansteuerung Zyl. 7Kurzschluss nach Plus
+4577	Zuendansteuerung Zyl. 7Kurzschluss nach Masse
+4578	Zuendansteuerung Zyl. 8Unterbrechung
+4579	Zuendansteuerung Zyl. 8Kurzschluss nach Plus
+457A	Zuendansteuerung Zyl. 8Kurzschluss nach Masse
+457B	
+457C	
+457D	
+457E	
+457F	
+4580	
+4581	Steuergeraet defekt
+4582	Steuergeraet defekt
+4583	Steuergeraet defekt
+4584	Steuergeraet defekt
+4585	Steuergeraet 2 fuer Dieseldirekteinspritzanlage-J494defekt
+4586	
+4587	Bank2,Nockenwellenpos.-sensor=>-G163Kurzschluss nach Masse
+4588	Bank2,Nockenwellenpos.-sensor=>-G163Unterbrechung/Kurzschluss nach Plus
+4589	Zuendausgang 1elektr.Fehler im Stromkreis
+458A	Zuendausgang 2elektr.Fehler im Stromkreis
+458B	Zuendausgang 3elektr.Fehler im Stromkreis
+458C	Geber fuer Motordrehzahl-G28fehlender Zahn
+458D	Geberrad fuer MotordrehzahlAdaptionsgrenze erreicht
+458E	Motordrehzahlsignal,TDKurzschluss nach Masse
+458F	Motordrehzahlsignal,TDKurzschluss nach Plus externe Abgaskontrolleinrichtungen
+4590	Ventil fuer Abgasrueckfuehrung-N18elektr.Fehler im Stromkreis
+4591	Ventil fuer Abgasrueckfuehrung-N18Kurzschluss nach Masse
+4592	Ventil fuer Abgasrueckfuehrung-N18Kurzschluss nach Plus
+4593	AbgasrueckfuehrungssystemRegeldifferenz
+4594	AbgasrueckfuehrungssystemGrundeinstellung nicht durchgefuehrt
+4595	
+4596	Temp.-Fuehler fuer Abgasrueckfuehrung-G98unplausibles Signal
+4597	Temp.-Fuehler fuer Abgasrueckfuehrung-G98Signal zu klein
+4598	Temp.-Fuehler fuer Abgasrueckfuehrung-G98Signal zu gross
+4599	Tankentlueftungsventil-N80elektr.Fehler im Stromkreis
+459A	Tankentlueftungsventil-N80Kurzschluss nach Plus
+459B	Bank2,SekundaerluftsystemDurchsatz zu klein
+459C	Drucksensor fuer AbgasrueckfuehrungSignal zu klein
+459D	Drucksensor fuer AbgasrueckfuehrungSignal zu gross
+459E	Bank2,SekundaerluftsystemLeck erkannt
+459F	Ventil fuer Abgasrueckfuehrung-N18, Kennlinienadaptionunterer Grenzwert ueberschritten
+45A0	Ventil fuer Abgasrueckfuehrung-N18, Kennlinienadaptionoberer Grenzwert ueberschritten
+45A1	Geber fuer Kraftstoffvorrat-GSignal zu klein
+45A2	Geber fuer Kraftstoffvorrat-GSignal zu gross
+45A3	
+45A4	Sekundaerlufteinblasventil-N112elektr.Fehler im Stromkreis
+45A5	Sekundaerlufteinblasventil-N112Kurzschluss nach Masse
+45A6	Sekundaerlufteinblasventil-N112Kurzschluss nach Plus
+45A7	Bank1,SekundaerluftsystemDurchsatz zu klein
+45A8	Bank1,SekundaerluftsystemLeck erkannt
+45A9	Tankentlueftungsventil-N80Kurzschluss nach Masse
+45AA	Tankentlueftungsventil-N80Unterbrechung
+45AB	Ansteuerung Unterdruckpumpe fuer Bremse Kurzschluss nach Plus
+45AC	Ansteuerung Unterdruckpumpe fuer Bremse Kurzschluss nach Masse
+45AD	Ansteuerung Unterdruckpumpe fuer Bremse Unterbrechung
+45AE	Ansteuerung Unterdruckpumpe fuer Bremse Unterbrechung/Kurzschluss nach Plus
+45AF	Ansteuerung Unterdruckpumpe fuer Bremse Unterbrechung/Kurzschluss nach Masse
+45B0	Sekundaerlufteinblasventil-N112Unterbrechung
+45B1	Relais fuer Sekundaerluftpumpe -J299Unterbrechung
+45B2	Relais fuer Sekundaerluftpumpe-J299Kurzschluss nach Plus
+45B3	Relais fuer Sekundaerluftpumpe -J299Kurzschluss nach Masse
+45B4	Relais fuer Sekundaerluftpumpe-J299elektr.Fehler im Stromkreis
+45B5	Ventil 2 fuer Abgasrueckfuehrung-N213Kurzschluss nach Plus
+45B6	Ventil 2 fuer Abgasrueckfuehrung-N213Unterbrechung/Kurzschluss nach Masse
+45B7	Potentiometer fuer Abgasrueckfuehrung -G212Fehler in Grundeinstellung
+45B8	Ventil fuer Abgasrueckfuehrung-N18Unterbrechung
+45B9	Ventil fuer Abgasrueckfuehrung-N18Unterbrechung/Kurzschluss nach Masse
+45BA	Potentiometer fuer Abgasrueckfuehrung -G212Signal zu gross
+45BB	Potentiometer fuer Abgasrueckfuehrung -G212Signal zu klein
+45BC	Potentiometer fuer Abgasrueckfuehrung -G212unplausibles Signal
+45BD	Temp.-Fuehler 2 fuer Kat-G132unplausibles Signal
+45BE	Temp.-Fuehler 1 fuer Kat-G20Kurzschluss nach Masse
+45BF	Temp.-Fuehler 1 fuer Kat-G20Unterbrechung/Kurzschluss nach Plus
+45C0	Temp.-Fuehler 2 fuer Kat-G132Kurzschluss nach Masse
+45C1	Temp.-Fuehler 2 fuer Kat-G132Unterbrechung/Kurzschluss nach Plus
+45C2	SekundaerluftsystemKurzschluss nach Plus
+45C3	SekundaerluftsystemKurzschluss nach Masse
+45C4	SekundaerluftsystemUnterbrechung
+45C5	Geber 1 fuer Abgastemperatur -G235Unterbrechung/Kurzschluss nach Plus
+45C6	Geber 1 fuer Abgastemperatur -G235Kurzschluss nach Masse
+45C7	Geber 1 fuer Abgastemperatur -G235unplausibles Signal
+45C8	Abgastemperaturregelung Bank 1Regelgrenze erreicht
+45C9	Geber 2 fuer Abgastemperatur -G236Unterbrechung/Kurzschluss nach Plus
+45CA	Geber 2 fuer Abgastemperatur -G236Kurzschluss nach Masse
+45CB	Geber 2 fuer Abgastemperatur -G236unplausibles Signal
+45CC	Abgastemperaturregelung Bank 2Regelgrenze erreicht
+45CD	Abgastemperaturregelung Bank 1unplausibles Signal
+45CE	Abgastemperaturregelung Bank 2unplausibles Signal
+45CF	
+45D0	
+45D1	Dosierpumpe fuer Reinigungsmittel-V135Kurzschluss nach Plus
+45D2	Dosierpumpe fuer Reinigungsmittel-V135Unterbrechung/Kurzschluss nach Masse
+45D3	Magnetventil 2 fuer Aktivkohle -N115Kurzschluss nach Plus
+45D4	Magnetventil 2 fuer Aktivkohle -N115Kurzschluss nach Masse
+45D5	Magnetventil 2 fuer Aktivkohle -N115Unterbrechung
+45D6	Leckdiagnosepumpe Tankentlueftungssystemelektr.Fehler im Stromkreis
+45D7	Leckdiagnosepumpe TankentlueftungssystemKurzschluss nach Plus
+45D8	Leckdiagnosepumpe TankentlueftungssystemKurzschluss nach Masse
+45D9	Leckdiagnosepumpe TankentlueftungssystemUnterbrechung
+45DA	Magnetventil 2 fuer Aktivkohle -N115elektr. Fehler im Stromkreis
+45DB	Leckdiagnosepumpe TankentlueftungssystemFehlfunktion/kein Signal
+45DC	Leckdiagnosepumpe TankentlueftungssystemFehlfunktion/Unterdruck zu gering
+45DD	Leckdiagnosepumpe TankentlueftungssystemFehlfunktion
+45DE	Leckdiagnosepumpe TankentlueftungssystemSchlauch ohne Durchgang erkannt
+45DF	Unterdrucksystem Bremse mechanischer Fehler
+45E0	Unterdruckpumpe fuer Bremse                                                            
+45E1	Relais fuer Sekundaerluftpumpe 2 -J545 Unterbrechung
+45E2	Relais fuer Sekundaerluftpumpe 2 -J545 Kurzschluss nach Plus
+45E3	Relais fuer Sekundaerluftpumpe 2 -J545 Kurzschluss nach Masse
+45E4	Relais fuer Sekundaerluftpumpe 2 -J545 elektr.Fehler im Stromkreis
+45E5	Sekundaerlufteinblasventil 2 -N320 Unterbrechung
+45E6	Sekundaerlufteinblasventil 2 -N320 elektr.Fehler im Stromkreis
+45E7	Sekundaerlufteinblasventil 2 -N320 Kurzschluss nach Masse
+45E8	Sekundaerlufteinblasventil 2 -N320 Kurzschluss nach Plus
+45E9	Tankentlueftungsventil 2-N333 Kurzschluss nach Plus
+45EA	Tankentlueftungsventil 2-N333Kurzschluss nach Masse
+45EB	Tankentlueftungsventil 2-N333Unterbrechung
+45EC	Tankentlueftungsventil 2-N333elektr.Fehler im Stromkreis
+45ED	Unterdruckpumpe fuer Bremse Leistung zu gering 
+45EE	
+45EF	
+45F0	
+45F1	
+45F2	
+45F3	
+45F4	Kraftstoffpumpenrelais-J17elektr.Fehler im Stromkreis
+45F5	Kraftstoffpumpenrelais-J17Kurzschluss nach Masse
+45F6	Kraftstoffpumpenrelais-J17Kurzschluss nach Plus
+45F7	Belastungssignal von Generatorkl. DFunplausibles Signal
+45F8	LuftansaugsystemLeck erkannt
+45F9	Leerlaufschalter-F60schliesst nicht/Unterbrechung
+45FA	Leerlaufschalter-F60oeffnet nicht/Kurzschluss nach Masse
+45FB	Leerlaufsystem-Lernwertuntere Grenze erreicht
+45FC	Leerlaufsystem-Lernwertobere Grenze erreicht
+45FD	Ventil fuer Leerlaufstabilisierung-N71elektr.Fehler im Stromkreis
+45FE	Ventil fuer Leerlaufstabilisierung-N71Kurzschluss nach Plus
+45FF	Ventil Registersaugrohrumschaltung-N156elektr.Fehler im Stromkreis
+4600	Ventil Registersaugrohrumschaltung-N156Kurzschluss nach Plus
+4601	Ventil2 f.Registersaugrohrumschalt -N261Kurzschluss nach Plus
+4602	Ventil2 f.Registersaugrohrumschalt.-N261Kurzschluss nach Masse
+4603	Ventil fuer Registersaugrohrumschaltung-N156Kurzschluss nach Masse
+4604	Ventil fuer Registersaugrohrumschaltung-N156Unterbrechung
+4605	Hauptrelais=>-J271elektr.Fehler im Stromkreis
+4606	Hauptrelais=>-J271Kurzschluss nach Plus
+4607	Bank1,NockenwellenverstellungFehlfunktion
+4608	Ventil2 f.Registersaugrohrumschalt.-N261Unterbrechung
+4609	Ventil2 f.Registersaugrohrumschalt.-N261elektr. Fehler im Stromkreis
+460A	Bank2,NockenwellenverstellungFehlfunktion
+460B	Crash-Signal vom Airbag-SGunplausibles Signal
+460C	Kraftstoffpumpenrelais-J17Unterbrechung/Kurzschluss nach Masse
+460D	Bank1,Nockenwellenverstellung=>-N205elektr.Fehler im Stromkreis
+460E	Bank1,Nockenwellenverstellung=>-N205Kurzschluss nach Plus
+460F	Bank1,Nockenwellenverstellung=>-N205Kurzschluss nach Masse
+4610	Bank1,Nockenwellenverstellung=>-N205Unterbrechung
+4611	NockenwellenverstellungKurzschluss nach Plus
+4612	NockenwellenverstellungKurzschluss nach Masse
+4613	NockenwellenverstellungUnterbrechung
+4614	Leerlaufregelung MagerbetriebDrehzahl unter Sollwert
+4615	Bank2,Nockenwellenverstellung=>-N208elektr.Fehler im Stromkreis
+4616	Bank2,Nockenwellenverstellung=>-N208Kurzschluss nach Plus
+4617	Bank2,Nockenwellenverstellung=>-N208Kurzschluss nach Masse
+4618	Bank2,Nockenwellenverstellung=>-N208Unterbrechung
+4619	Kraftstoffabschaltventil-N109Fehlfunktion
+461A	Kraftstoffabschaltventil-N109Unterbrechung/Kurzschluss nach Masse
+461B	Kupplungspedalschalter -F36unplausibles Signal
+461C	Fahrzeug-GeschwindigkeitssignalSignal zu gross
+461D	Kraftstoffpumpenrelais-J17Unterbrechung
+461E	Winkelgeber fuer DK-Antrieb-G187unplausibles Signal
+461F	Winkelgeber fuer DK-Antrieb-G187Signal zu klein
+4620	Winkelgeber fuer DK-Antrieb-G187Signal zu gross
+4621	DrosselklappensteuerungFehlfunktion
+4622	Magnetventil fuer Ladedruckbegrenzung-N75 Kurzschluss nach Plus
+4623	Magnetventil fuer Ladedruckbegrenzung-N75Kurzschluss nach Masse
+4624	Magnetventil fuer Ladedruckbegrenzung-N75Unterbrechung
+4625	Magnetventil fuer Ladedruckbegrenzung-N75Unterbrechung/Kurzschluss nach Masse
+4626	LadedruckRegeldifferenz
+4627	Hoehengeber-F96Kurzschluss nach Plus
+4628	Hoehengeber-F96Unterbrechung/Kurzschluss nach Masse
+4629	Signal Hoehengeber/Saugrohrdruckunplausibles Verhaeltnis
+462A	Drosselklappensteuereinheit# -J338Bedingungen f.Grundeinstellung n.erfuellt
+462B	maximaler Ladedruck ueberschritten
+462C	LadedruckregelungRegelgrenze unterschritten
+462D	LadedruckregelungRegelgrenze ueberschritten
+462E	Drosselklappenantrieb-G186elektr.Fehler im Stromkreis
+462F	Drosselklappensteuereinheit-J338Fehler in Grundeinstellung
+4630	maximale Motordrehzahl ueberschritten
+4631	Mengensteller-N146Regeldifferenz
+4632	Mengensteller-N146oberer Anschlagwert
+4633	Mengensteller-N146unterer Anschlagwert
+4634	Drosselklappensteuereinheit-J338Unterspannung bei Grundeinstellung
+4635	Drosselklappensteuereinheit-J338unterer Anschlag wird nicht erreicht
+4636	Lastsignal vom Klimakompressorunplausibles Signal
+4637	Lastsignal vom Klimakompressorkein Signal
+4638	Drosselklappensteuereinheit -J338mechanischer Fehler
+4639	Schalter fuer GRA-E45unplausibles Signal
+463A	Motorsteuergeraet gesperrt
+463B	Ventil links fuer Motorlagerung -N144Kurzschluss nach Plus
+463C	Ventil links fuer Motorlagerung -N144Kurzschluss nach Masse
+463D	Ventil links fuer Motorlagerung -N144Unterbrechung
+463E	Ventil links fuer Motorlagerung -N144elektr. Fehler im Stromkreis
+463F	Ventil rechts fuer Motorlagerung -N145Kurzschluss nach Plus
+4640	Ventil rechts fuer Motorlagerung -N145Kurzschluss nach Masse
+4641	Ventil rechts fuer Motorlagerung -N145Unterbrechung
+4642	Ventil rechts fuer Motorlagerung -N145elektr. Fehler im Stromkreis
+4643	Drosselklappensteuereinheit# -J338Adaption nicht gestartet
+4644	Drosselklappenantrieb Bank 1Fehlfunktion
+4645	Drosselklappensteuereinheit# -J338Grundeinstellung nicht durchgefuehrt
+4646	LeerlaufregelungAdaptionsgrenze erreicht
+4647	Ventile fuer Getriebelagerung-N262/263Kurzschluss nach Plus
+4648	Ventile fuer Getriebelagerung-N262/263Kurzschluss nach Masse
+4649	Ventile fuer Getriebelagerung-N262/263Unterbrechung
+464A	Ventile fuer Motorlagerung -N144/145Kurzschluss nach Plus
+464B	Ventile fuer Motorlagerung -N144/145Kurzschluss nach Masse
+464C	Ventile fuer Motorlagerung -N144/145Unterbrechung
+464D	Potentiometer Drehknopf Temperaturwahl-G267Kurschluss nach Masse
+464E	Potentiometer Drehknopf Temperaturwahl-G267Unterbrechung
+464F	Magnetventil fuer Ladedruckbegrenzung-N75keine Funktion
+4650	Signal Hoehengeber/Ladedrucksensorunplausibles Verhaeltnis
+4651	Hoehenadaption Signal ausserhalb Toleranz
+4652	Geber fuer oeltemperatur, Nockenwellenverstellung-G277Kurzschluss nach Plus
+4653	Geber fuer oeltemperatur, Nockenwellenverstellung-G277Unterbrechung/Kurzschluss nach Masse
+4654	Datenbus-Antriebunplausible Botschaft vom Niveauregulierungs-SG-J197
+4655	Datenbus-Antriebfehlende Botschaft vom Niveauregulierungs-SG-J197
+4656	Geber fuer oeltemperatur, Nockenwellenverstellung-G277unplausibles Signal
+4657	Leerlaufregelung MagerbetriebDrehzahl ueber Sollwert
+4658	Spannungsversorgung Kl.15Spannung zu klein
+4659	Relais fuer Spannungsvers.-Klemme 30-J317 unplausibles Signal
+465A	Spannungsversorgung Kl.30Spannung zu klein
+465B	Steuergeraet defekt
+465C	Steuergeraet defekt
+465D	Schlechtwege-/Beschleunigungssensorelektr.Fehler im Stromkreis
+465E	Schlechtwegeinfo/Motorsollmom.vom ABS-SGelektr.Fehler im Stromkreis
+465F	GeschwindigkeitssignalFehlermeldung vom Kombiinstrument
+4660	LenkwinkelsignalFehlermeldung vom Lenkwinkelgeber
+4661	Crashabschaltung wurde ausgeloest
+4662	Steuergeraet defekt
+4663	Anforderung Fehlerlampe einKurzschluss nach Masse
+4664	Motorsteuergeraetfalsch codiert
+4665	Anforderung Fehlerlampe einUnterbrechung/Kurzschluss nach Plus
+4666	Anforderung Fehlerlampe einunplausibles Signal
+4667	Geber fuer oeltemperatur -G8unplausibles Signal
+4668	Kontrollampe fuer Vorgluehzeit-K29Kurzschluss nach Plus
+4669	Kontrollampe fuer Vorgluehzeit-K29Unterbrechung/Kurzschluss nach Masse
+466A	Relais fuer Gluehkerzen-J52Kurzschluss nach Plus
+466B	Relais fuer Gluehkerzen-J52Unterbrechung/Kurzschluss nach Masse
+466C	Signal fuer KuehlmitteltemperaturUnterbrechung/Kurschluss nach Plus
+466D	Signal fuer Kuehlmitteltemperaturkurzschluss nach Masse
+466E	Signal fuer Kuehlmitteltemperaturunplausibles Signal
+466F	Datenbus-Antriebkeine Kommunikation
+4670	Anforderung Fehlerlampe einaktiv
+4671	Datenbus-Antriebunplausible Botschaft vom Getriebe-SG
+4672	Datenbus-Antriebfehlende Botschaft vom Getriebe-SG
+4673	Datenbus-Antriebfehlende Botschaft vom Einspritzpumpen-SG
+4674	Datenbus-Antriebfehlende Botschaft vom Geber f. Lenkwinkel
+4675	Datenbus-Antriebfehlende Botschaft vom ADR-SG
+4676	Geber fuer Gaspedalstellung-G79Signal zu klein
+4677	Geber fuer Gaspedalstellung-G79Signal zu gross
+4678	Geber fuer Gaspedalstellung-G79Versorgungsspannung
+4679	Geber 2 fuer Gaspedalstellung-G185Signal zu klein
+467A	Geber 2 fuer Gaspedalstellung-G185Signal zu gross
+467B	Datenbus Antriebfehlende Botschaft vom Klima-SG
+467C	Datenbus Antriebfehlende Botschaft vom Airbag-SG
+467D	Datenbus Antriebfehlende Botschaft von elektron. ZE
+467E	Datenbus Antriebfehlende Botschaft vom Kupplungs-SG
+467F	Geber 1/2 fuer Gaspedalstellung-G79+G185unplausibles Signal
+4680	Steuergeraet defekt
+4681	Bitte Fehlerspeicher desKlima-SG auslesen
+4682	Bitte Fehlerspeicher desAirbag-SG auslesen
+4683	Bitte Fehlerspeicher derelektron. ZE auslesen
+4684	Bitte Fehlerspeicher des Kupplungs-SG auslesen
+4685	Datenbus Antriebfehlende Botschaft von Allrad-Elektronik
+4686	Bitte Fehlerspeicher derAllrad-Elektronik auslesen
+4687	Codierung/Varianten der Steuergeraete im Antriebsstrang pruefen
+4688	Datenbus Antriebdefekt
+4689	Datenbus Antriebfehlende Botschaft vom ABS-SG
+468A	Datenbus Antriebfehlende Botschaft vom Kombiinstrument
+468B	Datenbus Antriebfehlende Botschaften
+468C	Bitte Fehlerspeicher desGetriebe-SG auslesen
+468D	Bitte Fehlerspeicher desABS-SG auslesen
+468E	Bitte Fehlerspeicher desKombiinstrumentes auslesen
+468F	Bitte Fehlerspeicher desADR-SG auslesen
+4690	Klimaanlage Eingang/AusgangKurzschluss nach Masse
+4691	Klimaanlage Eingang/AusgangKurzschluss nach Plus
+4692	Datenbus-Antriebunplausible Botschaft vom ADR-SG
+4693	Kuehlerluefteransteuerung 1Kurzschluss nach Plus
+4694	Kuehlerluefteransteuerung 1Kurzschluss nach Masse
+4695	Kuehlerluefteransteuerung 2Kurzschluss nach Plus
+4696	Kuehlerluefteransteuerung 2Kurzschluss nach Masse
+4697	Ansteuerung Ventile Pumpe/Duese Kurzschluss nach Plus
+4698	Ansteuerung Ventile Pumpe/Duese Elektrischer Fehler im Stromkrreis
+4699	Ansteuerung Ventile Pumpe/Duese mechanischer Fehler
+469A	Ventil fuer Pumpe/Duese Zylinder 1-N240 elektrischer Fehler im Stromkreis
+469B	Ventil fuer Pumpe/Duese Zylinder 2-N241 elektrischer Fehler im Stromkreis
+469C	Ventil fuer Pumpe/Duese Zylinder 3-N242 elektrischer Fehler im Stromkreis
+469D	Ventil fuer Pumpe/Duese Zylinder 4-N243 elektrischer Fehler im Stromkreis
+469E	Ventil fuer Pumpe/Duese Zylinder 5-N244 elektrischer Fehler im Stromkreis
+469F	Ventil fuer Pumpe/Duese Zylinder 6-N245 elektrischer Fehler im Stromkreis
+46A0	Kuehlerluefteransteuerung 1Unterbrechung/Kurzschluss nach Masse
+46A1	Geschwindigkeitssignal Fehlermeldung vom ABS Steuergeraet
+46A2	Datenbus Antriebunplausible Botschaft vom Kombiinstrument
+46A3	Datenbus-Antriebunplausible Botschaft vom Einspritzpumpen-SG
+46A4	Fehlerlampe fuer elektr.Gasbetaetigung-K132elektr.Fehler im Stromkreis
+46A5	Fehlerlampe fuer elektr.Gasbetaetigung-K132Kurzschluss nach Plus
+46A6	Fehlerlampe fuer elektr.Gasbetaetigung-K132Kurzschluss nach Masse
+46A7	Fehlerlampe fuer elektr.Gasbetaetigung-K132Unterbrechung
+46A8	Resetfester Notlauf aktiv
+46A9	Steuergeraete-ProgrammierungProgrammierung nicht beendet
+46AA	Datenbus-Antriebunplausible Botschaft vom ABS-SG
+46AB	Datenbus-Antriebunplausible Botschaft vom Airbag-SG
+46AC	Steuergeraete-ProgrammierungFehler in Datenuebertragung
+46AD	Datenbus Antriebunplausible Botschaft vom Geber fuer Lenkwinkel
+46AE	Steuergeraet defektProgrammierungsfehler
+46AF	Datenbus Antriebunplausible Botschaft vom Klima-SG
+46B0	Datenbus Antriebunplausible Botschaft von Allrad-Elektronik
+46B1	Datenbus Antriebunplausible Botschaft von elektron. ZE
+46B2	Fehlerlampe fuer Eigendiagnose-K83elektr.Fehler im Stromkreis
+46B3	Fehlerlampe fuer Eigendiagnose-K83Unterbrechung
+46B4	Fehlerlampe fuer Eigendiagnose-K83Kurzschluss nach Masse
+46B5	Fehlerlampe fuer Eigendiagnose-K83Kurzschluss nach Plus
+46B6	Fehlerlampe fuer Eigendiagnose-K83Unterbrechung/Kurzschluss nach Masse
+46B7	Datenbus Antriebunplausible Botschaft vom Kupplungs-SG
+46B8	Datenbus Antriebunplausible Botschaft von Lenksaeulenelektronik
+46B9	Bitte Fehlerspeicher des Gebers fuer Lenkwinkel auslesen
+46BA	Bitte Fehlerspeicher der Lenksaeulenelektronik auslesen
+46BB	Datenbus Antriebfehlende Botschaft von Lenksaeulenelektronik
+46BC	Bremsdruckschalter-F270unplausibles Signal
+46BD	
+46BE	
+46BF	
+46C0	Kick-Down-Schalter-F8elektr.Fehler im Stromkreis
+46C1	Gang-/uebersetzungsueberwachungAdaptionsgrenze erreicht
+46C2	
+46C3	
+46C4	
+46C5	
+46C6	
+46C7	Raddrehzahlsignal 1=>Fuehler vl-G47unplausibles Signal
+46C8	
+46C9	
+46CA	
+46CB	
+46CC	Raddrehzahlsignal 2=>Fuehler vr-G45unplausibles Signal
+46CD	
+46CE	
+46CF	
+46D0	
+46D1	Raddrehzahlsignal 3=>Fuehler hl-G46unplausibles Signal
+46D2	
+46D3	Signal fuer AnlasssperreUnterbrechung
+46D4	Signal fuer AnlasssperreKurzschluss nach Masse
+46D5	
+46D6	Raddrehzahlsignal 4=>Fuehler hr-G44unplausibles Signal
+46D7	
+46D8	Unterschiedliche Raederdrehzahlenunplausibles Signal
+46D9	Signal fuer AnlasssperreKurzschluss nach Plus
+46DA	
+46DB	
+46DC	
+46DD	Schalter fuer Tiptronic, zurueck-F189Kurzschluss nach Masse
+46DE	
+46DF	
+46E0	
+46E1	
+46E2	
+46E3	Schalter fuer Tiptronic, hoch-F189 Kurzschluss nach Masse
+46E4	Kupplungstemperaturueberwachung
+46E5	Kupplungsdruckadaption Adaptionsgrenze erreicht
+46E6	Kupplungsmomentenadaption Adaptionsgrenze erreicht
+46E7	Kupplungsschlupfueberwachung Signal zu gross
+46E8	Schalter fuer Tiptronic, Erkennung-F189 Kurzschluss nach Masse
+46E9	Versorgungsspannung fuer Magnetventile Kurzschluss nach Plus
+46EA	Versorgungsspannung fuer Magnetventileelektr.Fehler im Stromkreis
+46EB	Versorgungsspannung fuer MagnetventileUnterbrechung/Kurzschluss nach Masse
+46EC	Steuergeraet defekt
+46ED	Steuergeraet fuer Automatikgetriebefalsche Codierung
+46EE	SpannungsversorgungSpannung zu klein
+46EF	SpannungsversorgungSpannung zu gross
+46F0	Spannungsversorgungunplausibles Signal
+46F1	Schalter fuer Tiptronik,-F189unplausibles Signal
+46F2	Schalter fuer Tiptronik, hoch-F189Unterbrechung/ Kurzschluss nach Plus
+46F3	Schalter fuer Tiptronik, zurueck-F189Unterbrechung/ Kurzschluss nach Plus
+46F4	Schalter fuer Tiptronik, Erkennung-F189Unterbrechung/ Kurzschluss nach Plus
+46F5	SpannungsversorgungUnterbrechung
+46F6	Spannungsversorgung Klemme 15Unterbrechung
+46F7	
+46F8	Schaltsperre=>Magnet-N110elektr.Fehler im Stromkreis
+46F9	Schaltsperre=>Magnet-N110Kurzschluss nach Masse
+46FA	Schaltsperre=>Magnet-N110Kurzschluss nach Plus
+46FB	Schaltsperre=>Magnet-N110Unterbrechung
+46FC	Getriebetemperaturueberwachung
+46FD	Geber 2 fuer Hydraulikdruck-G194 Adaptionsgrenze erreicht
+46FE	Drosselklappensignal vom Motor-SGUnterbrechung/Kurzschluss nach Plus
+46FF	Drosselklappensignal vom Motor-SGKurzschluss nach Masse
+4700	Geber 2 fuer Hydraulikdruck-G194Signal zu gross
+4701	Geber 2 fuer Hydraulikdruck-G194Signal zu klein
+4702	Lastsignal vom Motor-SGunplausibles Signal
+4703	Lastsignal vom Motor-SGUnterbrechung/Kurzschluss nach Plus
+4704	Lastsignal vom Motor-SGKurzschluss nach Masse
+4705	Geber 1 fuer Hydraulikdruck-G193Signal zu gross
+4706	Geber 1 fuer Hydraulikdruck-G193Signal zu klein
+4707	Geber 1 fuer Hydraulikdruck-G193Adaptionsgrenze erreicht
+4708	Geber 1 fuer Hydraulikdruck# -G193unplausibles Signal
+4709	Geber 2 fuer Hydraulikdruck# -G194unplausibles Signal
+470A	Ventil 7elektr.Fehler im Stromkreis
+470B	
+470C	
+470D	Signal fuer DrehmomentreduzierungUnterbrechung/Kurzschluss nach Masse
+470E	Signal fuer DrehmomentreduzierungKurzschluss nach Plus
+470F	
+4710	Hoch-/RueckschaltleitungUnterbrechung/Kurzschluss nach Masse
+4711	Hoch-/RueckschaltleitungKurzschluss nach Plus
+4712	Signal fuer RueckfahrlichtUnterbrechung
+4713	Signal fuer RueckfahrlichtKurzschluss nach Masse
+4714	Signal fuer RueckfahrlichtKurzschluss nach Plus
+4715	LeerlaufdrehzahlbeeinflussungFehlermeldung vom Motor-SG
+4716	Signal fuer WaehlbereichsanzeigeUnterbrechung
+4717	Signal fuer WaehlbereichsanzeigeKurzschluss nach Masse
+4718	Signal fuer WaehlbereichsanzeigeKurzschluss nach Plus
+4719	Geber 2 fuer Getriebeausg.-drehzahl-G196kein Signal
+471A	
+471B	Signal fuer FahrgeschwindigkeitUnterbrechung
+471C	Signal fuer FahrgeschwindigkeitKurzschluss nach Masse
+471D	Signal fuer FahrgeschwindigkeitKurzschluss nach Plus
+471E	Geber 2 fuer Getriebeausg.-drehzahl-G196unplausibles Signal
+471F	Geber 2 fuer Getriebeausg.-drehzahl-G196Drehzahl zu hoch
+4720	Ventil fuer Hydrauliksteller-N331elektrischer Fehler im Stromkreis
+4721	SignaltonansteuerungKurzschluss nach Plus
+4722	Kupplungspedalschalter-F194unplausibles Signal
+4723	Planetennachschaltstufemechanischer Fehler
+4724	Weggeber fuer Hydrauliksteller-G302elektrischer Fehler im Stromkreis
+4725	Weggeber fuer Hydrauliksteller-G302oberer Grenzwert ueberschritten
+4726	Weggeber fuer Hydrauliksteller-G302unterer Grenzwert unterschritten
+4727	Weggeber fuer Hydrauliksteller-G302keine oder falsche Grundeinstellung/Adaption
+4728	Weggeber fuer Hydrauliksteller-G302unplausibles Signal
+4729	Hydraulikpumpe fuer Nachschaltstufe-V190elektrischer Fehler im Stromkreis
+472A	
+472B	
+472C	
+472D	Druckregelventil 1-N215elektr.Fehler im Stromkreis
+472E	Druckregelventil 1-N215Unterbrechung/Kurzschluss nach Masse
+472F	Druckregelventil 1-N215Kurzschluss nach Plus
+4730	
+4731	
+4732	Druckregelventil 2-N216elektr.Fehler im Stromkreis
+4733	Druckregelventil 2-N216Unterbrechung/Kurzschluss nach Masse
+4734	Druckregelventil 2-N216Kurzschluss nach Plus
+4735	
+4736	
+4737	Druckregelventil 3-N217elektr.Fehler im Stromkreis
+4738	Druckregelventil 3-N217Unterbrechung/Kurzschluss nach Masse
+4739	Druckregelventil 3-N217Kurzschluss nach Plus
+473A	
+473B	
+473C	Druckregelventil 4-N218elektr.Fehler im Stromkreis
+473D	Druckregelventil 4-N218Unterbrechung/Kurzschluss nach Masse
+473E	Druckregelventil 4-N218Kurzschluss nach Plus
+473F	
+4740	
+4741	
+4742	Druckregelventil 5-N233Unterbrechung/Kurzschluss nach Masse
+4743	Druckregelventil 5-N233Kurzschluss nach Plus
+4744	
+4745	
+4746	
+4747	
+4748	
+4749	Motor-/GetriebesteuergeraetVarianten passen nicht zusammen
+474A	Bitte Fehlerspeicher desKombiinstrumentes auslesen
+474B	Bitte Fehlerspeicher desADR-SG auslesen
+474C	Bitte Fehlerspeicher derelektron. ZE auslesen
+474D	Bitte Fehlerspeicher derLenksaeulenelektronik-J527 auslesen
+474E	
+474F	Bitte Fehlerspeicher desABS-SG auslesen
+4750	Bitte Fehlerspeicher desMotor-SG auslesen
+4751	Bitte Fehlerspeicher desGetriebe-SG auslesen
+4752	Datenbus-Antriebfehlende Botschaft vom Motor-SG
+4753	Datenbus-Antriebfehlende Botschaft vom ABS-SG
+4754	Datenbus-Antriebunplausible Botschaft vom Motor-SG
+4755	Datenbus-Antriebunplausible Botschaft vom ABS-SG
+4756	Datenbus-Antriebdefekt
+4757	Datenbus-AntriebSoftwarestandsueberwachung
+4758	Drosselklappenpotentiometer-G69Fehlermeldung vom Motor-SG
+4759	LastsignalFehlermeldung vom Motor-SG
+475A	Drehzahlsignal vom Motor-SGFehlermeldung vom Motor-SG
+475B	Bremslichtschalter-FFehlermeldung vom Motor-SG
+475C	Kick-Down-Schalter-F8Fehlermeldung vom Motor-SG
+475D	Geber fuer Gaspedalstellung -G79Fehlermeldung vom Motorsteuergeraet
+475E	Datenbus Antriebfehlende Botschaft vom Kombiinstrument
+475F	Datenbus Antriebfehlende Botschaft vom Geber fuer Lenkwinkel
+4760	Datenbus Antriebfehlende Botschaft vom ADR-SG
+4761	Datenbus Antriebfehlende Botschaft der elektron. ZE
+4762	Datenbus Antriebfehlende Botschaften
+4763	Datenbus Antriebfehlende Botschaften der Lenksaeulenelektronik-J527
+4764	
+4765	
+4766	
+4767	
+4768	
+4769	
+476A	
+476B	
+476C	
+476D	
+476E	
+476F	 
+4770	
+4771	
+4772	
+4773	
+4774	
+4775	
+4776	
+4777	
+4778	
+4779	
+477A	
+477B	
+477C	
+477D	
+477E	
+477F	
+4780	
+4781	
+4782	
+4783	
+4784	Kuehlerluefteransteuerung 2Unterbrechung/Kurzschluss nach Masse
+4785	Steuergeraet fuer Kuehlerluefternachlauf-J138Kurzschluss nach Plus
+4786	Steuergeraet fuer Kuehlerluefternachlauf-J138Unterbrechung/Kurzschluss nach Masse
+4787	Ventil fuer Luefter Kuehlmittel-N313Kurzschluss nach Plus
+4788	Ventil fuer Luefter Kuehlmittel-N313Unterbrechung/Kurzschluss nach Masse
+4789	Relais fuer Pumpe Ladeluftkuehlung-J536Kurzschluss nach Plus
+478A	Relais fuer Pumpe Ladeluftkuehlung-J536Unterbrechung/Kurzschluss nach Masse
+478B	Datenbus Motor/Motordefekt
+478C	Datenbus Motor/MotorSoftwarestandsueberwachung
+478D	Datenbus Motor/Motorfehlende Botschaft vom Motorsteuergeraet 1
+478E	Datenbus Motor/Motorfehlende Botschaft vom Motorsteuergeraet 2
+478F	Synchronisationsleitung Motor/Motorelektr. Fehler im Stromkreis
+4790	Drucksensor fuer Bremskraftverstaerker-G294Unterbrechung/Kurzschluss nach Plus
+4791	Drucksensor fuer Bremskraftverstaerker-G294Kurzschluss nach Masse
+4792	Drucksensor fuer Bremskraftverstaerker-G294Unplausibles Signal
+4793	Relais fuer Kuehlmittelnachlauf-J151Kurzschluss nach Plus
+4794	Relais fuer Kuehlmittelnachlauf-J151Kurzschluss nach Masse
+4795	Relais fuer Kuehlmittelnachlauf-J151Unterbrechung
+4796	Belastungssignal von Generatorkl. DFUnterbrechung/Kurzschluss nach Plus
+4797	Belastungssignal von Generatorkl. DFKurzschluss nach Masse
+4798	Ventile fuer Motorlagerung -N144/145Unterbrechung/Kurzschluss nach Masse
+4799	Temperaturfuehler 2 fuer Aussentemperatur-G249Kurzschluss nach Masse
+479A	Temperaturfuehler 2 fuer Aussentemperatur-G249Unterbrechung/Kurzschluss nach Plus
+479B	Bitte Fehlerspeicher vonMotorsteuergeraet 2 auslesen
+479C	Steuergeraetepincodierungunplausibles Signal
+479D	Relais fuer Kuehlmittelzusatzpumpe-J496Kurzschluss nach Plus
+479E	Relais fuer Kuehlmittelzusatzpumpe-J496Kurzschluss nach Masse
+479F	Relais fuer Kuehlmittelzusatzpumpe-J496Unterbrechung
+47A0	Wegfahrsperrenabfrage noch nicht durchgefuehrt
+47A1	Luefter fuer Kuehlmittel-V7Unterbrechung
+47A2	Luefter 2 fuer Kuehlmittel-V177Unterbrechung
+47A3	Steuergeraet fuer Luefter fuer Kuehlmittel-J293Fehlfunktion
+47A4	
+47A5	
+47A6	
+47A7	
+47A8	
+47A9
+47AA
+47AB
+47AC
+47AD
+47AE
+47AF
+47B0
+47B1
+47B2
+47B3
+47B4
+47B5
+47B6
+47B7
+47B8
+47B9
+47BA
+47BB
+47BC
+47BD
+47BE
+47BF
+47C0
+47C1
+47C2
+47C3
+47C4
+47C5
+47C6
+47C7
+47C8
+47C9
+47CA
+47CB
+47CC
+47CD
+47CE
+47CF
+47D0
+47D1
+47D2
+47D3
+47D4
+47D5
+47D6
+47D7
+47D8
+47D9	
+47DA	
+47DB	
+47DC	
+47DD	
+47DE	
+47DF	
+47E0
+47E1
+47E2
+47E3
+47E4
+47E5
+47E6
+47E7
+4C00	Kontrollampe fuer Vorgluehzeit-K29Fehlermeldung vom Kombiinstrument
+4C01	Arbeitsdrehzahlregelung Regeldifferenz
+4C02	Kick-Down-Schalter-F8unplausibles Signal
+4C03	Relais fuer kleine Heizleistung-J359Kurzschluss nach Plus
+4C04	Relais fuer kleine Heizleistung-J359Unterbrechung/Kurzschluss nach Masse
+4C05	Relais fuer grosse Heizleistung-J360Kurzschluss nach Plus
+4C06	Relais fuer grosse Heizleistung-J360Unterbrechung/Kurzschluss nach Masse
+4C07	Nockenwellenpos.-sensor-G40kein Signal
+4C08	Nockenwellenpos.-sensor-G40Signal ausserhalb der Toleranz
+4C09	Relais fuer Pumpe, Kraftstoffkuehlung-J445 Kurschluss nach Plus
+4C0A	Relais fuer Pumpe, Kraftstoffkuehlung-J445 Unterbrechung/Kurschluss nach Masse
+4C0B	Relais fuer elektr. Kraftstoffpumpe 2-J49 Kurschluss nach Plus
+4C0C	Relais fuer elektr. Kraftstoffpumpe 2-J49 Unterbrechung/Kurschluss nach Masse
+4C0D	Ventil 2 fuer Ladedruckbegrenzung-N274Kurzschluss nach Plus
+4C0E	Ventil 2 fuer Ladedruckbegrenzung-N274Unterbrechung/Kurzschluss nach Masse
+4C0F	Ventil fuer Kraftstoff-Bypass-N312Kurzschluss nach Plus
+4C10	Ventil fuer Kraftstoff-Bypass-N312Unterbrechung/Kurzschluss nach Masse
+4C11	Ventil fuer Abgasklappe 1-N321Kurzschluss nach Plus
+4C12	Ventil fuer Abgasklappe 1-N321Kurzschluss nach Masse
+4C13	Ventil fuer Abgasklappe 1-N321Unterbrechung
+4C14	Ventil fuer Abgasklappe 1-N321elektrischer Fehler im Stromkreis
+4C15	Ventil fuer Abgasklappe 2-N322Kurzschluss nach Plus
+4C16	Ventil fuer Abgasklappe 2-N322Kurzschluss nach Masse
+4C17	Ventil fuer Abgasklappe 2-N322Unterbrechung
+4C18	Ventil fuer Abgasklappe 2-N322elektrischer Fehler im Stromkreis
+4C19	Winkelgeber 1 fuer DK-Antrieb 2-G297unplausibles Signal
+4C1A	Winkelgeber 1 fuer DK-Antrieb 2-G297Signal zu klein
+4C1B	Winkelgeber 1 fuer DK-Antrieb 2-G297Signal zu gross
+4C1C	Winkelgeber 2 fuer DK-Antrieb 2-G298unplausibles Signal
+4C1D	Winkelgeber 2 fuer DK-Antrieb 2-G298Signal zu klein
+4C1E	Winkelgeber 2 fuer DK-Antrieb 2-G298Signal zu gross
+4C1F	Drosselklappenantrieb 2-G296elektr.Fehler im Stromkreis
+4C20	Drosselklappensteuereinheit 2-J544Fehler in Grundeinstellung
+4C21	Geber 2 fuer Ansauglufttemp.-G299Signal zu klein
+4C22	Geber 2 fuer Ansauglufttemp.-G299Signal zu gross
+4C23	Drosselklappensteuereinheit 2-J544mechanischer Fehler
+4C24	Drosselklappensteuereinheit 2-J544Unterspannung bei Grundeinstellung
+4C25	Drosselklappensteuereinheit 2-J544Adaption nicht gestartet
+4C26	Drosselklappensteuereinheit 2-J544unterer Anschlag wird nicht erreicht
+4C27	Getriebeanforderung Momentenreduzierungunplausibel
+4C28	Getriebeuebersetzung unplausibel
+4C29	Datenbus Antrieb unplausible Motortemperaturbotschaft vom Kombi
+4C2A	Heizungsregelung unplausibles Signal
+4C2B	
+4C2C	
+4C2D	
+4C2E	
+4C2F	
+4C30	
+4C31
+4C32
+4C33
+4C34
+4C35
+4C36
+4C37
+4C38
+4C39
+4C3A
+4C3B
+4C3C
+4C3D
+4C3E
+4C3F
+4C40
+4C41
+4C42
+4C43
+4C44
+4C45
+4C46
+4C47
+4C48
+4C49
+4C4A
+4C4B
+4C4C
+4C4D
+4C4E
+4C4F
+4C50
+4C51
+4C52
+4C53
+4C54
+4C55
+4C56
+4C57
+4C58
+4C59
+4C5A
+4C5B
+4C5C
+4C5D
+4C5E
+4C5F
+4C60
+4C61	
+4C62	
+4C63	
+4C64	Motor fuer Saugrohklappe-V157 Kurzschluss nach Plus
+4C65	Motor fuer Saugrohrklappe-V157 Unterbrechung/Kurzschluss nach Masse
+4C66	Motor fuer Saugrohrklappe-V157 kein Signal
+4C67	Motor fuer Saugrohrklappe-V157 defekt
+4C68	Umschaltventil fuer Saugrohrklappe-N239 Kurzschluss nach Plus
+4C69	Umschaltventil fuer Saugrohrklappe-N239 Unterbrechung/Kurzschluss nach Masse
+4C6A	Ventil fuer Pumpe/Duese Zylinder 7-N303 Unplausibles Signal
+4C6B	Ventil fuer Pumpe/Duese Zylinder 7-N303 Regelgrenze ueberschritten
+4C6C	Ventil fuer Pumpe/Duese Zylinder 7-N303Regelgrenze unterschritten
+4C6D	Ventil fuer Pumpe/Duese Zylinder7-N303 elektrischer Fehler im Stromkreis
+4C6E	Ventil fuer Pumpe/Duese Zylinder 8-N304 Unplausibles Signal
+4C6F	Ventil fuer Pumpe/Duese Zylinder 8-N304 Regelgrenze ueberschritten
+4C70	Ventil fuer Pumpe/Duese Zylinder 8-N304Regelgrenze unterschritten
+4C71	Ventil fuer Pumpe/Duese Zylinder 8-N304 elektrischer Fehler im Stromkreis
+4C72	Ventil fuer Pumpe/Duese Zylinder 9-N305 Unplausibles Signal
+4C73	Ventil fuer Pumpe/Duese Zylinder 9-N305 Regelgrenze ueberschritten
+4C74	Ventil fuer Pumpe/Duese Zylinder 9-N305Regelgrenze unterschritten
+4C75	Ventil fuer Pumpe/Duese Zylinder 9-N305 elektrischer Fehler im Stromkreis
+4C76	Ventil fuer Pumpe/Duese Zylinder 10-N306 Unplausibles Signal
+4C77	Ventil fuer Pumpe/Duese Zylinder 10-N306 Regelgrenze ueberschritten
+4C78	Ventil fuer Pumpe/Duese Zylinder 10-N306Regelgrenze unterschritten
+4C79	Ventil fuer Pumpe/Duese Zylinder 10-N306 elektrischer Fehler im Stromkreis
+4C7A	Ventil fuer Pumpe/Duese Zylinder 11-N307 Unplausibles Signal
+4C7B	Ventil fuer Pumpe/Duese Zylinder 11-N307 Regelgrenze ueberschritten
+4C7C	Ventil fuer Pumpe/Duese Zylinder 11-N307Regelgrenze unterschritten
+4C7D	Ventil fuer Pumpe/Duese Zylinder 11-N307 elektrischer Fehler im Stromkreis
+4C7E	Ventil fuer Pumpe/Duese Zylinder 12-N308 Unplausibles Signal
+4C7F	Ventil fuer Pumpe/Duese Zylinder 12-N308 Regelgrenze ueberschritten
+4C80	Ventil fuer Pumpe/Duese Zylinder12-N308Regelgrenze unterschritten
+4C81	Ventil fuer Pumpe/Duese Zylinder 12-N308 elektrischer Fehler im Stromkreis
+4C82	Abgasrueckfuehrsystem Regelgrenze ueberschritten
+4C83	Abgasrueckfuehrsystem Regelgrenze unterschritten
+4C84	
+4C85	
+4C86	
+4C87	
+4C88	
+4C89	
+4C8A	
+4C8B	
+4C8C	
+4C8D	
+4C8E	
+4C8F	
+4C90	
+4C91
+4C92
+4C93
+4C94
+4C95
+4C96
+4C97
+4C98
+4C99
+4C9A
+4C9B
+4C9C
+4C9D
+4C9E
+4C9F
+4CA0
+4CA1
+4CA2
+4CA3
+4CA4
+4CA5
+4CA6
+4CA7
+4CA8
+4CA9
+4CAA
+4CAB
+4CAC
+4CAD
+4CAE
+4CAF
+4CB0
+4CB1
+4CB2
+4CB3
+4CB4
+4CB5
+4CB6
+4CB7
+4CB8
+4CB9
+4CBA
+4CBB
+4CBC
+4CBD
+4CBE
+4CBF
+4CC0
+4CC1	
+4CC2	
+4CC3	
+4CC4	
+4CC5	
+4CC6	
+4CC7	
+4CC8	Abgas-Bank3-Sonde1,HeizstromkreisKurzschluss nach Masse
+4CC9	Abgas-Bank3-Sonde1,HeizstromkreisKurzschluss nach Plus
+4CCA	Abgas-Bank3-Sonde1,HeizstromkreisUnterbrechung
+4CCB	Abgas-Bank3-Sonde1,Heizstromkreiselektr.Fehler
+4CCC	Abgas-Bank3-Sonde1Innenwiderstand zu gross
+4CCD	Abgas-Bank3-Sonde1Spannung zu klein
+4CCE	Abgas-Bank3-Sonde1Spannung zu gross
+4CCF	Abgas-Bank3-Sonde1elektr.Fehler im Stromkreis
+4CD0	Abgas-Bank3-Sonde1keine Aktivitaet
+4CD1	Abgas-Bank3-Sonde1Signal zu langsam
+4CD2	Abgas-Bank3-Sonde1,HeizstromkreisLeistung zu gering
+4CD3	
+4CD4	
+4CD5	
+4CD6	
+4CD7	Abgas-Bank3-Sonde2,HeizstromkreisKurzschluss nach Masse
+4CD8	Abgas-Bank3-Sonde2,HeizstromkreisKurzschluss nach Plus
+4CD9	Abgas-Bank3-Sonde2,HeizstromkreisUnterbrechung
+4CDA	Abgas-Bank3-Sonde2,Heizstromkreiselektr.Fehler
+4CDB	Abgas-Bank3-Sonde2Innenwiderstand zu gross
+4CDC	Abgas-Bank3-Sonde2Spannung zu klein
+4CDD	Abgas-Bank3-Sonde2Spannung zu gross
+4CDE	Abgas-Bank3-Sonde2elektr.Fehler im Stromkreis
+4CDF	Abgas-Bank3-Sonde2keine Aktivitaet
+4CE0	Abgas-Bank3-Sonde2Signal zu langsam
+4CE1	
+4CE2	
+4CE3	
+4CE4	
+4CE5	
+4CE6	Abgas-Bank4-Sonde1,HeizstromkreisKurzschluss nach Masse
+4CE7	Abgas-Bank4-Sonde1,HeizstromkreisKurzschluss nach Plus
+4CE8	Abgas-Bank4-Sonde1,HeizstromkreisUnterbrechung
+4CE9	Abgas-Bank4-Sonde1,Heizstromkreiselektr.Fehler
+4CEA	Abgas-Bank4-Sonde1Innenwiderstand zu gross
+4CEB	Abgas-Bank4-Sonde1Spannung zu klein
+4CEC	Abgas-Bank4-Sonde1Spannung zu gross
+4CED	Abgas-Bank4-Sonde1elektr.Fehler im Stromkreis
+4CEE	Abgas-Bank4-Sonde1keine Aktivitaet
+4CEF	Abgas-Bank4-Sonde1Signal zu langsam
+4CF0	Abgas-Bank4-Sonde1,HeizstromkreisLeistung zu gering
+4CF1	
+4CF2	
+4CF3	
+4CF4	
+4CF5	Abgas-Bank4-Sonde2,HeizstromkreisKurzschluss nach Masse
+4CF6	Abgas-Bank4-Sonde2,HeizstromkreisKurzschluss nach Plus
+4CF7	Abgas-Bank4-Sonde2,HeizstromkreisUnterbrechung
+4CF8	Abgas-Bank4-Sonde2,Heizstromkreiselektr.Fehler
+4CF9	Abgas-Bank4-Sonde2Innenwiderstand zu gross
+4CFA	Abgas-Bank4-Sonde2Spannung zu klein
+4CFB	Abgas-Bank4-Sonde2Spannung zu gross
+4CFC	Abgas-Bank4-Sonde2elektr.Fehler im Stromkreis
+4CFD	Abgas-Bank4-Sonde2keine Aktivitaet
+4CFE	Abgas-Bank4-Sonde2Signal zu langsam
+4CFF	Bank 1, Lambda-Sonde vor Kat, Heizstromkreis Regelung am oberen Anschlag
+4D00	Bank 1, Lambda-Sonde vor Kat, Heizstromkreis Regelung am unteren Anschlag
+4D01	Bank 2, Lambda-Sonde vor Kat, Heizstromkreis Regelung am oberen Anschlag
+4D02	Bank 2, Lambda-Sonde vor Kat, Heizstromkreis Regelung am unteren Anschlag
+4D03	
+4D04	Abgasbank 1/2 Lambda-Sonden vor Kat vertauscht
+4D05	Abgasbank 3/4 Lambda-Sonden vor Kat vertauscht
+4D06	Abgasbank 1/2 Lambda-Sonden nach Kat vertauscht
+4D07	Abgasbank 3/4 Lambda-Sonden nach Kat vertauscht
+4D08	Vorkatalysator, Abgasbank3Wirkung zu gering
+4D09	Vorkatalysator, Abgasbank4Wirkung zu gering
+4D0A	Bank 1, Sonde 1Innenwiderstand unplausibel
+4D0B	Bank 2, Sonde 1Innenwiderstand unplausibel
+4D0C	
+4D0D	
+4D0E	
+4D0F	
+4D10
+4D11
+4D12
+4D13
+4D14
+4D15
+4D16
+4D17
+4D18
+4D19
+4D1A
+4D1B
+4D1C
+4D1D
+4D1E
+4D1F
+4D20	
+4D21	
+4D22	
+4D23	
+4D24	
+4D25	
+4D26	
+4D27	
+4D28	
+4D29	
+4D2A	
+4D2B	
+4D2C	Bank1,Nockenwellenpos.-sensor, Auslass=>-G300Kurzschluss nach Masse
+4D2D	Bank1,Nockenwellenpos.-sensor, Auslass=>-G300Unterbrechung/Kurzschluss nach Plus
+4D2E	Bank2,Nockenwellenpos.-sensor, Auslass=>-G301Kurzschluss nach Masse
+4D2F	Bank2,Nockenwellenpos.-sensor, Auslass=>-G301Unterbrechung/Kurzschluss nach Plus
+4D30	Bank1,Auslass-Nockenwellenpos.-/Kurbelwellenpos.-sens.falsche Zuordnung
+4D31	Bank2,Auslass-Nockenwellenpos.-/Kurbelwellenpos.-sens.falsche Zuordnung
+4D32	
+4D33	
+4D34	
+4D35	
+4D36	
+4D37	
+4D38	
+4D39	
+4D3A	
+4D3B	
+4D3C	
+4D3D	
+4D3E	
+4D3F
+4D40
+4D41
+4D42
+4D43
+4D44
+4D45
+4D46
+4D47
+4D48
+4D49
+4D4A
+4D4B
+4D4C
+4D4D
+4D4E
+4D4F
+4D50
+4D51
+4D52
+4D53
+4D54
+4D55
+4D56
+4D57
+4D58
+4D59
+4D5A
+4D5B
+4D5C
+4D5D
+4D5E
+4D5F
+4D60
+4D61
+4D62
+4D63
+4D64
+4D65
+4D66
+4D67
+4D68
+4D69
+4D6A
+4D6B
+4D6C
+4D6D
+4D6E
+4D6F
+4D70
+4D71
+4D72
+4D73
+4D74
+4D75
+4D76
+4D77
+4D78
+4D79
+4D7A
+4D7B
+4D7C
+4D7D
+4D7E
+4D7F
+4D80
+4D81
+4D82
+4D83
+4D84
+4D85
+4D86
+4D87
+4D88
+4D89
+4D8A
+4D8B
+4D8C
+4D8D
+4D8E
+4D8F
+6050	Noch kein Fehlertext angegeben

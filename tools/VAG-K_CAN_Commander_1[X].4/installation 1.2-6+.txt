@@ -1,0 +1,35 @@
+1. Driver installation
+	1.1. Donlgle Driver -> in folder "Dongle Driver USB" start file "inf_inst.exe"
+	1.2. Interface USB driver -> in folder "Interface Driver USB/Executable" start file "CDM_Setup.exe"
+
+2. Software installation
+ -> place folder "VAG-K+CAN Commander" at usful for you place
+
+3. Connect USB dongle to your PC
+
+4. Connect interface to your PC
+
+5. If your operation system is Windows XP - skip this step
+
+   Check proper setting of the USB-COM port
+   Your interface is detected from Windows like COM port (USB-COM). 
+   You must check whether setting of CURRENT port are proper.
+   From "My Computer->properies->hardware->device manager->Ports (COM&LPT)->USB Serial Port (COM x)" 
+   select properties (right mouse button) then "Port Settings->Advanced". Your value for "Latency Timer (msec) should be 1! 
+   If not set to 1. You can have a look in the file "advanced settings usb-com port.bmp" how seems settings.
+
+	NOTE: Next time when you connection your interface to another USB port settings above must be repeated so recommended 
+	      is fisrst time when you starting usage to set proper setting of for all possible USB ports.
+	      In the next SW releases need from setting of ports will be skiped.
+
+
+6. Starting SW
+   You can start "VAG-K+CAN Commander.EXE" file from folder mentioned in step 2. above
+
+
+
+Usage:
+
+- select type of your connection to the vehicle (CAN/K-line) -> choice some of available functions for the current connection
+
+For some actions need to be estabilished diagnostic session with selected unit (like example is when you need to change odometer value of some CAN-vehicle).

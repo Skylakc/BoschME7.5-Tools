@@ -1,0 +1,14 @@
+Take care that with current version standart diagnostic functions not available under k-line
+
+Example read eeprom of EDC15:
+1. Choice connection type "K-line"
+2. Press button ECU (from "Special function")
+3. Select "EDC15"
+4. Press "Read"
+
+
+Example read eeprom of dashboard:
+1. Choice connection type "K-line"
+2. Press button "Instrument/Immobilizer" (from "Special function")
+3. Select type of your dashboard
+4. Press "Read"

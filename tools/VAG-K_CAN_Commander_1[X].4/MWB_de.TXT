@@ -1,0 +1,671 @@
+00000	ohne Text
+00001	Adaption läuft
+00002	Adaption in Ordnung
+00003	l-Regelung aus
+00004	l-Regelung ein
+00005	Leerlauf
+00006	Teillast
+00007	Vollast
+00008	Anreicherung
+00009	Schub
+00010	Fahrstufe eingelegt
+00011	Fahrstufe neutral
+00012	Motoreingriff 
+00013	Heizungs- / Klimabereitschaft high-Pegel
+00014	Heizungs- / Klimabereitschaft low Pegel
+00015	Kompressor ein
+00016	Kompressor aus
+00017	Tankentlüftung aktiv
+00018	Tankentlüftung nicht aktiv
+00019	Sekundärluftpumpe ein
+00020	Sekundärluftpumpe aus
+00021	Aktivkohlefilter-Adaptionsvorgang zu
+00022	Aktivkohlefilter-Adaptionsvorgang auf
+00023	Saugrohrumschaltungsventil ein
+00024	Saugrohrumschaltungsventil aus
+00025	Abgasrückführung aktiv
+00026	Abgasrückführung nicht aktiv
+00027	l-Adaption
+00028	Öldruck 1 unterhalb Minimum
+00029	Öldruck 1 in Ordnung
+00030	Öldruck 2 unterhalb Minimum
+00031	Öldruck 2 in Ordnung
+00032	Minuten-Taste
+00033	Stunden-Taste
+00034	1000 km-Taste
+00035	Multifunktionsanzeige Spalte 1
+00036	Multifunktionsanzeige Spalte 2
+00037	Multifunktionsanzeige Reset
+00038	Multifunktionsanzeige Modus
+00039	
+00040	
+00041	Motor
+00042	Getriebe
+00043	Motor und Getriebe
+00044	Katalysatorüberwachung ein
+00045	Katalysatorüberwachung aus
+00046	
+00047	
+00048	Losfahrschalter
+00049	Klemme 15 ein
+00050	Klemme 15 aus
+00051	Klemme 50 ein
+00052	Klemme 50 aus
+00053	Nutzbremse zulässig
+00054	Nutzbremse gesperrt
+00055	Hochschalttaster
+00056	Rückschalttaster
+00057	Mittelstellung in Tiptronic-Gasse
+00058	Bremse
+00059	Kick Down
+00060	Wandlerkupplung auf
+00061	Wandlerkupplung zu
+00062	
+00063	Wählhebelstellung P oder N eingelegt
+00064	Wählhebelstellung P oder N nicht eingelegt
+00065	1.
+00066	2. Pedal betätigen und halten ...
+00067	3.
+00068	4.
+00069	1.
+00070	2. Pedal lösen; vorne rechts und vorne links Entlüfterschrauben öffnen
+00071	3. weiter mit Taste 3
+00072	4.
+00073	1.
+00074	2. Pedal 10mal betätigen; Entlüfterschrauben schließen
+00075	3. weiter mit Taste 3
+00076	4.
+00077	1.
+00078	2. Teilentlüftung beendet
+00079	3.
+00080	4.
+00081	1.
+00082	2. Bitte warten ... (10 Sekunden)
+00083	3.
+00084	4.
+00085	1.
+00086	2. Auslaßventile schalten ...
+00087	3.
+00088	4.
+00089	Leerfeld(Airbagsystem)
+00090	Error
+00091	zu klein
+00092	richtig
+00093	zu groß
+00094	Endpunkt Masse
+00095	Endpunkt Plus
+00096	Klemme 30 ein
+00097	Klemme 30 aus
+00098	Bremslichtschalter ein
+00099	Bremslichtschalter aus
+00100	Türkontaktschalter ein
+00101	Türkontaktschalter aus
+00102	Beifahrerairbag 
+00103	aktiviert
+00104	gesperrt
+00105	Heckscheibenheizung ein
+00106	Heckscheibenheizung aus
+00107	
+00108	1.
+00109	2. alte/neue Schlüsselzahl:
+00110	3.
+00111	Pumpe ein
+00112	Pumpe aus
+00113	Relais ein
+00114	Relais aus
+00115	ungültig
+00116	Antriebsschlupfregelung aktiv
+00117	Versorgungsspannung für Geschwindigkeitsregelanlage freigeschaltet
+00118	Wandlerkupplung-Regelung läuft
+00119	Antriebsschlupfregelung nicht aktiv
+00120	kein Eingriff
+00121	Nockenwelle, Verstellung 1 ein
+00122	Nockenwelle, Verstellung 1 aus
+00123	Nockenwelle, Verstellung 2 ein
+00124	Nockenwelle, Verstellung 2 aus
+00125	belegt
+00126	nicht belegt
+00127	Gurt steckt im Gurtschloß
+00128	Gurt steckt nicht im Gurtschloß
+00129	nicht definiert
+00130	verpolt
+00131	1.
+00132	2. Empfindlichkeit in %
+00133	früh
+00134	spät
+00135	ein
+00136	aus
+00137	Tankgeber
+00138	Tankinhalt
+00139	Istwert
+00140	Grundwert
+00141	1. 
+00142	2. Ölwechsel fällig in 1000 km/1000 Meilen/10 Tagen
+00143	3. Inspektion fällig in 1000 km/1000 Meilen/10 Tagen
+00144	4.
+00145	5.
+00146	Sprache
+00147	1.
+00148	2. Verbrauchsanzeige
+00149	1.
+00150	2. Kilometer-/Meilenstand
+00151	3.
+00152	1.
+00153	2. Faktor für Tachometer/Wegstrecke
+00154	3.
+00155	gesperrt
+00156	Datenbus in Ordnung
+00157	Datenbus nicht in Ordnung
+00158	Fahrer
+00159	Fahrer und Beifahrer
+00160	Beifahrer
+00161	hinten links
+00162	hinten links und hinten rechts
+00163	hinten rechts
+00164	Memory
+00165	verriegeln
+00166	entriegeln
+00167	unbetätigt
+00168	dreht
+00169	steht
+00170	auf
+00171	zu
+00172	Tür auf
+00173	Tür zu
+00174	1.
+00175	2. Steuergerät antwortet nicht
+00176	3.
+00177	4.
+00178	verriegelt
+00179	entriegelt
+00180	safe
+00181	nicht safe
+00182	positive x-Richtung
+00183	negative x-Richtung
+00184	positive x-Richtung
+00185	negative x-Richtung
+00186	links
+00187	rechts
+00188	abklappen
+00189	ausgerastet
+00190	eingerastet
+00191	ja
+00192	nein
+00193	betätigt
+00194	in Ordnung
+00195	nicht in Ordnung
+00196	kein Meßwert vorhanden
+00197	Schlüssel
+00198	l-Korrektur hinter Kat., Bank 1 ein
+00199	l-Korrektur hinter Kat., Bank 1 aus
+00200	l-Korrektur hinter Kat., Bank 2 ein
+00201	l-Korrektur hinter Kat., Bank 2 aus
+00202	Bank 1, l-Sonde 1 ein
+00203	Bank 1, l-Sonde 1 aus
+00204	Bank 2, l-Sonde 1 ein
+00205	Bank 2, l-Sonde 1 aus
+00206	Bank 1, l-Sonde 2 ein
+00207	Bank 1, l-Sonde 2 aus
+00208	Bank 1, l-Sonde 2 nicht in Ordnung
+00209	Bank 1, l-Sonde 2  in Ordnung
+00210	Bank 2, l-Sonde 2 ein
+00211	Bank 2, l-Sonde 2 aus
+00212	Bank 2, l-Sonde 2 nicht in Ordnung
+00213	Bank 2, l-Sonde 2  in Ordnung
+00214	l-Sondenheizung vor Kat ein
+00215	l-Sondenheizung vor Kat aus
+00216	l-Sondenheizung nach Kat ein
+00217	l-Sondenheizung nach Kat aus
+00218	Kat-Konvertierung Bank 1 nicht in Ordnung
+00219	Kat-Konvertierung Bank 1 in Ordnung
+00220	Kat-Konvertierung Bank 2 nicht in Ordnung
+00221	Kat-Konvertierung Bank 2 in Ordnung
+00222	Tankentlüftungsventil nicht in Ordnung
+00223	Tankentlüftungsventil in Ordnung
+00224	Messung
+00225	Messung beendet
+00226	Systemtest
+00227	System nicht in Ordnung
+00228	System in Ordnung
+00229	Feinleck
+00230	Grobleck
+00231	Abbruch
+00232	luftumfaßte Einspritzventile in Ordnung
+00233	luftumfaßte Einspritzventile nicht in Ordnung
+00234	Test ein
+00235	Test aus
+00236	Bank 1, l-Sonde 1 nicht in Ordnung
+00237	Bank 1, l-Sonde 1 in Ordnung
+00238	Bank 2, l-Sonde 1 nicht in Ordnung
+00239	Bank 2, l-Sonde 1 in Ordnung
+00240	Lautsprecher vorne
+00241	Lautsprecher hinten
+00242	Kurzschluß
+00243	Unterbrechung
+00244	Antenne
+00245	Telefon
+00246	Verbindung Radio - CD-Player
+00247	externes Display
+00248	nicht verbaute Komponente
+00249	Leitungsbefüllung mit 0/255
+00250	Nockenwellensteuerung ein
+00251	Nockenwellensteuerung aus
+00252	Bereich nicht in Ordnung
+00253	Bereich in Ordnung
+00254	
+00255	Leitungsbefüllung mit 0/249
+01000	langsam leiser
+01001	schnell leiser
+01002	langsam lauter
+01003	Grundwert 1
+01004	Grundwert 2
+01005	1.
+01006	2.
+01007	3. Inspektion 1 in 100 km/100 Meilen
+01008	4. Inspektion 2 in 100 km/100 Meilen
+01009	5. Inspektion 2 in 500 km/500 Meilen
+01010	6. Ölwechsel in 500 km/500 Meilen
+01011	7.
+01012	8.
+01013	unplausibel
+01014	Oktanzahl
+01015	1. Kennfeld
+01016	2. Kennfeld
+01017	passive
+01018	aktive
+01019	Heizung ein
+01020	Heizung aus
+01021	zuheizen
+01022	lüften
+01023	heizen
+01024	Gebläse ein
+01025	Gebläse aus
+01026	automatisch
+01027	manuell
+01028	schnell lauter
+01029	Speicherdurchlauf abwärts langsam
+01030	Start
+01031	Nachlauf
+01032	Regelpause
+01033	Störung
+01034	1.
+01035	2. Unterspannungsabschaltung
+01036	3.
+01037	neuer Wert
+01038	1.
+01039	2. Anpassung an Batterie
+01040	Ende
+01041	Reed-Kontakt offen
+01042	Reed-Kontakt geschlossen
+01043	Speicherdurchlauf abwärts schnell
+01044	Speicherdurchlauf aufwärts langsam
+01045	Speicherdurchlauf aufwärts schnell
+01046	Radio
+01047	senden
+01048	1.
+01049	2. Abgleich Lenkwinkelsensor
+01050	1.
+01051	2. System entlüften
+01052	warten
+01053	1.
+01054	2. weiter mit Grundeinstellung 2
+01055	3.
+01056	Regellage
+01057	gelernt
+01058	anheben 
+01059	absenken
+01060	Regelung
+01061	Heckklappe auf
+01062	Heckklappe zu
+01063	1.
+01064	2. Scheinwerfer einstellen
+01065	Ebene
+01066	Berg
+01067	Tongeber ein
+01068	Tongeber aus
+01069	Rückwärtsgang erkannt
+01070	Rückwärtsgang nicht erkannt
+01071	Anhänger erkannt
+01072	Anhänger nicht erkannt
+01073	1. 
+01074	2. mit 0/149 bzw. 0/150 Kilometerstand/Meilenstand in 10 km/Meilen-Schritten
+01075	3.
+01076	lKorrektur Bank 1 in Ordnung
+01077	lKorrektur Bank 1 nicht in Ordnung
+01078	lKorrektur Bank 2 in Ordnung
+01079	lKorrektur Bank 2 nicht in Ordnung
+01080	vor
+01081	zurück
+01082	 Abweichung von
+01083	vorwärts
+01084	rückwärts
+01085	beliebig
+01086	nicht erkannt
+01087	automatisch öffnen
+01088	automatisch schließen
+01089	manuell öffnen
+01090	manuell schließen
+01091	Heckdeckelfernentriegelung betätigt
+01092	Heckdeckelgriff betätigt???
+01093	1.
+01094	2. Auto-Lock/-Unlock, Bedeutung -> O.L.
+01095	1.
+01096	2. Innenraumüberwachung
+01097	System
+01098	Überwachung
+01099	Rad vorne links
+01100	Rad vorne rechts
+01101	Rad hinten links
+01102	Rad hinten rechts
+01103	Reserverad
+01104	Fernsehantenne 1
+01105	Fernsehantenne 2
+01106	Fernsehantenne 3
+01107	Fernsehantenne 4
+01108	1.
+01109	2. Navigationsverbindung
+01110	Rückwärtsgang eingelegt
+01111	Rückwärtsgang nicht eingelegt
+01112	GPS-Antenne
+01113	Datenbus
+01114	Motor-Nachricht nicht empfangen
+01115	Motor-Nachricht empfangen
+01116	ABS-Nachricht nicht empfangen
+01117	ABS-Nachricht empfangen
+01118	Getriebe-Nachricht nicht empfangen
+01119	Getriebe-Nachricht empfangen
+01120	Kombiintsrument-Nachricht nicht empfangen
+01121	Kombiinstrument-Nachricht empfangen
+01122	Dieselpumpen-Nachricht nicht empfangen
+01123	Dieselpumpen-Nachricht empfangen
+01124	Lenkwinkelsensor-Nachricht nicht empfangen
+01125	Lenkwinkelsensor-Nachricht empfangen
+01126	Abstandsregelung-Nachricht nicht empfangen
+01127	Abstandsregelung-Nachricht empfangen
+01128	Betriebsartenwahlschalter steht auf Hybridbetrieb
+01129	Betriebsartenwahlschalter steht auf Dieselbetrieb
+01130	Betriebsartenwahlschalter steht auf Elektroantrieb
+01131	Signal vom Umrichter > TDI-Motor starten
+01132	ABS-Eingriff erkannt
+01133	Schaltabsicht erkannt
+01134	eingelegter Gang erkannt
+01135	Getriebe-Synchronisation
+01136	Getriebe-Synchronisation
+01137	Elektrobetrieb freigegeben
+01138	Generatorbetrieb freigegeben
+01139	Generatorbetrieb einschalten
+01140	Lautsprecher vorne links
+01141	Lautsprecher vorne rechts
+01142	Lautsprecher hinten links
+01143	Lautsprecher hinten rechts
+01144	Hochtonlautsprecher
+01145	Tieftonlautsprecher
+01146	Niederfrequenzeingang am  Soundprozessor vorne links
+01147	Niederfrequenzeingang am  Soundprozessor vorne rechts
+01148	Niederfrequenzeingang am  Soundprozessor hinten links
+01149	Niederfrequenzeingang am  Soundprozessor hinten rechts
+01150	Niederfrequenzeingang am  Soundprozessor links
+01151	Niederfrequenzeingang am  Soundprozessor rechts
+01152	Soundsystem 
+01153	Leitung zum Bedienteil
+01154	Taste
+01155	Quittierung Verriegelung mit Beep (zusammen mit 0/178)
+01156	Quittierung Verriegelung mit Blinken  (zusammen mit 0/178)
+01157	Airbag-Nachricht nicht empfangen
+01158	Airbag-Nachricht empfangen
+01159	Elektronische Zentralelektrik-Nachricht nicht empfangen
+01160	Elektronische Zentralelektrik-Nachricht empfangen
+01161	Klimaanlage-Nachricht nicht empfangen
+01162	klimaanlage-Nachricht empfangen
+01163	Kupplungssteuerung-Nachricht nicht empfangen
+01164	Kupplungssteuerung -Nachricht empfangen
+01165	Allradelektronik-Nachricht nicht empfangen
+01166	Allradelektronik -Nachricht empfangen
+01167	1.
+01168	2.Lernwert gelernt / gelöscht
+01169	3.
+01170	personal identification number
+01171	eingestellte Stufe z. B. bei Wischerintervall
+01172	eingestellte Stufe z. B. bei Wischerintervall
+01173	eingestellte Stufe z. B. bei Wischerintervall
+01174	eingestellte Stufe z. B. bei Wischerintervall
+01175	Fahrerairbag
+01176	Seitenairbag Fahrerseite
+01177	Seitenairbag Beifahrerseite
+01178	Fahrer-Gurtstraffer
+01179	Beifahrer-Gurtstraffer
+01180	Geschwindigkeitsabhängige Lautstärkeregelung ein
+01181	Geschwindigkeitsabhängige Lautstärkeregelung aus
+01182	1.
+01183	2. Heck-/Frontscheibenheizung
+01184	3.
+01185	
+01186	Stromhaushaltsregelung
+01187	eingestellte Stufe Intervallbetrieb
+01188	1.
+01189	2. CO2-Einstellung
+01190	Bremstestschalter ein
+01191	Bremstestschalter ein
+01192	ABS nicht aktiv
+01193	EDS aktiv
+01194	EDS nicht aktiv
+01195	Elektronisches Stabilitätsprogramm aktiv
+01196	Elektronisches Stabilitätsprogramm nicht aktiv
+01197	Malfunction Indicator Light (OBDII) ein
+01198	Malfunction Indicator Light (OBDII) aus
+01199	1.
+01200	2. Radposition + Identifikationsnummer
+01201	1.
+01202	2. Eingabe ungültig
+01203	Lautstärke
+01204	Lampe eingeschaltet
+01205	Lampe ausgeschaltet
+01206	öffnen
+01207	schließen
+01208	erkannt
+01209	vorne
+01210	hinten
+01211	frei
+01212	1.
+01213	2. Ölqualität
+01214	2. Ölmenge in 1-> z. B. mit Nr. 264
+01215	1. Russ -> z. B. mit Nr. 214
+01216	Liter
+01217	1.
+01218	2. Thermische Belastung->z. B. mit Nr. 264
+01219	Minimalwert
+01220	Maximalwert
+01221	Seat-Kombi
+01222	1.
+01223	2. normierter Verbrauch
+01224	
+01225	Standheizung Ein
+01226	Standheizung Aus
+01227	Sitzbelegungssensor
+01228	2. n; hinten rechts und hinten links Entlüfter....(siehe Nr. 69 bis 72)
+01229	
+01230	Einstellung
+01231	Alarmhorn
+01232	Rest-Europa (Europa ohne D und GB)
+01233	Deutschland
+01234	Großbritannien
+01235	
+01236	
+01237	
+01238	Botschaft vom Steuergerät Fahrertür nicht empfangen
+01239	Botschaft vom Steuergerät Fahrertür  empfangen
+01240	Botschaft vom Steuergerät Beifahrertür nicht empfangen
+01241	Botschaft vom Steuergerät Beifahrertür  empfangen
+01242	Botschaft vom Steuergerät Tür hinten links nicht empfangen
+01243	Botschaft vom Steuergerät Tür hinten links  empfangen
+01244	Botschaft vom Steuergerät Tür hinten rechts nicht empfangen
+01245	Botschaft vom Steuergerät Tür hinten rechts  empfangen
+01246	Botschaft vom Steuergerät Zentralmodul nicht empfangen
+01247	Botschaft vom Steuergerät Zentralmodul  empfangen
+01248	Botschaft vom Steuergerät Sitz-und Spiegelmemory nicht empfangen
+01249	Botschaft vom Steuergerät Sitz- und Spiegelmemory  empfangen
+01250	Botschaft vom Steuergerät elektronische Zentralelektrik nicht empfangen
+01251	Botschaft vom Steuergerät elektronische Zentralelektrik  empfangen
+01252	Botschaft vom Steuergerät Dachelektronik nicht empfangen
+01253	Botschaft vom Steuergerät Dachelektronik  empfangen
+01254	Botschaft vom Steuergerät Reifendruckkontrolle nicht empfangen
+01255	Botschaft vom Steuergerät Reifendruckkontrolle  empfangen
+02000	Botschaft vom Steuergerät Lenkradelektronik nicht empfangen
+02001	Botschaft vom Steuergerät Lenkradelektronik  empfangen
+02002	Botschaft vom Steuergerät Lenkungsunterstützung nicht empfangen
+02003	Botschaft vom Steuergerät Lenkungsunterstützung  empfangen
+02004	Botschaft vom Steuergerät Einparkhilfe nicht empfangen
+02005	Botschaft vom Steuergerät Einparkhilfe  empfangen
+02006	Botschaft vom Steuergerät Niveauregelung nicht empfangen
+02007	Botschaft vom Steuergerät Niveauregelung  empfangen
+02008	Datenbus befindet sich im Eindrahtbetrieb
+02009	Datenbus befindet sich im Zweidrahtbetrieb
+02010	
+02011	
+02012	1.
+02013	2. Abgleich nicht möglich
+02014	
+02015	
+02016	
+02017	
+02018	
+02019	
+02020	
+02021	Kopfairbag Fahrerseite
+02022	Kopfairbag Beifahrerseite
+02023	Seitenairbag hinten Fahrerseite
+02024	Seitenairbag hinten Beifahrerseit
+02025	Gurtstraffer hinten Fahrerseite
+02026	Gurtstraffer hinten Beifahrerseite
+02027	keine Kommunikation
+02028	nicht aktiv
+02029	Status Line-Ausgang am Radio
+02030	Status Line-Ausgang am Radio
+02031	Status Line-Ausgang am Radio
+02032	Status Line-Ausgang am Radio
+02033	
+02034	
+02035	Taster ein
+02036	Taster aus
+02037	Lautstärke vorne
+02038	Lautstärke hinten
+02039	
+02040	
+02041	Löseschalter
+02042	
+02043	automatische Distanzregelung
+02044	
+02045	
+02046	
+02047	Botschaft vom Radio nicht empfangen
+02048	Botschaft vom Radio empfangen
+02049	Botschaft vom Telefon nicht empfangen
+02050	Botschaft vom Telefon empfangen
+02051	Botschaft vom Steuergerät für Navigation nicht empfangen
+02052	Botschaft vom Steuergerät für Navigation empfangen
+02053	Botschaft vom Steuergerät für Telematik nicht empfangen
+02054	Botschaft vom Steuergerät für Telematik empfangen
+02055	Botschaft vom Steuergerät für Spracheingabe nicht empfangen
+02056	Botschaft vom Steuergerät für Spracheingabe empfangen
+02057	Status Geschwindigkeitseingang
+02058	Status Verbindung DSP zum Radio
+02059	Status der Funktion des CD-Wechslers(intern erkannter Fehler)
+02060	Status Verbindung ZF-Ausgang zur Antennenumschalteinheit
+02061	Relais für Frontscheibenheizung
+02062	wird auf Fehler abgefragt
+02063	Meldung das Warnton kurz davor oder aktiv ist und somit  
+02064	die Abschaltung von Verbrauchern
+02065	
+02066	Service-Intervall-Anzeige
+02067	Botschaft vom Steuergerät für Anhängererkennung nicht empfangen
+02068	Botschaft vom Steuergerät für  Anhängererkennung empfangen
+02069	eingestellte Stufe z. B. bei Wischerintervall
+02070	Tippbetrieb z.B bei Wischer
+02071	Botschaft vom Steuergerät für Standheizung nicht empfangen
+02072	Botschaft vom Steuergerät für Standheizung empfangen
+02073	Botschaft vom Steuergerät für Verdeckbetätigung nicht empfangen
+02074	Botschaft vom Steuergerät für Verdeckbetätigung empfangen
+02075	Botschaft vom Steuergerät für Elektron. Zündschloß nicht empfangen
+02076	Botschaft vom Steuergerät für Elektron. Zündschloß empfangen
+02077	Botschaft vom Steuergerät für Wischermodul nicht empfangen
+02078	Botschaft vom Steuergerät für Wischermodul empfangen
+02079	Botschaft vom Steuergerät für Batteriemanagement nicht empfangen
+02080	Botschaft vom Steuergerät für Batteriemanagement empfangen
+02081	Botschaft vom Steuergerät für Memory Beifahrer nicht empfangen
+02082	Botschaft vom Steuergerät für Memory Beifahrer empfangen
+02083	Botschaft vom Steuergerät für Memory hinten nicht empfangen
+02084	Botschaft vom Steuergerät für Memory hinten empfangen
+02085	Botschaft vom CD-ROM-Laufwerk nicht empfangen
+02086	Botschaft vom CD-ROM-Laufwerk empfangen
+02087	Botschaft vom Steuergerät für Radionavigation nicht empfangen
+02088	Botschaft vom Steuergerät für Radionavigation empfangen
+02089	Botschaft vom TV-Tuner nicht empfangen
+02090	Botschaft vom TV-Tuner empfangen
+02091	Botschaft vom Audio CD-Wechsler für nicht empfangen
+02092	Botschaft vom Audio CD-Wechsler für empfangen
+02093	Botschaft vom Steuergerät für Telefon/Telematik nicht empfangen
+02094	Botschaft vom Steuergerät für Telefon/Telematik empfangen
+02095	Botschaft vom SG, Anzeige und Bedienmodul vorne nicht empfangen
+02096	Botschaft vom SG, Anzeige und Bedienmodul vorne empfangen
+02097	Botschaft vom SG, Anzeige und Bedienmodul hinten nicht empfangen
+02098	Botschaft vom SG, Anzeige und Bedienmodul hinten empfangen
+02099	 weiter z.B. bei Funktion weiterschalten
+02100	Telefon ist im Netz angemeldet
+02101	Telefon ist im Netz nicht angemeldet
+02102	
+02103	
+02104	z.B. Batterie voll
+02105	z.B. Batterie leer
+02106	z.B. Batterie schwach
+02107	Beleuchtungsdimmsignal von Kombi
+02108	Geschwindigkeitssignal
+02109	Notruf-Taste für Telematik
+02110	Pannen-Taste für Telematik (Pannenruf usw.)
+02111	Lastmanagementfunktion wird ein- und ausgeschaltet
+02112	in Ein-Position wird Heckscheibenheiz.nach Bordnetzbedarf geschaltet
+02113	Botschaft vom Steuergerät für Bremskraftverstärkung nicht empfangen
+02114	Botschaft vom Steuergerät für Bremskraftverstärkung empfangen
+02115	Botschaft vom Steuergerät für Dämpferregelung nicht empfangen
+02116	Botschaft vom Steuergerät für Dämpferregelung empfangen
+02117	Botschaft vom Motorsteuergerät Bank 2 (Slave1) nicht empfangen
+02118	Botschaft vom Motorsteuergerät Bank 2 (Slave1) empfangen
+02119	Botschaft vom Motorsteuergerät Bank 3 (Slave2) nicht empfangen
+02120	Botschaft vom Motorsteuergerät Bank 3 (Slave2) empfangen
+02121	Botschaft vom Gateway nicht empfangen
+02122	Botschaft vom Gateway empfangen
+02123	Botschaft vom Steuergerät für Kraftstoffpumpe nicht empfangen
+02124	Botschaft vom Steuergerät für Kraftstoffpumpe empfangen
+02125	Botschaft vom Steuergerät für digitales Soundpacket nicht empfangen
+02126	Botschaft vom Steuergerät für digitales Soundpacket empfangen
+02127	für "Bremse" betätigen
+02128	1.
+02129	2. Prüfung gestartet / fehlerhaft / beendet (Nr.532)
+02130	3.
+02131	z.B. Taste " hochschalten" für Bordcomputerfunktionen
+02132	z.B. Taste "runterschalten" für Bordcomuterfunktionen 
+02133	z.B. Taste "Reset" für Bordcomuterfunktionen 
+02134	Taste" beschleunigen" für GRA
+02135	Taste "verzögern" für GRA
+02136	Taste "gespeichert AUS" für GRA
+02137	Taste " Wiederaufnahme" für GRA
+02138	Taste "Abstand vergrößern" für ADR
+02139	Taste" Abstand verkleinern" für ADR
+02140	Steuergerät für Spracheingabe
+02141	für Telematik
+02142	Radumfang in mm für Telematik
+02143	Radimpulse pro Umdrehung für Telematik
+02144	GSM-Notantenne für Telematik
+02145	GSM-Hauptantenne für Telematik oder Telefon
+02146	
+02147	Kat-Konvertierung Bank 3 nicht in Ordnung
+02148	Kat-Konvertierung Bank 3 in Ordnung
+02149	Kat-Konvertierung Bank 4 nicht in Ordnung
+02150	Kat-Konvertierung Bank 4 in Ordnung
+02151	Bank 3, l-Sonde 1 nicht in Ordnung
+02152	Bank 3, l-Sonde 1 in Ordnung
+02153	Bank 3, l-Sonde 2 nicht in Ordnung
+02154	Bank 3, l-Sonde 2 in Ordnung
+02155	Bank 4, l-Sonde 1 nicht in Ordnung
+02156	Bank 4, l-Sonde 1 in Ordnung
+02157	Bank 4, l-Sonde 2 nicht in Ordnung
+02158	Bank 4, l-Sonde 2 in Ordnung

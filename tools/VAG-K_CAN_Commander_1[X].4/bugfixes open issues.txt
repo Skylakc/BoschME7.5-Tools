@@ -1,0 +1,44 @@
+New and bug fixes (version 1.4):
+
+1. Support new instrument cluster VDO A3/A8 - MY2006/2007 R/W EEPROM memory/Odometer/PIN (payable update)
+2. R/W EEPROM memory of instrument clusters BOSCH CRYPTO 2001+ (Audi A4)
+3. R/W EEPROM memory/Odometer/PIN correction of instrument clusters BOSCH 1999+ (Audi A4)
+4. R/W EEPROM memory/Odometer/PIN correction of instrument clusters BOSCH 1999+ (Golf4)
+5. R/W EEPROM memory/Odometer/PIN correction of instrument clusters VDO assembled in VW POLO 2006
+6. Bugfixes - Audi TT 1997-2000
+7. Bugfixes - Magneti Mareli VW Passat 1996-1998
+8. Bugfixes - Audi A6 2004+ (disabled button "read current odometer value")
+9. Bugfixes - VDO unknown clusters
+
+
+
+New and bug fixes (version 1.3-1):
+
+1. Allowed R/W flash memories of EDC15x
+2. Allowed reading of flash memoriy ME7.x with wakeup pattern 01 (2003+)
+3. Allowed reading flash memories EDC16,MED9x (by K-line and by CAN-TP2.0 depends of selection) - "Custom Memory Read/Write" dialog
+4. Allowed R/W EEPROM memory of instrument cluster VISTEON (assembled in Golf5)
+5. Allowed reading EEPROM memory and flash memory of ECU in Porsche vehicles
+6. Solved problem with read/write EEPROM memory of instrument cluster - Audi A4 before year 1997
+7. Solved problem with EEPROM sizes in instrument clusters
+8. Solved problem with opening of broadcast diagnostic requests window
+9. Implemented automatic adjusting virtual COM port settings (ONLY WINDOWS XP!!!)
+10. Solved problem with reading security access Audi A3
+11. Solved problem with crashing while adaptations
+12. Clearing crash data older airbag units under KWP1281:
+   - 1C0 909 605 C, 8L0 959 655 A, 1J0 909 609, 6Q0 909 605 C,6Q0 909 605 A, 6Q0 909 605 B, 3B0 959 655 B, 
+     1C0 909 605 F, 1C0 909 605 H, 1J0 909 607, 1J0 909 603, 4B0 959 655 C, 4B0 959 655 J, 4D0 959 655 C, 
+     8L0 959 655 F8A0 959 655 C, 8A0 959 655 K, 8A0 959 655 K, 4D0 959 655 H, 8D0 959 655 C, 8D0 959 655 L
+
+
+Open issues (version 1.2-7):
+
+1. Uncovered instrument clusters from Fabia, Ibiza, Roomster, T5 released from end of 2006
+2. For following cars not implemented automatic change of odometer (R/W eeprom works):
+  - VW Sharan (all types HC11, two versions from VDO)
+  - Magneti Marelli (inside HC908)
+For these vehicles is recommended manual calculation of odometer value/login
+3. User interface problems
+4. Because of problems with checksum calculation automatic change of odometer for visteon instrument cluster disabled 
+   -> user needs to perfom manual changes inside of eeprom (custom memory access). Please be careful with this car and don't change EEPROM if is not clear chacksum calculations!!!
+  

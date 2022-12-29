@@ -1,0 +1,5 @@
+HINTS when reading flash memories of ECUs:
+
+1. In case of EDC15 best is to remove fuse 11 to prevent disturbing of communication from instrument cluster
+2. ME7.x wakeup pattern 01 - no special requirements (just take care about power suply because reading is slowly)
+3. In case of EDC16/MED9x - can be used special function "Custom Read/Write". Reading will be done by CAN-TP2.0 or by K-line depends selected connection to the units in main window

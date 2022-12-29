@@ -1,0 +1,70 @@
+Bosch,02612,10,0,1037,1267,1277,2537,0389,300,126,,11,
+Bosch,021620,10,1,7301,7621,7721,7352,9830,7222,,,10,
+Bosch,0281,10,0,1037,1267,1277,2537,0389,0112,228,A15C,10,
+Bosch,1820,10,1,7301,7621,7721,7352,983,,,,10,
+Bosch,1037,10,0,1037,1267,1277,2537,0389,,,,10,
+Bosch,1037,10,1,7301,7621,7721,7352,9830,,,,10,
+Bosch Porsche M5.2.2 CC460,M5.2.2,13,0,DAMOS,1267,1277,2537,0389,300,126,,22,
+Bosch Volvo Common rail,P24,21,0,7301,7621,7721,7352,P24,,,,21,
+Bosch Volvo Common rail,P26,21,0,7301,7621,7721,7352,P26,,,,21,
+Bosch Volvo Common rail,P28,21,0,7301,7621,7721,7352,P28,,,,21,
+Bosch Volvo Common rail,P2X,21,0,7301,7621,7721,7352,P2X,,,,21,
+
+IAW 4CV WV, 4CV,15,0,0369,,,,,,,,13,
+IAW 4LV WV,4LV P,9,0,0369,,,,,,,,12,
+IAW 4LV WV,4LV Q,9,0,0369,,,,,,,,12,
+IAW 4MV WV,4MV P,9,0,0369,,,,,,,,12,
+IAW 4AV WV, 4AV,8,0,0369,,,,,,,,12,
+IAW MASERATI,4CM,7,0,338,,,,,,,,13,
+IAW P8,6160,11,0,T4,4W,4w,,,,,,4,
+IAW 59F,IAW,12,0,S1,S2,,,,,,,21,
+
+
+Siemens BMW MS42,MS42,4,0,MS42,,,,,,,,23,
+Siemens BMW MS42,ca0110,8,0,MS42,,,,,,,,23,
+Siemens BMW MS43,MS43,4,0,MS43,,,,,,,,23,
+Siemens BMW MS43,ca430037,8,0,MS43,,,,,,,,23,
+Siemens BMW MS45,MS45,4,0,5WK,,,,,,,,23,
+Siemens BMW M3 E36 MSS50,MSS50,5,0,MSS50,,,,,,,,23,
+Siemens BMW M3 E46 MSS52,211321,16,0,MSS52,,,,,,,,23,
+Siemens BMW M3 E46 MSS53,211322,16,0,MSS53,,,,,,,,23,
+Siemens BMW M3 E46 MSS54,211325,16,0,MSS54,,,,,,,,23,
+
+Siemens Simos VW AUDI,5WP,8,0,DAT65,S21,,,,,,,14,
+
+Siemens HDI,5WS,12,0,S118,,,,,,,,12,
+
+Siemens Volvo,S108212,11,0,,,,,,,,,14,
+
+Siemens Mercedes SIM4 LE,KWP04,9,0,5WK9,,,,,,,,12,
+
+Siemens Sirius Renault E3,RE10,9,0,S110,,,,,,,,11,
+Siemens Sirius Renault E4,RE55,9,0,S118,,,,,,,,11,
+
+Siemens,S10,11,0,,,,,,,,,14,
+
+Siemens,S10,11,0,,,,,,,,,14,
+Siemens,S16,11,0,,,,,,,,,14,
+Siemens,S21,11,0,,,,,,,,,14,
+Siemens,0196,9,0,0106,,,,,,,,14,
+Siemens,5WK,21,0,0106,MS42,MS43,,,,,,23,
+
+ROVER JTD,vsol0,18,0,vso10,,,,,,,,33,
+ROVER JTD,usdh,18,0,vso10,,,,,,,,33,
+
+MERCEDES TEMIC JTD,TEMIC,15,0,,,,,,,,,0
+
+DELPHI JTD,4150,10,0,c4h,c7h,,,,,,,33,
+
+
+GM DELCO DTI,Y17DT,5,0,97,,,,,,,,15,
+GM DELCO DTI,Y17DIT,6,0,97,,,,,,,,15,
+GM DELCO,19,15,0,D9,,,,,,,,14,
+GM DELCO,09,15,0,D0,,,,,,,,14,
+					
+																			
+ECU FORD,Ford,19,0,,,,,,,,,0
+ECU FORD,Visteon,19,0,,,,,,,,,0
+
+
+

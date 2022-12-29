@@ -1,0 +1,2075 @@
+
+
+#CBOOT_SIEMENS400_800
+id=179
+' BOOT SIEMENS 29F400/800BB
+' PIN 24 FLASH TO MASS
+MS42,MS43,MSS44,
+SIM4LE,SIM4LKE 
+
+
+#CSIEMENS_BOOTMODE_200_400
+id=94
+' BOOT SIEMENS 29F200/400BB CRIPT
+' PIN 28 FLASH TO MASS
+SIRIUS 32,SIRIUS34
+SID801,SID802,SID804,SID805 SID806
+
+
+
+
+
+#AUDIEDC15P
+id=54
+
+A2 1.4 TDI  80CV    
+A3 1.9 TDI 101CV
+A3 1.9 TDI 130CV 
+
+A4 1.9 TDI 101CV
+A4 1.9 TDI 115CV
+A4 1.9 TDI 130CV
+
+A6 1.9 TDI 101CV
+A6 1.9 TDI 130CV
+
+Bora     1.9 PD
+Golf 4   1.9 PD
+Lupo     1.2 / 1.4 PD
+New Beeatle 1.9 PD
+Passat   1.9 PD
+Polo     1.4/1.9 PD
+Sharan   1.9 PD
+
+Skoda Fabia   1.9 PD
+Skoda Octavia 1.9 PD
+
+
+#AUDIME7.5.5
+id=66
+A3 1.8 TURBO      20V 150CV
+A3 1.8 TURBO      20V 180CV
+A3 S3 1.8 TURBO   20V 225CV
+
+A4 1.8 TURBO      20V 150CV
+A4 1.8 TURBO      20V 180CV
+
+A6 1.8 TURBO      20V 150CV
+A6 1.8 TURBO      20V 180CV
+
+TT 1.8 TURBO      20V 150CV
+TT 1.8 TURBO      20V 180CV
+TT 4X4 1.8 TURBO  20V 225CV
+
+Bora  1.8 Turbo
+GOLF4 1.8 TURBO   20V 150CV
+GOLF4 1.8 TURBO   20V 180CV
+New Beeatle 1.8 Turbo
+PASSAT 1.8 TURBO  20V 150CV
+PASSAT 1.8 TURBO  20V 180CV
+Sharan 1.8 Turbo
+
+Skoda Octavia 1.8 Turbo
+Skoda Superb  1.8 Turbo
+
+
+#AUDIME7.1.5 V6
+id=128
+A4 RS4 BITTURBO   375CV
+A4 S4 2.7 BITURBO   270CV
+
+
+A6 S6 2.7 BITURBO   270CV
+A6 ALL ROAD 2.7 BITURBO   270CV
+
+PASSAT 2.7 BITURBO   270CV
+
+
+
+
+
+#AUDIME7.5.1
+id=88
+A3 1.8 TURBO          20V 150CV
+A3 1.8 TURBO          20V 180CV
+A3 S3 1.8 TURBO       20V 225CV
+
+A4 1.8 TURBO          20V 150CV
+A4 1.8 TURBO          20V 180CV
+
+A6 1.8 TURBO          20V 150CV
+A6 1.8 TURBO
+
+TT 1.8 TURBO          20V 150CV
+TT 1.8 TURBO          20V 180CV
+TT 4X4 1.8 TURBO      20V 225CV
+
+GOLF4 1.8 TURBO       20V 150CV
+GOLF4 1.8 TURBO       20V 180CV
+
+PASSAT 1.8 TURBO      20V 150CV
+PASSAT 1.8 TURBO      20V 180CV
+
+
+
+
+#AUDIME755BOOTMODE
+id=85
+A3 1.8 TURBO          20V 150CV
+A3 1.8 TURBO          20V 180CV
+A3 S3 1.8 TURBO       20V 225CV
+
+A4 1.8 TURBO          20V 150CV
+A4 1.8 TURBO          20V 180CV
+
+A6 1.8 TURBO          20V 150CV
+A6 1.8 TURBO          20V 180CV
+
+TT 1.8 TURBO          20V 150CV
+TT 1.8 TURBO          20V 180CV
+TT 4X4 1800 TURBO     20V 225CV
+
+GOLF4 1.8 TURBO       20V 150CV
+GOLF4 1.8 TURBO       20V 180CV
+
+
+
+#AUDIME755, ME71.1, ME715BOOTMODE
+id=86,90
+
+A3 1.8 TURBO          20V 150CV
+A3 1.8 TURBO          20V 180CV
+A3 S3 1.8 TURBO       20V 225CV
+
+A4 1.8 TURBO          20V 150CV
+A4 1.8 TURBO          20V 180CV
+
+A6 1.8 TURBO          20V 150CV
+A6 1.8 TURBO          20V 180CV
+
+TT 1.8 TURBO          20V 150CV
+TT 1.8 TURBO          20V 180CV
+TT 4X4 1800 TURBO     20V 225CV
+
+GOLF4 1.8 TURBO       20V 150CV
+GOLF4 1.8 TURBO       20V 180CV
+
+
+PASSAT 1.8 TURBO      20V 150CV
+PASSAT 1.8 TURBO      20V 180CV
+
+A4 RS4 BITTURBO   375CV
+A4 S4 2.7 BITURBO   270CV
+
+A6 S6 2.7 BITURBO   270CV
+A6 ALL ROAD 2.7 BITURBO   270CV
+
+PASSAT 2.7 BITURBO   270CV
+
+
+
+
+
+
+
+#AUDIME755_400_800
+id=91
+A3 1.8 TURBO          20V 150CV
+A3 1.8 TURBO          20V 180CV
+A3 S3 1.8 TURBO       20V 225CV
+
+A4 1.8 TURBO          20V 150CV
+A4 1.8 TURBO          20V 180CV
+
+A6 1.8 TURBO          20V 150CV
+A6 1.8 TURBO          20V 180CV
+
+TT 1.8 TURBO          20V 150CV
+TT 1.8 TURBO          20V 180CV
+TT 4X4 1800 TURBO     20V 225CV
+
+Bora  1.8 Turbo
+GOLF4 1.8 TURBO   20V 150CV
+GOLF4 1.8 TURBO   20V 180CV
+New Beeatle 1.8 Turbo
+PASSAT 1.8 TURBO  20V 150CV
+PASSAT 1.8 TURBO  20V 180CV
+Sharan 1.8 Turbo
+
+Skoda Octavia 1.8 Turbo
+Skoda Superb  1.8 Turbo
+
+
+
+
+#AUDIEDC15VP40_29F400
+id=68
+A4 2.5 TDI V6 BOSCH 150 / 180CV E3
+A6 2.5 TDI V6 BOSCH 150 / 180CV E3
+A8 2.5 TDI V6 BOSCH 150 / 180CV E3
+
+Passat 2.5 V6  155CV
+
+
+#AUDIEDC15VP40_29F800
+id=89
+A4 2.5 TDI V6 BOSCH 163 / 180CV E4
+A6 2.5 TDI V6 BOSCH 163 / 180CV E4
+A8 2.5 TDI V6 BOSCH 163 / 180CV E4
+
+Passat 2.5 V6  155CV
+
+
+#VWEDC15V
+id=55
+A3 1.9 TDI 90CV
+A3 1.9 TDI 110CV
+
+A4 1.9 TDI 90CV
+A4 1.9 TDI 110CV 
+
+A6 1.9 TDI 110CV 
+
+Bora     1.9 TDI
+Golf 4   1.9 TDI
+New Beeatle 1.9 TDI
+Passat   1.9 TDI
+Sharan   1.9 TDI
+
+Skoda Fabia   1.9 TDI
+Skoda Octavia 1.9 TDI
+Skoda Superb  2.5 TDI  V6
+
+Alhambra 1.9 TDI VP37 Bosch EDC15V
+Alhambra 1.9 TDI VP37 Bosch EDC15VM
+Alhambra 1.9 TDI VP37 Bosch EDC15VM-1M
+Cordoba 1.9 TDI VP37 Bosch EDC15V
+Cordoba 1.9 TDI VP37 Bosch EDC15VM
+Cordoba 1.9 TDI VP37 Bosch EDC15VM-1M
+Ibiza 1.9 TDI VP37 Bosch EDC15V
+Ibiza 1.9 TDI VP37 Bosch EDC15VM
+Ibiza 1.9 TDI VP37 Bosch EDC15VM-1M
+Leon 1.9 TDI VP37 Bosch EDC15V
+Leon 1.9 TDI VP37 Bosch EDC15VM
+Leon 1.9 TDI VP37 Bosch EDC15VM-1M
+Toledo 1.9 TDI VP37 Bosch EDC15V
+Toledo 1.9 TDI VP37 Bosch EDC15VM
+Toledo 1.9 TDI VP37 Bosch EDC15VM-1M
+
+
+
+#VWEDC15Va
+id=180
+' BASSA VELOCITA / SLOW SPEED '
+0----------------------------------------------------------------0
+A3 1.9 TDI 90CV
+A3 1.9 TDI 110CV
+
+A4 1.9 TDI 90CV
+A4 1.9 TDI 110CV 
+
+A6 1.9 TDI 110CV 
+
+Bora     1.9 TDI
+Golf 4   1.9 TDI
+New Beeatle 1.9 TDI
+Passat   1.9 TDI
+Sharan   1.9 TDI
+
+Skoda Fabia   1.9 TDI
+Skoda Octavia 1.9 TDI
+Skoda Superb  2.5 TDI  V6
+
+Alhambra 1.9 TDI VP37 Bosch EDC15V
+Alhambra 1.9 TDI VP37 Bosch EDC15VM
+Alhambra 1.9 TDI VP37 Bosch EDC15VM-1M
+Cordoba 1.9 TDI VP37 Bosch EDC15V
+Cordoba 1.9 TDI VP37 Bosch EDC15VM
+Cordoba 1.9 TDI VP37 Bosch EDC15VM-1M
+Ibiza 1.9 TDI VP37 Bosch EDC15V
+Ibiza 1.9 TDI VP37 Bosch EDC15VM
+Ibiza 1.9 TDI VP37 Bosch EDC15VM-1M
+Leon 1.9 TDI VP37 Bosch EDC15V
+Leon 1.9 TDI VP37 Bosch EDC15VM
+Leon 1.9 TDI VP37 Bosch EDC15VM-1M
+Toledo 1.9 TDI VP37 Bosch EDC15V
+Toledo 1.9 TDI VP37 Bosch EDC15VM
+Toledo 1.9 TDI VP37 Bosch EDC15VM-1M
+
+
+
+
+
+
+#VWEDC15Pa
+id=63
+' BASSA VELOCITA / SLOW SPEED '
+0----------------------------------------------------------------0
+A2   1.4 TDI 75CV
+POLO 1.4 TDI 75CV
+
+
+
+
+
+#AUDIVWEDC16U1
+id=102
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A3     2.0 TDI 140 CV
+A4     2.0 TDI 140 CV
+A6     2.0 TDI  PD
+
+CADDY  1.9 TDI 105 CV
+CADDY  2.0 TDI 
+GOLF 5 2.0 TDI 140 CV
+GOLF 5 1.9 TDI 105 CV
+NEW PASSAT 1.9 TDI 105 CV
+TOURAN 1.9 TDI 105 CV
+TUAREG 2.5 TDI 185 CV
+
+OCTAVIA 1.9/2.0  TDI PD
+
+
+#AUDIVWEDC16U31_4C
+id=133
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A3     2.0 TDI 140 CV
+A4     2.0 TDI 140 CV
+GOLF 5 1.9 TDI 105 CV
+GOLF 5 2.0 TDI 140 CV
+NEW PASSAT 1.9 TDI 105 CV
+TUAREG 2.5 TDI 185 CV
+
+
+
+#AUDIVWEDC16U34_4C
+id=172
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A3     2.0 TDI 140 CV
+A4     2.0 TDI 140 CV
+GOLF 5 1.9 TDI 105 CV
+GOLF 5 2.0 TDI 140 CV
+NEW PASSAT 1.9 TDI 105 CV
+TUAREG 2.5 TDI 185 CV
+
+
+
+#AUDIVWEDC16 CP34 V6 30
+id=125
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A4 3.0 V6 TDI 215 CV E4
+A6 3.0 V6 TDI 215 CV E4
+A8 3.0 V6 TDI 215 CV E4
+
+TUAREG 3.0 V6 TDI 215 CV E4
+
+
+
+#AUDIVWEDC16 CP34 V10 
+id=147
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A8 5.0 V10 TDI E4
+TUAREG 5.0 V10 TDIE4
+
+
+#AUDIVWEDC16 C4 V8 40
+id=165
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A8 4.0 V8 TDI E4
+
+
+
+#CAUDIVW_MED9510
+id=176
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A2 1.6 16v FSI E4
+A3 1.6 16v FSI E4
+GOLF5 1.6 16v FSI E4
+GOLF5 2.0 16v FSI E4
+TOURAN 1.6 16v FSI E4
+TOURAN 2.0 16v FSI E4
+ALTEA 2.0 16v FSI E4
+TOLEDO 2.0 16v FSI E4
+LEON 2.0 16v FSI E4
+JETTA 1.6 16v FSI E4
+JETTA 2.0 16v FSI E4
+PASSAT 1.6 16v FSI E4
+PASSAT 2.0 16v FSI E4
+OCTAVIA 1.6 16v FSI E4
+OCTAVIA 2.0 16v FSI E4
+
+
+
+
+#BMW330D
+id=0
+BMW Serie 3 (E46) 3.0 D Bosch DDE4.0 
+BMW Serie 5 (E39) 2.5 D Bosch DDE4.0 
+BMW Serie 5 (E39) 3.0 D Bosch DDE4.0 
+BMW Serie 7 (E38) 3.0 D Bosch DDE4.0 
+BMW Serie X5 (E53) 3.0 D Bosch DDE4.0
+Mini D 1400 70CV Bosch EDC15C2 DDE
+Rover 25 75 2.0 CDT Bosch DDE4.0
+Rover 75 Tourer 2.0 CDT Bosch DDE4.0
+Freelender 2.0 CDT Bosch DDE4.0
+
+
+#BMW320D
+id=9
+BMW Serie 3 (E46) 2.0 D Bosch EDC15
+BMW Serie 5 (E39) 2.0 D Bosch EDC15 
+
+
+
+
+#BMW318M52
+id=8
+BMW Serie 3 (E36) 1.8 i Bosch ME5.2.1b
+BMW Z3 Roadster 1.9 Bosch ME5.2.1b
+
+
+
+#BMW318BMS46
+id=17
+BMW Serie 3 (E46) 1.9 Bosch BMS46
+BMW Z3 Roadster 1.9 Bosch Bosch BMS46
+
+
+#BMW318M52
+id=126
+540 / 740 / X5 4.0 Bosch ME5.2.1b
+
+
+#BMWMSS52M3E46
+id=1
+M3 3.2 E46 SIEMENS MSS52/53
+M5 5.0 V8  SIEMENS MSS54
+Z8 5.0 V8  SIEMENS MSS54
+
+
+#BMWMSS50M3E36
+id=2
+M3 3.2 E36 SIEMENS MSS50
+Z3 M 3.2 SIEMENS MSS50
+
+
+
+#BMWMINI90_110_S
+id=3
+MINI 0NE EURO 3
+MINI COUPER EURO 3
+MINI COUPER S EURO 3
+
+
+#BMWMINI_VDO_SIEMENS
+id=113
+MINI 0NE EURO 4
+MINI COUPER  EURO 4
+MINI COUPER S YORK 170CV EURO 4
+
+
+#BMWMS41
+id=5
+BMW Serie 3 (E36) 2.0 i Siemens MS41
+BMW Serie 3 (E36) 2.5 i Siemens MS41
+BMW Serie 3 (E36) 2.8 i Siemens MS41
+
+BMW Serie 5 (E39) 2.0 i Siemens MS41
+BMW Serie 5 (E39) 2.5 i Siemens MS41
+
+BMW Serie 7 (E38) 2.8 i Siemens MS41
+
+BMW Z3 Roadster 2.0 Siemens MS41
+BMW Z3 Roadster 2.8 Siemens MS41
+
+
+#BMWMS42
+id=6
+BMW Serie 3 (E36) 2.0i Siemens Ms42
+BMW Serie 3 (E36) 2.3i Siemens Ms42
+BMW Serie 3 (E36) 2.5i Siemens Ms42
+BMW Serie 3 (E36) 2.8i Siemens Ms42
+BMW Serie 3 (E36) 3.0i Siemens Ms42
+BMW Serie 3 (E36) 3.2i Siemens Ms42
+
+BMW Serie 5 (E39) 2.0i Siemens Ms42
+BMW Serie 5 (E39) 2.5i Siemens Ms42
+BMW Serie 5 (E39) 2.3i Siemens Ms42
+BMW Serie 5 (E39) 2.8i Siemens Ms42
+BMW Serie 5 (E39) 3.0i Siemens Ms42
+BMW Serie 5 (E39) 3.2i Siemens Ms42
+
+
+#BMWMS43
+id=7
+BMW Serie 3 (E46) 2.0i Siemens Ms43
+BMW Serie 3 (E46) 2.3i Siemens Ms43
+BMW Serie 3 (E46) 2.5i Siemens Ms43
+BMW Serie 3 (E46) 2.8i Siemens Ms43
+BMW Serie 3 (E46) 3.0i Siemens Ms43
+BMW Serie 3 (E46) 3.2i Siemens Ms43
+
+BMW Serie 5 (E39) 2.0i Siemens Ms43
+BMW Serie 5 (E39) 2.3i Siemens Ms43
+BMW Serie 5 (E39) 2.5i Siemens Ms43
+BMW Serie 5 (E39) 2.8i Siemens Ms43
+BMW Serie 5 (E39) 3.0i Siemens Ms43
+BMW Serie 5 (E39) 3.2i Siemens Ms43
+
+
+
+
+
+#BMW320EDC16
+id=23
+BMW Serie 3 (E46) 150CV  Bosch EDC16
+
+
+#BMWMSS53E46CSL
+id=44
+BMW M3 CSL (E46) 370CV SIEMENS MSS54
+
+
+#BMWMINID
+id=45
+Mini D 1400 70CV Bosch EDC15C2 DDE
+
+
+
+#BMW318ME9
+id=48
+BMW Serie 3 (E46) VALVETRONIC 150CV 
+
+
+
+#BMW330D_INTERA
+id=49
+BMW Serie 3 (E46) 3.0 D  A TAVOLINO
+BMW Serie 5 (E39) 2.5 D  A TAVOLINO
+BMW Serie 5 (E39) 3.0 D  A TAVOLINO
+BMW Serie 7 (E38) 3.0 D  A TAVOLINO
+BMW Serie X5 (E53) 3.0 D  A TAVOLINO
+
+
+#BMWMODULOTV
+id=76
+ATTIVAZIONE MODULO TV 
+BMW Serie 3 (E46)
+BMW Serie 5 (E39)
+BMW Serie 5 (E39)
+BMW Serie 7 (E38)
+BMW Serie X5 (E53)
+
+
+#BMWME71
+id=79
+BMW Serie 5 (E39) 4.4 D Bosch ME7.1 
+BMW Serie 7 (E38) 4.4 D Bosch ME7.1 
+BMW Serie X5 (E53) 4.4 D Bosch ME7.1 
+
+
+
+
+#CHEVROLET_SIRIUS_5WY
+id=169
+Kalos 12 SIEMENS 5WY
+Rubeo 12 SIEMENS 5WY
+
+
+
+
+
+#CHRYSLEREDC15C2
+id=65
+Chrysler Grand Cherokee 2.7 CRD
+Chrysler Jeep Cherokee 2.5 CRD
+Chrysler Jeep Cherokee 2.8 CRD
+Chrysler PT Cruiser 2.2 CRD
+Chrysler Voyager 2.5 CRD
+
+
+
+
+#CHRYSLEREDC16 Cp31
+id=168
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Chrysler 300 C 3.0 CRD V6
+JEEP Grand Cherokee 3.0 CRD V6
+JEEP commander 3.0 CRD V6
+
+
+
+#CCITROEN_DELPHI_16
+id=95
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+C2 HDI DELPHI 1.6 8V E4
+C3 HDI DELPHI 1.6 8V E4
+
+
+
+
+#CCITROENME744
+id=84
+C2 1.6 16V E3
+C3 1.6 16V E3
+C4 1.6 16V E3
+SAXO 1.6 16V E3 
+
+
+#CCITROENME745
+id=109
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+C2 1.6 16V E4
+C3 1.6 16V E4
+C4 1.6 16V E4
+
+
+
+
+#CCITROEN_SAGEM2000_14
+id=101
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+C1 1.2 1.4 8V E3
+C2 1.2 1.4 8V E3
+C3 1.2 1.4 8V E3
+
+
+#CCITROEN_IAW48P2
+id=158
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+C1 1.1 / 1.4 8V E4
+C2 1.1 / 1.4 8V E4
+C3 1.1 / 1.4 8V E4
+
+
+
+#FERRARIM52
+id=34
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Ferrari 355 E 456 M5.2 CC460
+
+#FERRARI360ME7
+id=41
+Ferrari Modena 3.6 Bosch ME7.3H4
+
+#FERRARI 430 ME7.3.2 
+id=150
+Ferrari 430  4.3 V8
+
+
+
+#Fiat/Alfa: m155
+id=4
+Alfa 145 1.4 Bosch M1.5.5
+Alfa 145 1.6 Bosch M1.5.5
+Alfa 146 1.4 Bosch M1.5.5
+Alfa 146 1.6 Bosch M1.5.5
+Alfa 146 1.8 Bosch M1.5.5
+Alfa 146 2.0 Bosch M1.5.5
+Alfa 156 1.6 Bosch M1.5.5
+Alfa 156 1.8 Bosch M1.5.5
+Alfa 156 2.0 Bosch M1.5.5
+Alfa 166 2.0 Bosch M1.5.5
+Alfa 166 2.0 Bosch M1.5.5
+Alfa GTV 1.8 TS 16V Bosch M1.5.5
+Alfa GTV 2.0 TS 16V Bosch M1.5.5
+Alfa GTV 3.0 TS 16V Bosch M1.5.5
+Alfa Spider 1.8 TS Bosch M1.5.5
+Alfa Spider 2.0 TS 16V Bosch M1.5.5
+Alfa Spider 3.0 TS 16V Bosch M1.5.5
+Fiat Bravo/Brava 1.2 Bosch M1.5.5
+
+#Fiat/Alfa/Lancia euro2
+id= 13
+Alfa 145 1.9 JTD Bosch EDC15C5
+Alfa 146 1.9 JTD Bosch EDC15C5
+Alfa 156 1.9 JTD Bosch EDC15C5
+Alfa 156 2.4 JTD Bosch EDC15C5
+Alfa 166 2.4 JTD Bosch EDC15C5
+Fiat Bravo/Brava 1.9 JTD Bosch EDC15C5
+Fiat Multipla 1.9 JTD Bosch EDC15C5
+Fiat Marea 1.9 JTD Bosch EDC15C5
+Fiat Marea 2.4 JTD Bosch EDC15C5
+Lancia K 2.4 JTD Bosch EDC15C5
+Lancia Lybra 1.9 JTD Bosch EDC15C5
+Lancia Lybra 2.4 JTD Bosch EDC15C5
+Lancia Z 2.0 JTD Bosch EDC15C5
+
+
+#FIATME73H4KWP2000
+id=16
+Fiat Punto 1.2 Bosch ME7.2.1 E3 prog. lenta
+Lancia Y 1.2 Bosch ME7.2.1 E3 prog. lenta
+
+
+#Fiat/Alfa/Lancia: euro3
+id= 22
+Alfa 147 1.9 JTD 16V Bosch EDC15C7
+Alfa 147 1.9 JTD 8V Bosch EDC15C7
+Alfa 156 1.9 JTD Bosch EDC15C7
+Alfa 156 2.4 JTD Bosch EDC15C7
+Alfa 166 2.4 JTD Bosch EDC15C7
+Fiat Bravo/Brava 1.9 JTD Bosch EDC15C7
+Fiat Doblo 1.9 JTD Bosch EDC15C7
+Fiat Ducato 2.0 JTD Bosch EDC15C7
+Fiat Ducato 2.3 JTD Bosch EDC15C7
+Fiat Ducato 2.8 JTD Bosch EDC15C7
+Fiat Marea 1.9 JTD Bosch EDC15C7
+Fiat Marea 2.4 JTD Bosch EDC15C7
+Fiat Multipla 1.9 JTD Bosch EDC15C7
+Fiat Palio 1.9 JTD Bosch EDC15C7
+Fiat Scudo 2.0 JTD Bosch EDC15C7
+Fiat Stilo 1.9 JTD Bosch EDC15C7
+Lancia Lybra 1.9 JTD Bosch EDC15C7
+Lancia Lybra 2.4 JTD Bosch EDC15C7
+Lancia Thesis 2.4 JTD Bosch EDC15C7
+
+
+#FIATPUNTOEDC15C6
+id=25
+Fiat Punto 1.9 JTD Bosch EDC15C6
+Fiat Punto 1.9 JTD Bosch EDC15C7
+
+
+
+#IAW MJD 6J MULTIGET
+id=83
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Fiat Punto      1.3 IAW MULTIJET
+Fiat Idea       1.3 IAW MULTIJET
+Fiat Panda New  1.3 IAW MULTIJET
+
+
+
+
+#FIATME7.2.1 EURO3
+id=37
+Fiat Punto 1.2 Bosch ME7.2.1 Euro3
+Lancia Y 1.2 Bosch ME7.2.1 Euro3
+
+
+#FIATME73H4EURO4
+id=38
+Fiat Punto 1.2 Bosch ME7.H3
+Fiat Stilo 2.4 Bosch ME7.3.1
+Lancia Y 1.2 Bosch ME7.H3
+
+
+#ALFAME21
+id=39
+Alfa 156 2.0 Bosch ME2.1
+Alfa 166 2.5 V6 24V Bosch ME2.1
+Alfa GTV 3.0 V6 24V Bosch ME2.1
+Alfa Spider 3.0 V6 24V Bosch ME2.1
+Fiat Bravo/Brava 2.0 Bosch ME2.1
+Fiat Bravo/Brava 2.0 20V Bosch ME2.1
+Fiat Coupe 2.0 20V Bosch ME2.1
+Fiat Marea 2.4 MDI 20V Bosch ME2.1
+Lancia Lybra 2.0 i 20V Bosch ME2.1
+
+
+#ALFAM21  28F200BXB
+id=53
+Alfa Romeo 156 2.5 Bosch M2.1
+Alfa Romeo 166 2.0 V6 Turbo Bosch M2.1
+Alfa Romeo 166 2.5 V6 24V Bosch M2.1
+Alfa Romeo 166 3.0 V6 24V Bosch M2.1
+
+
+
+
+#ALFAME731HA
+id=40
+Alfa Romeo 147 1.6 Bosch ME7.3.1
+Alfa Romeo 147 2.0 TS Bosch ME7.3.1
+Alfa Romeo 156 1.6 Bosch ME7.3.1
+Alfa Romeo 156 1.8 Bosch ME7.3.1
+Alfa Romeo 156 2.0 Bosch ME7.3.1
+Alfa Romeo 166 2.0 Bosch ME7.3.1
+Alfa Romeo 166 2.5 Bosch ME7.3.1
+Alfa Romeo 166 3.0 Bosch ME7.3.1
+Alfa Romeo GTV 2.0 TS 16V Bosch ME7.3.1
+Alfa Romeo GTV 3.0 TS 16V Bosch ME7.3.1
+Alfa Romeo Spider 2.0 TS 16V Bosch ME7.3.1
+Alfa Romeo Spider 3.0 TS 16V Bosch ME7.3.1
+Lancia Lybra 2.0 Bosch ME7.3.1
+Lancia Thesis 2.0 Turbo Bosch ME7.3.1
+FIAT DOBLO 1.3 16V BOSCH IBRIDA ME7.3.1
+FIAT PALIO 1.0 16V BOSCH IBRIDA ME7.3.1
+FIAT PALIO 1.3 16V BOSCH IBRIDA ME7.3.1
+
+
+#FIATIAW 4AF 59F
+id=103
+FIAT 500/600 1.0 1.1 E3 IAW 59F
+FIAT PANDA 1.0 1.1 E3 IAW 59F
+FIAT DOBLO 1.2 8v MPI E3 IAW 59F
+FIAT PUNTO 1.2 8v MPI E3 IAW 59F
+
+
+#FIATIAW 4AF 59F
+id=106
+FIAT 500/600 1.0 1.1 E3 IAW 59F
+FIAT PANDA 1.0 1.1 E3 IAW 59F
+FIAT DOBLO 1.2 8v MPI E3 IAW 59F
+FIAT PUNTO 1.2 8v MPI E3 IAW 59F
+DUCATI IAW 59F 
+0 DECODIFICA E CLONA TUTTE IAW 4AF/59F
+0 DECODE END CLONE ALL IAW 4AF/ 59F
+0 VEDI PDF IN CARTELLA DOCUMENTI
+0 SEE PDF IN FOLDER DOCUMENTS
+
+
+#FIATEDC16C8
+id=50
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Alfa 147 1.9 16v MJ Bosch EDC16 C8
+Alfa 156 1.9 16v MJ Bosch EDC16 C8
+Alfa 156 2.4 16v MJ Bosch EDC16 C8
+Alfa 166 2.4 16v MJ Bosch EDC16 C8
+STILO 1.9 16v MJ Bosch EDC16 C8
+
+
+
+
+#FIATEDC16C9
+id=141
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Alfa 147 1.9 16v MJ Bosch EDC16 C9
+Alfa 156 1.9 16v MJ Bosch EDC16 C9
+Alfa 156 2.4 20v MJ Bosch EDC16 C9
+Alfa 166 2.4 20v MJ Bosch EDC16 C9
+STILO 1.9 16v MJ Bosch EDC16 C9
+IDEA 1.9 16v MJ Bosch EDC16 C9
+
+
+
+#FIATEDC16C39
+id=132
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Alfa 147 1.9 16v MJ Bosch EDC16 C39
+Alfa 156 1.9 16v MJ Bosch EDC16 C39
+Alfa 159 1.9 16v MJ Bosch EDC16 C39
+Alfa 156 2.4 20v MJ Bosch EDC16 C39
+Alfa 159 2.4 20v MJ Bosch EDC16 C39
+Alfa 166 2.4 20v MJ Bosch EDC16 C39
+STILO 1.9 16v MJ Bosch EDC16 C39
+IDEA 1.9 16v MJ Bosch EDC16 C39
+CROMA 1.9 16v MJ Bosch EDC16 C39
+CROMA 2.4 20v MJ Bosch EDC16 C39
+
+
+
+#IAW 49F / 4EF
+id=18
+FIAT  BRAVO 1.6 16V IAW 49F
+FIAT  BRAVO 1.6 16V IAW 4EF
+FIAT  PUNTO 1.2 8V IAW 4EF
+
+
+#IAW 59F /  5NF  MOTOROLA
+id=120
+FIAT  STILO 1.6 16V IAW 5NF
+FIAT  MULTIPLA 1.6 16V IAE 5NF
+FIAT  NEW PANDA 1.2 16V IAW 5NF
+FIAT  PUNTO 1.2 8V IAW 59F
+FIAT  PANDA 1.2 8V IAW 5NF
+
+
+
+
+
+#FORD_EDC16C34 1,6 16V
+id=136
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+C-MAX  1,6 16V HDI 90/120CV E3
+FIESTA 1,4 16V HDI 80/E3
+FIESTA 1,6 16V HDI 90/120CV E3
+FOCUS  1,6 16V HDI 90/120CV E3
+
+
+
+#FORD_EDC16C3 1,6 16V
+id=162
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+C-MAX  1,6 16V HDI 90/110CV E3
+FIESTA 1,6 16V HDI 90/110CV E3
+FOCUS  1,6 16V HDI 90/110CV E3
+
+
+
+
+
+#HONDAEDC15C7
+id=60
+Honda Civic 15 Dti
+
+ 
+
+#HONDA_EDC16C31
+id=156
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+ACCORD  2.2 I CTDI E4
+CIVIC       2.2 I CTDI E4
+CR V        2.2 I CTDI E4
+FR V        2.2 I CTDI E4
+
+
+#HONDAME729F800
+id=144
+HONDA JETZ 1.4 16V ME7
+
+
+#HYUNDAIEDC15C2
+id=61
+Hyundai Accent 1.5 CRDI
+Hyundai Elantra 2.0 CRDI
+Hyundai Matrix 1.5 CRDI
+Hyundai Santa Fe 2.0 CRDI
+Hyundai Trajet 2.0 CRDI
+HYUNDAI GETZ 2.0 CRDI
+Hyundai Tucson 2.0 CRDI
+Hyundai Starex 2.0 CRDI
+
+
+
+#IVECO_MS63_200
+id=143
+DAILY MS6.3  2,5 2,8
+
+
+
+
+#IVECO_EDC7
+id=51
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+TECTOR EDC7 4C 6C  24V
+MC CORMIK TRACKTOR 12V
+
+
+#IVECO_EDC16 C8
+id=99
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+DAILY EDC16 C8  2,5 2,8
+
+
+#IVECO_EDC16 C39_5
+id=173
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+NEW DAILY EDC16 C39/5  2,5 2,8
+
+
+
+#KIAEDC15C2
+id=75
+Kia Carens 2.0 CRDi 16V
+Kia Sorento 2.5 CRDi 
+Kia Cerato 2.0 CRDi 
+Kia Sportage 2.0 CRDi 
+
+
+
+#KIA DELPHI DDCR E3
+id=119
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Kia carnival 2.9 CRDi 16V Delphi
+Hyundai  Terracan 2.9 DDCR 
+
+
+#KIAEDC16+c39
+id=145
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+KIA RIO CRDI EDC16+ C39
+HYUNDAI GETZ 1.5 CRDI
+Hyundai Tucson 2.0 CRDI
+
+
+#MAN_EDC7
+id=139
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Man TGA 4/6 E4
+
+#MAN_MS6.1
+id=151
+Man TGA 4/6 E2
+
+#MAN_MS6.4
+id=157
+Man TGA 4/6 E3
+
+
+
+#MASERATIMED71
+id=69
+COUPE V8 4200 MED71
+COUPE CAMBIO CORSA V8 4200 MED71
+SPIDER V8 4200 MED71
+SPIDER CAMBIO CORSA V8 4200 MED71
+
+
+#MERCEDESEDC15C5
+id=58
+Mercedes A-Klasse 1.7/1.6 CDI
+Mercedes C-Klasse (W201) 2.0/2.2/3.0 CDI
+Mercedes E-Klasse (W201) 2.0/2.2/3.2 CDI
+Mercedes M-Klasse 3.2 CDI
+Mercedes Sprinter 2.2 CDI 
+Mercedes V-Klasse 2.0/2.2 CDI
+Mercedes Vito 2.2 CDI
+Mercedes Vaneo 1.7 CDI
+
+#MERCEDESEDC15C6
+id=59
+Mercedes A-Klasse 1.7 CDI
+Mercedes C-Klasse (W201) 2.2 CDI
+Mercedes C-Klasse (W201) 2.7 CDI
+Mercedes C-Klasse (W203) 2.0 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.7 CDI
+Mercedes C-Klasse (W203) 3.2 CDI
+Mercedes CLK(W209) 2.7 CDI
+Mercedes E-Klasse (W210) 2.0 CDI
+Mercedes E-Klasse (W210) 2.2 CDI
+Mercedes E-Klasse (W210) 2.7 CDI
+Mercedes E-Klasse (W210) 3.2 CDI
+Mercedes G-Klasse 2.7 CDI
+Mercedes G-Klasse 4.0 CDI
+Mercedes M-Klasse 2.7 CDI
+Mercedes ML-Klasse 2.7 CDI
+Mercedes ML-Klasse 4.0 CDI
+Mercedes S-Klasse (W280) 3.2 CDI
+Mercedes S-Klasse (W280) 4.0 CDI
+Mercedes Sprinter 2.2 CDI
+Mercedes Sprinter 2.7 CDI
+Mercedes V-Klasse 2.0 CDI
+Mercedes V-Klasse 2.2 CDI
+Mercedes Vito 2.2 CDI
+
+
+
+#MERCEDES ACTROS BOOT 200
+id=142
+TEMIC ACTROS  E 1/2/3
+TEMIC ATEGO    E 1/2/3
+TEMIC ECONIC   E 1/2/3  
+TEMIC UNIMOG  E 1/2/3
+
+
+#MERCEDES ACTROS BOOT 400
+id=155
+TEMIC ACTROS  E 4/5
+TEMIC ATEGO   E 4/5
+TEMIC UNIMOG  E 4/5
+TEMIC ECONIC  E 4/5 
+
+
+
+
+
+#MERCEDES EDC16+ C31 C32 
+id=140
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+A-Klasse 1.8 EDC16+ C32 
+A-Klasse 2.0 EDC16+ C32
+B-Klasse 1.8 EDC16+ C32 
+B-Klasse 2.0 EDC16+ C32  
+
+
+
+#MERCEDES EDC16 C2_4 29BL802CB
+id=24
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Mercedes C-Klasse (W201) 2.2 CDI
+Mercedes C-Klasse (W201) 2.7 CDI
+Mercedes C-Klasse (W203) 2.0 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.7 CDI
+Mercedes C-Klasse (W203) 3.2 CDI
+Mercedes E-Klasse (W210) 2.0 CDI
+Mercedes E-Klasse (W210) 2.2 CDI
+Mercedes E-Klasse (W210) 2.7 CDI
+Mercedes E-Klasse (W210) 3.2 CDI
+Mercedes G-Klasse 2.7 CDI
+Mercedes G-Klasse 4.0 CDI
+Mercedes M-Klasse 2.7 CDI
+Mercedes ML-Klasse 2.7 CDI
+Mercedes ML-Klasse 4.0 CDI
+Mercedes S-Klasse (W280) 3.2 CDI
+Mercedes S-Klasse (W280) 4.0 CDI
+Mercedes V-Klasse 2.0 CDI
+Mercedes V-Klasse 2.2 CDI
+Mercedes Vito 2.2 CDI
+
+#MERCEDES EDC16 C2_7 29BL802CB
+id=121
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Mercedes A-Klasse 1.8 CDI
+Mercedes A-Klasse 2.2 CDI
+Mercedes C-Klasse (W201) 2.2 CDI
+Mercedes C-Klasse (W201) 2.7 CDI
+Mercedes C-Klasse (W203) 2.0 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.7 CDI
+Mercedes C-Klasse (W203) 3.2 CDI
+Mercedes CLK (W208) 3.2 CDI
+Mercedes E-Klasse (W210) 2.0 CDI
+Mercedes E-Klasse (W210) 2.2 CDI
+Mercedes E-Klasse (W210) 2.7 CDI
+Mercedes E-Klasse (W210) 3.2 CDI
+Mercedes G-Klasse 2.7 CDI
+Mercedes G-Klasse 4.0 CDI
+Mercedes M-Klasse 2.7 CDI
+Mercedes ML-Klasse 2.7 CDI
+Mercedes ML-Klasse 4.0 CDI
+Mercedes S-Klasse (W280) 3.2 CDI
+Mercedes S-Klasse (W280) 4.0 CDI
+Mercedes V-Klasse 2.0 CDI
+Mercedes V-Klasse 2.2 CDI
+Mercedes Vito 2.2 CDI
+Mercedes Viano 2.2 CDI
+
+
+#MERCEDES EDC16 C2_7 29BL802CB
+id=123
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Mercedes A-Klasse 1.8 CDI
+Mercedes A-Klasse 2.2 CDI
+Mercedes C-Klasse (W201) 2.2 CDI
+Mercedes C-Klasse (W201) 2.7 CDI
+Mercedes C-Klasse (W203) 2.0 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.2 CDI
+Mercedes C-Klasse (W203) 2.7 CDI
+Mercedes C-Klasse (W203) 3.2 CDI
+Mercedes CLK (W208) 3.2 CDI
+Mercedes E-Klasse (W210) 2.0 CDI
+Mercedes E-Klasse (W210) 2.2 CDI
+Mercedes E-Klasse (W210) 2.7 CDI
+Mercedes E-Klasse (W210) 3.2 CDI
+Mercedes G-Klasse 2.7 CDI
+Mercedes G-Klasse 4.0 CDI
+Mercedes M-Klasse 2.7 CDI
+Mercedes ML-Klasse 2.7 CDI
+Mercedes ML-Klasse 4.0 CDI
+Mercedes S-Klasse (W280) 3.2 CDI
+Mercedes S-Klasse (W280) 4.0 CDI
+Mercedes V-Klasse 2.0 CDI
+Mercedes V-Klasse 2.2 CDI
+Mercedes Vito 2.2 CDI
+Mercedes Viano 2.2 CDI
+
+
+
+#MERCEDES EDC16CP31
+id=131
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Mercedes E-Klasse (W210) 2.8 CDI
+Mercedes E-Klasse (W210) 3.0 CDI
+Mercedes E-Klasse (W210) 3.2 CDI
+Mercedes G-Klasse 2.8 CDI
+Mercedes ML-Klasse 2.8 CDI
+Mercedes ML-Klasse 3.2 CDI
+Mercedes S-Klasse (W280) 3.0 V6 CDI
+Mercedes S-Klasse (W280) 3.2 CDI
+
+
+#MERCEDESME728
+id=70
+Mercedes Slk  2.4
+Mercedes Slk  3.2
+Mercedes Slk  5.5 E55 M113
+Mercedes Clk-clk cabrio  2.4
+Mercedes Clk-clk cabrio  3.2
+Mercedes Clk-clk cabrio  5.0
+Mercedes C-Klasse (W201) 1.8
+Mercedes C-Klasse (W203) 2.0
+Mercedes C-Klasse (W201) 2.4
+Mercedes C-Klasse (W203) 3.2
+Mercedes C-Klasse (W203) 2.2
+Mercedes C-Klasse (W203) 2.7
+Mercedes C-Klasse (W203) 3.2
+Mercedes E-Klasse (W210) 2.4
+Mercedes E-Klasse (W210) 3.2
+Mercedes E-Klasse (W210) 4.3
+Mercedes E-Klasse (W210) 5.0
+Mercedes S-Klasse (W280) 3.2
+Mercedes S-Klasse (W280) 4.3
+Mercedes S-Klasse (W280) 5.0
+Mercedes S-Klasse (W280) 5.5
+Mercedes SL-Klasse (R320) 5.0
+Mercedes SL-Klasse (R320) 5.5
+Mercedes G-Klasse 2.7
+Mercedes G-Klasse 4.0
+Mercedes M-Klasse 2.7
+Mercedes ML-Klasse 2.7
+Mercedes ML-Klasse 4.0
+
+
+
+#MERCEDESME728AMG
+id=77
+Mercedes Slk  2.4
+Mercedes Slk  3.2
+Mercedes Slk  5.5 E55 M113
+Mercedes Clk-clk cabrio  2.4
+Mercedes Clk-clk cabrio  3.2
+Mercedes Clk-clk cabrio  5.0
+Mercedes C-Klasse (W201) 1.8
+Mercedes C-Klasse (W203) 2.0
+Mercedes C-Klasse (W201) 2.4
+Mercedes C-Klasse (W203) 3.2
+Mercedes C-Klasse (W203) 2.2
+Mercedes C-Klasse (W203) 2.7
+Mercedes C-Klasse (W203) 3.2
+Mercedes E-Klasse (W210) 2.4
+Mercedes E-Klasse (W210) 3.2
+Mercedes E-Klasse (W210) 4.3
+Mercedes E-Klasse (W210) 5.0
+Mercedes S-Klasse (W280) 3.2
+Mercedes S-Klasse (W280) 4.3
+Mercedes S-Klasse (W280) 5.0
+Mercedes S-Klasse (W280) 5.5
+Mercedes SL-Klasse (R320) 5.0
+Mercedes SL-Klasse (R320) 5.5
+Mercedes G-Klasse 2.7
+Mercedes G-Klasse 4.0
+Mercedes M-Klasse 2.7
+Mercedes ML-Klasse 2.7
+Mercedes ML-Klasse 4.0
+
+
+
+#MERCEDESME21
+id=78
+
+Mercedes Slk  2.0  200K
+Mercedes Slk  2.3  230K
+Mercedes Slk  2.4
+Mercedes Slk  3.2
+Mercedes Clk (W208) 2.0 200K
+Mercedes Clk (W208) 2.3 230K
+Mercedes Clk-clk cabrio  2.4
+Mercedes Clk-clk cabrio  2.4
+Mercedes Clk-clk cabrio  3.2
+Mercedes Clk-clk cabrio  5.0
+Mercedes C-Klasse (W201) 1.8
+Mercedes C-Klasse (W202) 2.0 200K
+Mercedes C-Klasse (W202) 2.3 230K
+Mercedes C-Klasse (W203) 2.0
+Mercedes C-Klasse (W201) 2.4
+Mercedes C-Klasse (W203) 3.2
+Mercedes C-Klasse (W203) 2.2
+Mercedes C-Klasse (W203) 2.7
+Mercedes C-Klasse (W203) 3.2
+Mercedes E-Klasse (W210) 2.4
+Mercedes E-Klasse (W210) 3.2
+Mercedes E-Klasse (W210) 4.3
+Mercedes E-Klasse (W210) 5.0
+Mercedes S-Klasse (W280) 3.2
+Mercedes S-Klasse (W280) 4.3
+Mercedes S-Klasse (W280) 5.0
+Mercedes G-Klasse 2.7
+Mercedes G-Klasse 4.0
+Mercedes M-Klasse 2.7
+Mercedes ML-Klasse 2.7
+Mercedes ML-Klasse 4.0
+
+
+
+
+#MERCEDES_SIEMENS_5WK9
+id=100
+Mercedes Slk  2.4
+Mercedes Slk  3.2
+Mercedes Slk  5.0
+Mercedes Clk-clk cabrio  2.4
+Mercedes Clk-clk cabrio  3.2
+Mercedes Clk-clk cabrio  5.0
+Mercedes C-Klasse (W201) 1.8
+Mercedes C-Klasse (W203) 2.0
+Mercedes C-Klasse (W201) 2.4
+Mercedes C-Klasse (W203) 3.2
+Mercedes C-Klasse (W203) 2.2
+Mercedes C-Klasse (W203) 2.7
+Mercedes C-Klasse (W203) 3.2
+Mercedes E-Klasse (W210) 2.4
+Mercedes E-Klasse (W210) 3.2
+Mercedes E-Klasse (W210) 4.3
+Mercedes E-Klasse (W210) 5.0
+Mercedes S-Klasse (W280) 3.2
+Mercedes S-Klasse (W280) 4.3
+Mercedes S-Klasse (W280) 5.0
+Mercedes G-Klasse 2.7
+Mercedes G-Klasse 4.0
+Mercedes M-Klasse 2.7
+Mercedes ML-Klasse 2.7
+Mercedes ML-Klasse 4.0
+
+
+#CMERCEDES_SIEM4LKE_800
+id=178
+Mercedes Slk  2.4
+Mercedes Slk  3.2
+Mercedes Slk  5.0
+Mercedes Clk-clk cabrio  2.4
+Mercedes Clk-clk cabrio  3.2
+Mercedes Clk-clk cabrio  5.0
+Mercedes C-Klasse (W201) 1.8
+Mercedes C-Klasse (W203) 2.0
+Mercedes C-Klasse (W201) 2.4
+Mercedes C-Klasse (W203) 3.2
+Mercedes C-Klasse (W203) 2.2
+Mercedes C-Klasse (W203) 2.7
+Mercedes C-Klasse (W203) 3.2
+Mercedes E-Klasse (W210) 2.4
+Mercedes E-Klasse (W210) 3.2
+Mercedes E-Klasse (W210) 4.3
+Mercedes E-Klasse (W210) 5.0
+Mercedes S-Klasse (W280) 3.2
+Mercedes S-Klasse (W280) 4.3
+Mercedes S-Klasse (W280) 5.0
+Mercedes G-Klasse 2.7
+Mercedes G-Klasse 4.0
+Mercedes M-Klasse 2.7
+Mercedes ML-Klasse 2.7
+Mercedes ML-Klasse 4.0
+
+
+
+
+
+
+
+
+
+
+#MITSUBISCHIEDC15C2
+id=67
+Carisma    1.9 hdi
+Space Star 1.9 hdi 
+
+
+
+#NISSANEDC15C2
+id=62
+Nissan Almera Tino 2.0
+Nissan X-Trail 2.2 
+NISSAN PRIMASTAR 1.9 DCI
+NISSAN PRIMERA 1.9 DCI
+NISSAN PRIMERA 2.2 DCI
+NISSAN TERRANO 2.7 TDI
+NISSAN INTERSTAR 2.7 TDI
+
+#OPEL17DTI16V_1
+id=10
+Astra F 1.7 16V DTI Delco LVP4 Y17DT E2
+Corsa B 1.7 16V Delco LVP4  Y17DT E2
+Zafira 1.7 16V Delco LVP4  Y17DT E2
+
+
+#OPEL17DTI16V_2
+id=12
+Astra F 1.7 16V DTI Delco LVP11 Y17DT E3
+Corsa B 1.7 16V Delco LVP11 Y17DT E3
+Zafira 1.7 16V Delco LVP11 Y17DT E3
+
+#OPEL17DTI16V_3
+id=110
+Astra F 1.7 16V DTI Delco LVP11 Y17DT E4
+MERIVA 1.7 16V DTI Delco LVP11 Y17DT E4
+Corsa B 1.7 16V Delco LVP11 Y17DT E4 
+Zafira 1.7 16V Delco LVP11 Y17DT E4
+
+
+#OPELME155E4
+id=14
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Corsa  1.0/1.2 16V BOSCH ME1.5.5
+Agila 1.0/1.2 16V BOSCH ME1.5.5
+Zafira 2.0 16V BOSCH ME1.5.5
+Meriva 1.0/1.2 16V BOSCH ME1.5.5
+Astra coupe 2.0 16V turbo BOSCH ME1.5.5
+Astra 2.0 16V BOSCH ME1.5.5
+
+
+#OPELM155E3
+id=15
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Astra G 1.2 16V Bosch M1.5.5
+Corsa B 1.0 12V Bosch M1.5.5
+Corsa B 1.2 16V Bosch M1.5.5
+Corsa C 1.0 12V Bosch M1.5.5
+Corsa C 1.2 16V Bosch M1.5.5
+
+
+#OPELEDC15M
+id=21
+Astra F (4) 1.7 16V DTI Bosch EDC15M
+Astra F (4) 2.0 16V DI Bosch EDC15M
+Astra F (4) 2.2 16V DI Bosch EDC15M
+Astra G 1.7 16V DI Bosch EDC15M
+Astra G 2.0 16V DI Bosch EDC15M
+Astra G 2.2 16V DI Bosch EDC15M
+Frontera 2.2 DTI Bosch EDC15M
+Vectra B 1.7 16V DI Bosch EDC15M
+Vectra B 2.0 16V DI Bosch EDC15M
+Vectra C 2.0 16V DI Bosch EDC15M
+Vectra C 2.0 16V DTI Bosch EDC15M
+Zafira 2.0 16V DI Bosch EDC15M
+Omega 2.0 / 2.2 16V DI Bosch EDC15M
+Saab 93/95 2.2 DTI 16V DI Bosch EDC15M
+Isuzu C MAX 3.0 DTI
+
+
+#OPEL_IAW_MJD
+id=104
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Corsa   1.3 IAW MULTIJET
+Agila   1.3 IAW MULTIJET
+Suzuki Ignis 1.3 IAW MULTIJET
+
+
+
+#OPELSIMTEC70
+id=29
+Astra F (4) 1.8 16V Siemens Simtec70
+Astra F (4) 2.0 16V Siemens Simtec70
+Astra G 1.8 16V Siemens Simtec70
+Astra G 2.0 16V Siemens Simtec70
+Omega B 2.0 16V Siemens Simtec70
+Vectra B 1.8 16V Siemens Simtec70
+Vectra B 2.0 16V Siemens Simtec70
+Vectra C 1.8 16V Siemens Simtec70
+Vectra C 2.0 16V Siemens Simtec70
+Zafira 1.8 16V Siemens Simtec70
+Zafira 2.0 16V Siemens Simtec70
+
+
+#OPELDELCO_3
+id=30
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+CORSA 1.4 16V Multec 3
+Astra G  1.4 16V Multec 3
+Astra G  1.6 16V Multec 3
+Vectra C 1.4 16V Multec 3
+Vectra C 1.6 16V Multec 3
+
+
+
+#OPELDELCO_2
+id=31
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+CORSA  1.4 16V Multec 2
+Astra F  1.4 16V Multec 2
+Astra F  1.6 16V Multec 2
+Vectra B 1.4 16V Multec 2
+Vectra B 1.6 16V Multec 2
+
+
+#OPELEDC15C7
+id=32
+MERIVA 1.7 16V 80 / 100 CV CDTI 
+ASTRA G 1.7 16V 80 / 100 CV CDTI 
+
+
+#OPELDELCO_1
+id=35
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+CORSA  1.4 16V Multec 1
+Astra F  1.4 16V Multec 1
+Astra F  1.6 16V Multec 1
+Vectra B 1.4 16V Multec 3
+Vectra B 1.6 16V Multec 3
+
+
+#OPELSIMTEC90
+id=52
+Astra F (4) 1.8 16V Simtec 90 e VDO 71.1
+Astra F (4) 2.0 16V Simtec 90 e VDO 71.1
+Astra G 1.8 16V Simtec 90 e VDO 71.1
+Astra G 2.0 16V Simtec 90 e VDO 71.1
+Omega B 2.0 16V Simtec 90 e VDO 71.1
+Vectra B 1.8 16V Simtec 90 e VDO 71.1
+Vectra B 2.0 16V Simtec 90 e VDO 71.1
+Vectra C 1.8 16V Simtec 90 e VDO 71.1
+Vectra C 2.0 16V Simtec 90 e VDO 71.1
+Zafira 1.8 16V Simtec 90 e VDO 71.1
+Zafira 2.0 16V Simtec 90 e VDO 71.1
+
+
+#OPEL2200DTR
+id=71
+ASTRA G 2.2 DTI
+MERIVA 2.2 DTI 
+
+
+#OPELSIMTEC56
+id=73
+Astra E (4) 1.8 16V Siemens Simtec56
+Astra E (4) 2.0 16V Siemens Simtec56
+Astra E 1.8 16V Siemens Simtec56
+Astra G 2.0 16V Siemens Simtec56
+Omega A 2.0 16V Siemens Simtec56
+Vectra A 1.8 16V Siemens Simtec56
+Vectra A 2.0 16V Siemens Simtec56
+Vectra B 1.8 16V Siemens Simtec56
+Vectra B 2.0 16V Siemens Simtec56
+Zafira 1.8 16V Siemens Simtec56
+Zafira 2.0 16V Siemens Simtec56
+
+
+
+
+
+
+#PEUGEOTEDC15C2
+id=19
+Ulysse 2.0 JTD 16V Bosch EDC15C2
+Ulysse 2.2 JTD 16V Bosch EDC15C2
+Phedra 2.0 JTD Bosch EDC15C2
+Phedra 2.2 JTD Bosch EDC15C2
+
+
+Berlingo 2.0 HDI Bosch EDC15C2
+C5 2.0 HDI Bosch EDC15C2
+C5 2.2 HDI Bosch EDC15C2
+C8 2.0 HDI Bosch EDC15C2
+C8 2.0 HDI Bosch EDC15C2
+Evasion 2.0 HDI Bosch EDC15C2
+Jumper 2.0 HDI Bosch EDC15C2
+Jumper 2.2 HDI Bosch EDC15C2
+Jumper 2.8 HDI Bosch EDC15C7
+Jumpy 2.0 HDI Bosch EDC15C2
+Picasso 2.0 HDI Bosch EDC15C2
+Synergie 2.0 HDI Bosch EDC15C2
+Xantia 2.0 HDI Bosch EDC15C2
+Xsara 2.0 HDI Bosch EDC15C2
+Xsara Picasso 2.0 HDI Bosch EDC15C2
+
+206 2.0 HDI Bosch EDC15C2
+306 2.0 HDI Bosch EDC15C2
+307 2.0 HDI 110PS Bosch EDC15C2
+406 2.0 HDI Bosch EDC15C2
+406 2.2 HDI Bosch EDC15C2
+607 2.0 HDI Bosch EDC15C2
+607 2.2 HDI Bosch EDC15C2
+807 2.0 HDI Bosch EDC15C2
+807 2.2 HDI Bosch EDC15C2
+Boxer 2.0 HDI Bosch EDC15C2
+Expert 2.0 HDI Bosch EDC15C2
+Partner 2.0 HDI Bosch EDC15C2
+
+
+
+#PEUGEOT SID 881 801 2000cc
+id=81
+0READ BOOT MODE PIN 28 FLASH TO MASS
+206 2.0 8V HDI 90CV E4
+306 2.0 8V HDI 90CV E4 
+307 2.0 8V HDI 90CV E4
+406 2.0 8V HDI 90CV E4 
+407 2.0 8V HDI 90CV E4 
+
+XARA 2.0 8V HDI 90CV E4 
+XANTIA 2.0 8V HDI 90CV E4 
+PICASSO 2.0 8V HDI 90CV E4 
+C5 2.0 8V HDI 90CV E4 
+BERLINGO 2.0 8V HDI 90CV E4 
+
+
+
+#PEUGEOTSDI 804 1400cc
+id=114
+0READ BOOT MODE PIN 28 FLASH TO MASS
+106 1,4 8V HDI 70CV E4
+206 1,4 8V HDI 70CV E4
+1007 1,4 8V HDI 70CV E4
+
+SAXO 1,4 8V HDI 70CV E4
+C2  1,4 8V HDI 70CV E4
+C3  1,4 8V HDI 70CV E4
+
+
+#PEUGEOT SID 803 2000cc 16V 29BL802CB
+id=129
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+307 2.0 16V HDI 136CV E3 
+407 2.0 16V HDI 136CV E3 
+607 2.0 16V HDI 136CV E3 
+
+
+#PEUGEOT SID 803A 2000cc 16V M58BW016xB
+id=146
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+307 2.0 16V HDI 136CV E4 
+407 2.0 16V HDI 136CV E4 
+607 2.0 16V HDI 136CV E4
+
+
+
+
+
+
+#CPEUGEOTSDI_BOOTMODE400 881/801/804/806 1400cc ,2000CC
+id=94
+0 0READ & WRITE 
+0BOOT MODE PIN 28 FLASH TO MASS
+106 1,4 8V HDI 70CV E4
+1007 1,4 8V HDI 70CV E4
+206 1,4 8V HDI 70CV E4
+206 2.0 8V HDI 90CV E4
+306 2.0 8V HDI 90CV E4 
+307 2.0 8V HDI 90CV E4
+406 2.0 8V HDI 90CV E4 
+407 2.0 8V HDI 90CV E4 
+
+SAXO 1,4 8V HDI 70CV E4
+C1  1,4 8V HDI 70CV E4
+C2  1,4 8V HDI 70CV E4
+C3  1,4 8V HDI 70CV E4
+XARA 2.0 8V HDI 90CV E4 
+XANTIA 2.0 8V HDI 90CV E4 
+PICASSO 2.0 8V HDI 90CV E4 
+C5 2.0 8V HDI 90CV E4 
+BERLINGO 2.0 8V HDI 90CV E4 
+
+
+
+
+
+#PEUGEOT_EDC16C3/9  1,4 1,6 16V
+id=96
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+206 1,4 16V HDI 90CV E4
+307 1,4 16V HDI 90CV E4
+
+206 1,6 16V HDI 110CV E4
+307 1,6 16V HDI 110CV E4
+
+
+
+#PEUGEOT_EDC16C34  1,4 1,6 16V
+id=130
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+206 1,4 16V HDI 90CV E4 F.A.P.
+307 1,4 16V HDI 90CV E4 F.A.P.
+
+206 1,6 16V HDI 110CV E4 F.A.P.
+307 1,6 16V HDI 110CV E4 F.A.P.
+
+
+
+
+
+
+#PEUGEOTME744
+id=33
+206 1.6 16V E3 
+306 1.6 16V E3 
+406 2.0 16V E3 
+
+
+#PEUGEOTME745
+id=138
+
+1007 1.6 16V E4 
+207 1.6 16V E4 
+307 1.6 16V E4 
+407 2.0 16V E4 
+
+
+
+
+#PEUGEOTIAW48P
+id=43
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+206 1.6 16V E3 
+306 1.6 16V E3 
+406 2.0 16V E3 
+SAXO 1.6 16V E3
+
+#PEUGEOTIAW48P2
+id=80
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+206 1.6 16V E4
+306 1.6 16V E4 
+406 2.0 16V E4 
+SAXO 1.6 16V E4
+
+
+
+#PEUGEOTIAW6LPA01_20
+id=82
+' CHECKSUM TAB CALCULATED IN WRITING'
+0----------------------------------------------------------------0
+206 2.0 16V GTI 176 CV 
+
+
+
+#PEUGEOTIAW6LPA01_14
+id=93
+' CHECKSUM TAB CALCULATED IN WRITING'
+0----------------------------------------------------------------0
+106 1.4 16V GTI 90 CV 
+206 1.4 16V GTI 90 CV
+307 2.0 16V 136 CV  
+407 2.0 16V 136 CV
+C5  2.0 16V 136 CV
+C6  2.0 16V 136 CV
+C8  2.0 16V 136 CV
+
+
+#PEUGEOT_SAGEM2000_14_E3
+id=118
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+106 1.2 1.4 1.6 8V E3
+206 1.2 1.4 1.6 8V E3
+306 1.2 1.4 1.6 8V E3
+
+
+
+#PEUGEOT_SAGEM2000_14_E4
+id=112
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+1007 1.2 1.4 1.6 8V E4
+106   1.2 1.4 1.6 8V E4
+206   1.2 1.4 1.6 8V E4
+307   1.2 1.4 1.6 8V E4
+
+
+
+#PORSCHE996_CC460
+id=115
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+996 3,6 ME 5.2 CC460
+BOXTER 2,5 2,7 M 5.2 CC460
+
+
+#PORSCHE_ME72_400
+id=124
+996 3,2 3,6 ME 7.2
+BOXTER 3,2 3,6 ME 7.2
+
+
+#PORSCHE_ME784_800
+id=154
+996 3,2 3,6 ME 7.8.4
+BOXTER 3,2 3,6 ME 7.8.4
+CARRERA S 3.8
+CARRERA S 4X4 4,5 BITURBO
+
+#PORSCHE_ME72_400
+id=127
+CAYENNE 4,5 V8 
+CAYENNE S 4,5 V8 BITURBO 
+
+
+
+
+
+
+
+#RENAULTEDC15C2
+id=26
+Opel Vivaro 1.9 16V DI Bosch EDC15C2
+Espace 1.9 dCi Bosch EDC15C2
+Espace 2.2 dCi Bosch EDC15C2
+Kangoo 1.9 dCi Bosch EDC15C2
+Laguna 1.9 dCi Bosch EDC15C2
+Megane 1.9 dCi Bosch EDC15C2
+Scenic 1.9 dCi Bosch EDC15C2
+Scenic 1.9 dTi Bosch EDC15C2
+Trafic 1.9 dCi Bosch EDC15C2 
+MASTER 2.2 DCI BOSCH 29F400
+MASTER 2.5 DCI BOSCH 29F400
+MASTER 2.8 DCI BOSCH 29F200
+MEGANE 1.9 DCI BOSCH 29F400
+
+
+
+#RENAULT DELPHIJTD
+id=28
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+MICRA 1.5 D 65cv DELPHI
+MICRA 1.5 D 82cv DELPHI
+
+CLIO 1.5 Dci 65cv DELPHI
+CLIO 1.5 Dci 82cv DELPHI
+CLIO 1.5 Dci 101cv DELPHI
+MEGANE II 1.5 Dci 82cv DELPHI
+MEGANE II 1.5 Dci 101cv DELPHI 
+
+
+
+#RENAULT DELPHIJTD E4
+id=98
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+MODUS 1.5 D 65cv DELPHI E4
+CLIO 1.5 Dci 65cv DELPHI E4
+CLIO 1.5 Dci 82cv DELPHI E4
+CLIO 1.5 Dci 101cv DELPHI E4
+MEGANE II 1.5 Dci 82cv DELPHI E4
+MEGANE II 1.5 Dci 101cv DELPHI E4
+
+MICRA 1.5 D 65cv DELPHI E4
+MICRA 1.5 D 82cv DELPHI E4
+
+
+#CRENAULT_DENSO_DH5
+id=116
+ESPACE V6 3.0 DENDO DH5 
+GRAND ESPACE V6 3.0 DENDO DH
+VEL SATIS 05  V6 3.0 DENDO DH5
+
+
+
+#RENAULT_EDC16C3
+id=117
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Espace 1.9 dCi EDC16 C3
+Espace 2.2 dCi EDC16 C3
+Kangoo 1.9 dCi EDC16 C3
+Laguna 1.9 dCi Bosch EDC16 C3
+Megane 1.9 dCi Bosch EDC16 C3
+Scenic 1.9 dCi Bosch EDC16 C3
+Scenic 1.9 dTi Bosch EDC16 C3
+Trafic 1.9 dCi EDC16 C3
+
+
+
+#RENAULT_EDC16CP33
+id=171
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Trafic 1.9 dCi EDC16 CP33 E4
+OPEL VIVARO 1.9 EDC16 CP33 E4 
+
+
+
+#RENAULTSIRIUS32
+id=11
+Clio 1.4/1.6/2.0RS L 16v Siris 32
+Megane 1.4/1.6/2.0 L 16v Siris 32
+Scenic 1.4/1.6/2.0 L 16v Siris 32
+
+
+
+
+#RENAULTSIRIUS34
+id=107
+Clio 14/16  16v
+Megane 14/16  16v
+Scenic 14/16  16v
+Clio RS 2.0 16v 170CV
+
+
+
+#RENAULT_IAW5NR
+id=105
+Clio 12/14  16v
+Clio RS 2.0 16v 160CV
+Megane 12/14  16v
+Scenic 12/14  16v
+
+
+
+#RENAULT_SAGEM3000
+id=174
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Clio RS 2.0 16v 196CV
+Megane 2.0 16v 
+Megane 2.0 16v TURBO 225CV
+
+
+
+#ROVEREDC15CDDE
+id=182
+' CHECKSUM CALCULATED IN WRITING '
+DEFENDER TD5 2.5 MENSNNN
+DISCOVERY TD5 2.5 MENSNNN
+
+
+
+#ROVER_MENS_29F200
+id=108
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Freelender 2.0 16V MEMS 3
+MG ROVER ZR 140 ZR 160 MEMS 3
+Rover 25 1.4   1.6 16V MEMS 3
+Rover 45 1.6   1.8+D45 16V MEMS 3
+Rover 75 1.6   2.0 16V MEMS 3
+MG CABRIO 1,4  1,6  1,8 
+D---------------------------------------------------------------Z
+DEFENDER TD5 2.5 MENSNNN
+DISCOVERY TD5 2.5 MENSNNN
+
+
+
+#ROVER_25_EMS_SIEMENS
+id=177
+DEFENDER 25 V6 SIEMENS EMS 2000 E4
+FREELANDER 25 V6 SIEMENS EMS 2000 E4
+
+
+
+#CSSANGYONG_DELPHI_27 
+id=159
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+REXTON 2.7 DELPHI E4
+
+
+
+#SEATEDC15V
+id=56
+Alhambra 1.9 TDI VP37 Bosch EDC15V
+Alhambra 1.9 TDI VP37 Bosch EDC15VM
+Alhambra 1.9 TDI VP37 Bosch EDC15VM-1M
+Cordoba 1.9 TDI VP37 Bosch EDC15V
+Cordoba 1.9 TDI VP37 Bosch EDC15VM
+Cordoba 1.9 TDI VP37 Bosch EDC15VM-1M
+Ibiza 1.9 TDI VP37 Bosch EDC15V
+Ibiza 1.9 TDI VP37 Bosch EDC15VM
+Ibiza 1.9 TDI VP37 Bosch EDC15VM-1M
+Leon 1.9 TDI VP37 Bosch EDC15V
+Leon 1.9 TDI VP37 Bosch EDC15VM
+Leon 1.9 TDI VP37 Bosch EDC15VM-1M
+Toledo 1.9 TDI VP37 Bosch EDC15V
+Toledo 1.9 TDI VP37 Bosch EDC15VM
+Toledo 1.9 TDI VP37 Bosch EDC15VM-1M
+
+
+#SMARTE2E3
+id=46
+MCC Smart 600/700 Bosch MEG1.1
+
+
+#SMARTEDC15C
+id=47
+MCC Smart CDI 0.9 CDI EDG15C5
+
+
+#SMARTEDC16C31
+id=134
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+Smart For Four 1.5 CDI EDC16+C31
+Colt 1.5 DI-D
+
+
+
+#TOYOTAEDC15C9
+id=57
+Yaris 1.4 D4D 75cv 
+Yaris verso 1.4 D4D 75cv 
+
+
+
+#VOLVOV40EDC15C3
+id=64
+Volvo V40 2.0 TDI
+
+
+
+#VOLVOD5EDC15C3
+id=92
+V70 2.5 5C 
+S60 2.5 5C 
+XC70 2.5 5C 
+
+#VOLVOEDC16CP31_6
+id=170
+' CHECKSUM CALCULATED IN WRITING '
+0----------------------------------------------------------------0
+S40 2.5 5C E4 180CV
+V40 2.5 5C E4 180CV
+V50 2.5 5C E4 180CV
+V70 2.5 5C E4 180CV
+S60 2.5 5C E4 180CV
+XC70 2.5 5C E4 180CV
+XC90 2.5 5C E4 180CV
+
+
+
+#VWEDC15P
+id=27
+A2 1.4 TDI  80CV    
+A3 1.9 TDI 101CV
+A3 1.9 TDI 130CV 
+
+A4 1.9 TDI 101CV
+A4 1.9 TDI 115CV
+A4 1.9 TDI 130CV
+
+A6 1.9 TDI 101CV
+A6 1.9 TDI 130CV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

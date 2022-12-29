@@ -1,0 +1,79 @@
+[Version]
+Signature="$CHICAGO$"
+Class=Mouse
+Provider=%MS%
+CatalogFile=ftsermou.cat
+DriverVer=10/28/2003,1.00.2146
+
+[DestinationDirs]
+DefaultDestDir = 11        ; LDID_SYS
+Sermou.Coyp    = 11
+
+[SourceDisksNames]
+91=%SerMouDisk%,,1
+
+[SourceDisksFiles]
+ftsermou.vxd=91
+
+[Manufacturer]
+%MS%=MS
+
+; Manufacturer Sections
+; ----------------------------------------
+[MS]
+%Sermou.Desc%=Sermou, SERENUM\FTSERMOU
+%Sermou_0F01.Desc%=Sermou, SERENUM\FTSM0F01
+%Sermou_0F04.Desc%=Sermou, SERENUM\FTSM0F04
+%Sermou_0F05.Desc%=Sermou, SERENUM\FTSM0F05
+%Sermou_0F06.Desc%=Sermou, SERENUM\FTSM0F06
+%Sermou_0F07.Desc%=Sermou, SERENUM\FTSM0F07
+%Sermou_0F08.Desc%=Sermou, SERENUM\FTSM0F08
+%Sermou_0F09.Desc%=Sermou, SERENUM\FTSM0F09
+%Sermou_0F0A.Desc%=Sermou, SERENUM\FTSM0F0A
+%Sermou_0F0C.Desc%=Sermou, SERENUM\FTSM0F0C
+%Sermou_0F0F.Desc%=Sermou, SERENUM\FTSM0F0F
+
+
+; Install sections
+; ----------------------------------------
+[Sermou]
+DelReg=Prev.DelReg
+AddReg=VMOUSE.AddReg
+CopyFiles=Sermou.Copy
+UpdateInis=ftsermou.Ini
+
+[Prev.DelReg]
+HKR,,DevLoader
+HKR,,MouseDriver
+
+[VMOUSE.AddReg]
+HKR,,DevLoader,,*vmouse
+HKR,,MouseDriver,,ftsermou.vxd
+
+[Sermou.Copy]
+ftsermou.vxd
+
+[Sermou.Ini]
+system.ini,boot.description,,"mouse.drv=%Sermou.Desc%"
+system.ini,boot,,"mouse.drv=mouse.drv"
+system.ini,386Enh,,"mouse=*vmouse"
+
+
+; ----------------------------------------
+; User-visible Strings
+
+[Strings]
+SerMouDisk="Sample Win95 Mouse Driver Disk"
+MS="Microsoft"
+Sermou.Desc="Win95 Sample Serial Mouse Minidriver"
+Sermou_0F01.Desc="Microsoft serial mouse"
+Sermou_0F04.Desc="Mouse Systems mouse"
+Sermou_0F05.Desc="Mouse Systems 3-button mouse"
+Sermou_0F06.Desc="Genius mouse"
+Sermou_0F07.Desc="Genius mouse"
+Sermou_0F08.Desc="Logitech serial mouse"
+Sermou_0F09.Desc="Microsoft BallPoint serial mouse"
+Sermou_0F0A.Desc="Microsoft Plug and Play mouse"
+Sermou_0F0C.Desc="Microsoft-compatible serial mouse"
+Sermou_0F0F.Desc="Microsoft Serial BallPoint-compatible mouse"
+

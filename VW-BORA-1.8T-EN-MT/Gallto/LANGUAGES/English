@@ -1,0 +1,536 @@
+001Inf
+002Info Ecu
+003ck
+004Check Algorithm
+005Speed Repetition
+006Open File for Modification
+007Save Setting file
+008Save File Modified
+009Calculator
+010Decreases Magnifier
+011Increase Magnifier
+012Active or Disarm Magnifier
+013Help
+014Activate Grate
+015R
+016Reset Emulator
+017Chk TR-LH
+018Active Checksum TR High Low
+019Trace
+020Active Trace
+021Emu
+022Active Emulator
+023Chk TR algo
+024Active Checksum Algorithm
+025=D
+026Equalize values for odd addresses
+027=P
+028Equalize values for even addresses
+029Lift plain Sx=+1  Dx=+x (programmed value)
+030lower Plain Sx= 1 Dx= x (programmed value)
+031FF
+032Plain to screen to FF
+033=
+034Equalize value to screen
+03500
+036Plain to screen to 00
+037II
+038Equalize addreses to original
+039I
+040Go to address
+041Insert in demand Esadecimale Address
+042+
+043Increase sx+1  dx+5
+044-
+045Decrease sx-1 dx-5
+046Mouse Sx page ahead, Dx end file
+047Mouse Sx page back, Dx start file
+048Mouse Sx un byte/word back Dx page back
+049Mouse Sx ub byte/word ahead Dx page ahead
+050Modified shifts
+051Modified shifts
+052Modified shifts
+053Modified shifts
+054Original shifts
+055Original shifts
+056Original shifts
+057Original shifts
+058Comp.
+059Compare the two file Sx  in ahead and Dx back
+060Hex
+061Open Esadecimale Window
+062&Annul
+063Annul last modification
+064&M
+065Memorize plain with name
+066
+067Connects Bars
+068Slider
+069&Eliminate
+070Eliminate selected copy
+071-
+072select N° preceding copy
+073+
+074select N° following copy
+075&Paste
+076Paste selected plane
+077&Copy
+078Copi sceen
+079Maintain
+080Maintain copy
+081Visual.
+082Visual Copy selected
+083-
+084Halve Zoom
+085+
+086Double Zoom
+087-
+088Decrise Zoom Sx-1, Dx-10
+089+
+090Incrise Zoom Sx+1, Dx+10
+091Byte/word Selected
+092Difference Percentage
+093Decimal difference
+094Value zoom
+095Address modified file
+096Address modified file
+097Value modified exadecimal
+098Value original exadecimal
+099Value modified decimal
+100Value original decimal
+101Lsb
+102Msb
+103Dec
+104Graphic Byte(8bit) o Word(16bit)
+105Active byte low ,Wiht pressed shift +20 o -20
+106Select curve with name
+107Type opening
+108Length original file
+109Length modified file
+110Name original file
+111Name modified file
+112Cancel selected point
+113Begin original file
+114Begin modified file
+115&File
+116&Open File to modify
+117&Save modified file
+118&1) Open file settings
+119&2) Save File settings
+120&Create Folder
+121&End
+122&Modify
+123&Copy
+124&Paste
+125&Abort
+126&Checksum
+127Compute Checksum &8 bit
+128Compute Checksum &Range 8 bit
+129Compute Checksum &Even Odd
+130Compute Checksum Range Even &Odd
+131Compute Checksum &Bcb
+132&Search
+133&Hexadecimal search
+134Search &Ascii
+135Search &Plane
+136Search &Sequence
+137Search Planes for Se&quence
+138Search &Areas Checksum
+139Search Space &Checksum
+140257 bytes FF
+141514 bytes FF
+142257 bytes 00
+143514 bytes 00
+144&Tools
+145Planes &2D
+146Planes &3D
+147&Ecu information
+148&Color background
+149Color background &Copy
+150Color &Grate
+151Color &Bar
+152&Emulation
+153&Unloaded to emulator
+154Test &Pod
+155&Reset Emulator
+156Reset &Target
+157&Configuration Reset
+158Want you to save the Job in Course?
+159Opening New Job
+160The address of Start must be inferior to that of end
+161Checksum 8 bit Range
+162257 bytes 00 not found
+163Search for Checksum
+164Found 257 bytes to 00, carry to FF for Checksum correction
+165Search for Checksum
+166257 bytes FF not fund
+167Search for Checksum
+168514 bytes 00 not found
+169Found 514 bytes to 00, carry to FF for Checksum correction
+170Trace
+171Open File
+172Positioning Selected file
+173Original High
+174Original Low
+175Modified High
+176Modified Low
+177&Rename
+178rename Selected file
+179Through
+180skim through modified Low
+181Through
+182Skim through original Low
+183Through
+184Skim through modified High
+185Through
+186Skim through original High
+187Original
+188Modified 
+189Modified 
+190Original
+191Type Opening
+192Siemens 1
+193Fiat ME7
+194Cbc
+195Double E.
+196Bcb
+197Siemens
+198Normal
+199&End
+200Close Window
+201&Open
+202Open graphic
+203File
+204Directory
+205Checksum
+206Dimension file
+207Type Eprom
+208Type Micro 
+209Number Programs
+210Number ecu
+211Type Installs
+212&File
+213&Open
+214End
+215&Recent
+216Siemens 2
+217Siemens 1
+218Open Original High
+219Open Modified High
+220Open Original Low
+221Open Modified Low
+222The name of the Modified file must be
+223different from the Original one
+224Open
+225The Original file along
+226it you has a length diverged from the
+227File Modified along
+228The name file are already existing
+229Rename
+230The name of the setting file is already existing
+231The file not is Bcb
+232Open
+233Error in the Bcb decompression
+234Error in the Bosch decompression
+235Error  :
+236Eprom LOW
+237Eprom HIGH
+238Original  High
+239Modified High
+240Original         
+241Modified
+242The file 
+243is already existing
+244 Rewrite ?
+245Save
+246Error rescue:
+247Codify Bosch
+248Codify CBC
+249Codify BCB
+250Modified
+251Codify Siemens
+252Don't codify  Siemens
+253Save on two files
+254Save on 1 file
+255&Save
+256&Annull
+257Through
+258Directory where save the file
+259Insert Run and File Name
+260Through
+261Directory where save the file
+262Modified
+263 Eprom High
+264Eprom Low
+265 Eprom
+266 Eprom High+Low
+267 Eprom High
+268Save Eprom High 
+269Save Eprom Low
+270The name of the Modified file must be
+271different from the Original one!
+272Insert name file Eprom High
+273Insert name file Eprom  High+Low
+274Insert name file Eprom  High
+275Insert name file Eprom
+276Save setting file
+277File modified
+278File original
+279&Associate
+280&End
+281&Save
+282Microprocessor
+283Type Eprom
+284N°  Programm
+285N° Ecu
+286Insert The name of the setting file
+287Save the setting file
+288Error Writing file
+299Save setting file
+300Save thr original setting file
+301Save the modified setting file
+302Unloaded to Emulator
+303reverse order High Low
+304Trace
+305Start
+306End
+307Byte-Word
+308Type
+309&End
+310&Unloaded
+311Port printer
+312Type Eprom
+313-- Initialization Emulator --
+314-- Check Lpt door and connections emulator --
+315-- Configuration type eprom --
+316-- Configuration eprom not result --
+317-- Error set buffer trace --
+318-- Error set range trace --
+319-- unload file not successful --
+320-- begin emulation --
+321-- begin emulation not result --
+322-- Effected unloading --
+323-- Emulator OK --
+324-- Error initialization N° 
+325-- Memory configurated --
+326-- Memory not configurated --
+327-- Transferred file --
+328-- File not Transferred , code :
+329The file is not of length standart
+330Dimension not allowed
+331-- Unload file --
+332-- Error set Trigger trace --
+333Open setting file
+334&End
+335&Open
+336Type Installs
+337Number ecu
+338Number Programm
+339Type Micro
+340Type Eprom
+341Search Areas Checksum
+342Go to:
+343End
+344Start
+345Search with &Offset
+346&End
+347&Interrupt
+348&Find
+349Offset
+350Found
+351Start
+352End
+353Checksum from find
+354Checksum
+355C&alcolate
+356&End
+357&Correct
+358Complement a FFFF
+359Checksum Algorithm
+360&Correct
+361&End
+362Checksum Bcb
+363&Calcolate
+364&Correct
+365&End
+366The Bcb sequence has not stayed found
+367Language
+368Checksum range 8 bit
+369&Calcolate
+370&End
+371Checksum 16
+372Checksum                          FFFF complement
+373Checksum Range Hi LO
+374&End
+375&Calcolate
+376End
+377Start
+378Low
+379High
+380The address of End must be
+381Superior to that of Start
+382Imposed Checksum tr Even Odd
+383Zona 1
+384Start
+385End
+386Begin Areas Correction
+387Zona 2
+388Begin Areas Correction
+389End
+390Start
+391&Ok
+392End Procedure
+393&Annul
+394Save setting file
+395Save File &Modified
+396&Close
+397Want you to close the program without do the rescues?
+398Configuratin Reset
+399Active higt
+400Active low
+401&OK
+402 Duration Reset Ms.
+403Create folder
+404&End
+405&Create
+406Name folder to Create
+407Error Creation folder
+408Information ecu
+409&Write Set
+410Modified
+411Original
+412&Close
+413N° Programm
+414N° Ecu
+415Manufactured
+416Management Plain Memorization
+417&Save
+418&Esc
+419&Insert
+420&Rename
+421E&liminate
+422Insert name plain
+423Plain 2D
+424&End
+425Removal Curves
+426Number Curves
+427Plain 3d
+428Gride
+429Horizontal rotation
+430&End
+431Number Curve
+432Plain search for Sequence
+433&End
+434&Interrupt
+435&Start
+436Plain    Points
+437Skid
+438Recent jobs
+439&To zero
+440&Ok
+441Search Ascii
+442Search on &Original
+443Search on &Modified
+444&Search
+455&End
+466Ascii sequence to search
+447Insert Ascii Sequence to search
+448Sequence not found
+449Search Exadecimal
+450&End
+451&Search
+452Search on &Modified
+453Search on &Original
+454Insert sequence exadecimal to search
+455Insert Exadecimal sequence to search
+456Exadecimal sequence not found
+457Search Plain
+458Search Exadecimal
+459Select file
+460&End
+461&select
+462Search Sequence
+463&End
+464&Search
+465Search on &Modified
+466Search on &Original
+467How much
+468Bytes Hex
+469Ascii sequence to Search
+470Insert byte exadecimal to search
+471Insert quantity of bytes to search
+472Sequence not Found
+473Test Pod
+474&Test
+475Door Printe
+476&End
+477-- Initialization --
+478-- Error initialization N°--  
+479-- Error Test N°  
+480-- Emulator OK --
+481-- Begin test pod
+482-- Test OK --
+483Visualization Memorized Plain
+484Help
+485Exadecimal
+486Write address exadecimale and press
+487Feel Sx page ahead, Dx end file
+488Feel Sx rules ahead
+489Feel Sx rules back
+490Feel Sx page back, Dx begins file
+491Address
+492Value exadicimal
+493Value Decimal
+494Ascii character
+495&File
+496&End
+497&Search
+498&Search Exadecimal
+499Search &Ascii
+500Increase
+501Decrease
+50200
+503FF
+504______________________________
+505Change Nibble
+506Change with preceding byte
+507Change with following byte
+508&Checksum
+509&Cheksum Range 8 bit
+510Checksum &Range Hi LO
+511Search &Different
+512Different
+513Address
+514Original
+515Modified
+516Differet
+517&Search
+518&End
+519&Imposed Checksum TR Even-Odd
+521End file original
+522End file modified
+523&Fine
+524Name Setting
+525Found Maps
+526Active Guide in Line
+528RPM / Load
+527Calcolate Checksum &Algorithm
+529Word for Curve
+530RPM/Curve
+531RPM/Plane
+532g
+533Memorize RPM
+534Insert N° Word for Curve
+535S
+536Memorize Address Plain Beginning
+537SWAP
+538Edc16
+539ME9
+540Utility
+541Double file
+542Half file
+543Web connection impossible, check if there is an active connection
+544Checksum 32 bit
+545You need 4 byte to correct
+546Correct
+547Wrong

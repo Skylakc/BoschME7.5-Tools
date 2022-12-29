@@ -1,0 +1,93 @@
+00 Selecciona Marca
+01 Selecciona Driver	
+02 Serial Usb no encontrado
+03 Baja Velocidad
+04 Info Ecu
+05 Leer Ecu
+06 Abrir Fichero
+07 Prog, Fichero
+08 Esc.
+09 Datos Centralita
+10 Comandos
+11 Datos Fichero a Programar
+12 Serial USB activo
+13 Serial USB inactivo
+14 Imposible abrir el puerto USB
+15 Imposible abrir el puerto
+16 Esperar...
+17 Poner el contacto
+18 El fichero no  esta comprimido
+19 Quitar y poner el contacto antes de leer o programar la centralita.
+20 Atención antes de programar dar 12 v al pin 10/8 ECU E CONTROLAR CHE LA TENSION ESTA SUPERIOR A 13 V
+21 Tiempo de Lectura 30 minutos. Continuar?
+22 Primero debe de seleccionar un driver
+23 Primero debe de abrir un fichero
+24 No Existe
+25 Fin de lectura, Quitar el contacto	
+26 Quitar 10Sec y poner el contacto Esperar 10SeC antes Continuar
+27 Error de escritura de fichero
+28 Ningun Fichero abierto
+29 Numero maximo de intentos de programar superado
+30 Imposible cancelar la centralita
+31 Puerto inactivo
+32 Centralita no seleccionada
+33 Comunicacion impossible
+34 Inicializacion de programacion...
+35 Lectura Centralita...
+36 Inicio lectura ...
+37 Cerrando centralita ...
+38 Inicio programacion...
+39 Cancelando...
+40 Programando Centralita
+41 Fichero de dimension errada
+42 Error de lectura de fichero o fichero de dimension errada
+43 Error de lectura de Fichero
+44 Error Cambio de velocidad
+45 Imposible inicializar la centralita
+46 Numero Centralita no encontrado
+47 Error lectura de informacion
+48 centralita cancelada
+49 Error de programacion
+50 Numero maximo de intentos de cancelacion superados
+51 Ecu Codificada
+52 Ecu no codificada
+53 Operacion anulada
+54 Quitar y poner el contacto, tiempo de lectura de informacion 2 minutos. Continuar?
+55 Atención antes de programar dar 12 v al pin "B3" ECU E CONTROLAR CHE LA TENSION ESTA SUPERIOR A 13 V
+56 Alta Velocidad
+57 Auto
+58 Lectura informacion
+59 Inicio lectura informacion...
+60 COMPLETE
+61 TABLES
+62 Atencion, antes de continuar, quitar el contacto, y poner la massa al pin 24 de la FLASH EPROM y poner el contacto, y quitar la massa al pin 24 de la FLASH EPROM,e continuar MIRAR FILE PDF IN CARPETA DOCUMENTI 
+63 Atencion, antes de continuar, quitar y FUSIBILE N°11, y poner la massa al pin 24 de la FLASH EPROM y poner el contacto, y quitar la massa al pin 24 de la FLASH EPROM,e continuar.
+64 PONER EL  CONTACTO Y QUITAR  EL FUSIBILE N°11 DESPUES 5 s, E CONTINUAR.
+65 QUITAR EL QUADRO, PONER EL FUSIBILE N°11, PONER EL CONTACTO, Y QUITAR EL FUSIBILE N°11 DESPUES 5 sECUNDO, E CONTINUAR.
+66 Atencion, antes de continuar, quitar el contacto, y poner la massa al pin 28 de la FLASH EPROM y poner el contacto, y quitar la massa al pin 28 de la FLASH EPROM,e continuar MIRAR FILE PDF IN CARPETA DOCUMENTI 
+67 Tiempo de Lectura Fichero Intero: 1 hora. Continuar?
+68 Atencion, antes de continuar, quitar el contacto, y poner la massa al pin 104 POL.4 de el MICRO y poner el contacto, y quitar la massa al pin 104 POL.4 de el MICRO,e continuar MIRAR FILE PDF IN CARPETA DOCUMENTI
+69 ATENCION ANTES DE PROGRAMAR DAR 12 V Al PIN 60 ECU E CONTROLAR CHE LA TENSION ESTA SUPERIOR A 13 V
+70 BOOT MODE NO ACTIVO
+71 Fichero erradO
+72 MICRO MOTOROLA NON SUPORTADO
+73 Atencion, antes de la  Lectura o escritura , quitar el contacto, y poner la massa al pin 20 de la centralita y poner el contacto,MIRAR FILE PDF IN CARPETA DOCUMENTI
+74 ATENCION ANTES DE LEAR O PROGRAMAR CONTROLAR CHE LA TENSION ESTA SUPERIOR A 13 V
+75 ATENCION SE COMUNICACION INPOSSIBLE TIRAR UN PONTE TRA EL PIN  7 > 11  DELLA PRESA EOBD2
+76 ATENCION POR COMUNICACION CON ESTO VEICULO BUSCAR ADATTATORE A 24V, OPPURE TIRAR VIA 1 DELLE 2 BATTERIES A 12V.
+77 Quitar el contacto y arrancar el motor
+78 ATENCION por Quitar Spy Motor despues la progrmacion dar 3 ves DATI ECU
+79 ATENCION SE COMUNICACION INPOSSIBLE TIRAR UN PONTE TRA EL PIN 7 Kline EOBD AL PIN 72 Kline DELLA CENTRALITA MOTOR
+80 ATENCION SE COMUNICACION INPOSSIBLE TIRAR UN PONTE TRA EL PIN 7 Kline EOBD AL PLUG 2 PIN 43 Kline DELLA CENTRALITA MOTOR
+81 ATENCION ANTES DE LEER: QUITAR ALIMENTACION, PONER A MASA EL PUNTO DE SOLDADURA  COMO SE MUESTRA EN LA FIGURA DEL DOCUMENTO *jpg REALIMENTAR, QUITAR LA MASA Y PROCEDER CON LA LECTURA. VER FOTO DEL DOCUMENTO PDF
+82 ATENCION SINO HAY COMUNICACION COLOCAR EL PIN 7 LINEA K DE LA TOMA EOBD AL PIN 25 DEL CONECTOR DE LA CENTRALITA MOTOR.
+83 INICIO 2° CENTRALITA SLAVE, OK ?
+84 ATENCION, SALVADO 2 FILES, LAS DOS CENTRALITAS SON DIFERENTES, NO SE PUEDE ESCRIVIR
+85 ATENCION ANTES DE PROGRAMAR PONER UN PUENTE AL RELE, VER DOCUMENTO PDF Y CONTROLAR QUE LA TENSION SEA SUPERIOR A 13V
+86 ATENCION ANTES DE PROCEDER: QUITAR ALIMENTACION, ABRIR LA CENTRALITA Y HACER CON UN CABLE UN PUENTE COMO SE MUESTRA EN LA FIGURA DEL DOCUMENTO JPG. REALIMENTAR Y CLICAR OK, Y RAPIDAMENTE DEBE QUITAR Y PONER EL CONTACTO DE LA CENTRALITA.
+87 ATENCION QUITAR LA MASA Y PROCEDER CLICANDO OK
+88 CHK CALCULATO IN ESCRITURA
+89 QUITAR Y PONER EL CONTACTO, e RIPROVAR.
+90 SE NON COMUNICA COLLEGARE IL PIN 7 DELLA PRESA EOBD2 AL PIN B4 DEL 32_PIN NERO DELLA ECU
+91 RSA NO ENCONTRADO
+92 ATENCION SE COMUNICACION INPOSSIBLE TIRAR UN PONTE TRA EL PIN 7 Kline EOBD AL PIN 86 Kline DELLA CENTRALITA MOTOR

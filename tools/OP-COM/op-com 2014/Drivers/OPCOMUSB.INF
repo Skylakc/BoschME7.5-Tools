@@ -1,0 +1,129 @@
+; OPCOMUSB.INF
+;
+; USB serial converter driver installation for Windows 2000, XP, Server 2003, Vista, Server 2008 (x86 and x64).
+;
+
+[Version]
+Signature="$Windows NT$"
+DriverPackageType=PlugAndPlay
+DriverPackageDisplayName=%DESC%
+Class=USB
+ClassGUID={36fc9e60-c465-11cf-8056-444553540000}
+Provider=%AUTOM3%
+CatalogFile=opcomusb.cat
+DriverVer=03/13/2008,2.04.06
+
+[SourceDisksNames]
+1=%DriversDisk%,,,
+
+[SourceDisksFiles]
+opcomusb.sys = 1,i386
+ftdibus.sys = 1,i386
+ftbusui.dll = 1,i386
+ftd2xx.dll = 1,i386
+FTLang.Dll = 1,i386
+
+[SourceDisksFiles.amd64]
+opcomusb.sys = 1,amd64
+ftdibus.sys = 1,amd64
+ftbusui.dll = 1,amd64
+ftd2xx64.dll = 1,amd64
+ftd2xx.dll = 1,i386
+FTLang.Dll = 1,amd64
+
+[DestinationDirs]
+FtdiBus.NT.Copy = 10,system32\drivers
+FtdiBus.NT.Copy2 = 10,system32
+FtdiBus.NTamd64.Copy = 10,system32\drivers
+FtdiBus.NTamd64.Copy2 = 10,system32
+FtdiBus.NTamd64.Copy3 = 10,syswow64
+
+
+[Manufacturer]
+%AUTOM3%=FtdiHw,NTamd64
+
+[FtdiHw]
+%USB\VID_0403&PID_4F50.DeviceDesc%=FtdiBus.NT,USB\VID_0403&PID_4F50
+
+[FtdiHw.NTamd64]
+%USB\VID_0403&PID_4F50.DeviceDesc%=FtdiBus.NTamd64,USB\VID_0403&PID_4F50
+
+[ControlFlags]
+ExcludeFromSelect=*
+
+[FtdiBus.NT]
+CopyFiles=FtdiBus.NT.Copy,FtdiBus.NT.Copy2
+AddReg=FtdiBus.NT.AddReg
+
+[FtdiBus.NTamd64]
+CopyFiles=FtdiBus.NTamd64.Copy,FtdiBus.NTamd64.Copy2,FtdiBus.NTamd64.Copy3
+AddReg=FtdiBus.NT.AddReg
+
+[FtdiBus.NT.Services]
+AddService = FTDIBUS, 0x00000002, FtdiBus.NT.AddService
+
+[FtdiBus.NTamd64.Services]
+AddService = FTDIBUS, 0x00000002, FtdiBus.NT.AddService
+
+[FtdiBus.NT.AddService]
+DisplayName = %SvcDesc%
+ServiceType = 1 ; SERVICE_KERNEL_DRIVER
+StartType = 3 ; SERVICE_DEMAND_START
+ErrorControl = 1 ; SERVICE_ERROR_NORMAL
+ServiceBinary = %10%\system32\drivers\opcomusb.sys
+LoadOrderGroup = Base
+AddReg = FtdiBus.NT.AddService.AddReg
+
+[FtdiBus.NT.HW]
+AddReg=FtdiBus.NT.HW.AddReg
+
+[FtdiBus.NT.HW.AddReg]
+HKR,,"ConfigData",0x00010001,0
+
+
+[FtdiBus.NTamd64.HW]
+AddReg=FtdiBus.NTamd64.HW.AddReg
+
+[FtdiBus.NTamd64.HW.AddReg]
+HKR,,"ConfigData",0x00010001,0
+
+[FtdiBus.NT.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,opcomusb.sys
+;HKR,,EnumPropPages32,,"ftbusui.dll,FTBUSUIPropPageProvider"
+;HKR,,"ConfigData",0x00010001,0
+
+[FtdiBus.NT.AddService.AddReg]
+;HKR,Parameters,"LocIds",1,31,00,00,00,32,00,00,00,00
+;HKR,Parameters,"RetryResetCount",0x10001,50
+
+
+
+[FtdiBus.NT.Copy]
+opcomusb.sys
+ftdibus.sys
+
+[FtdiBus.NT.Copy2]
+ftbusui.dll
+ftd2xx.dll
+FTLang.dll
+
+[FtdiBus.NTamd64.Copy]
+opcomusb.sys
+ftdibus.sys
+
+[FtdiBus.NTamd64.Copy2]
+ftbusui.dll
+ftd2xx.dll,ftd2xx64.dll
+FTLang.dll
+
+[FtdiBus.NTamd64.Copy3]
+ftd2xx.dll
+
+[Strings]
+AUTOM3="AUTO M3 Ltd"
+DESC="OPCOM USB V2 Driver"
+DriversDisk="OP-COM installation folder"
+USB\VID_0403&PID_4F50.DeviceDesc="OP-COM USB V2 Interface"
+SvcDesc="OPCOMUSB.SYS OP-COM USB V2 device driver"
+ClassName="USB"

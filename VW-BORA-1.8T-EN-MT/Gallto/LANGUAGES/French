@@ -1,0 +1,549 @@
+001Inf
+002Info Calculateur
+003ck
+004Check Algorithme
+005Vitesse de répétition
+006Ouvrir fichier pour modif
+007Sauver Fichier de Set
+008Sauver Fichier modif
+009Calculette
+010Diminuer Magnificateur
+011Augmenter Magnificateur
+012Activer Désactiver Magnificateur
+013Help
+014Activer Grille
+015R
+016Reset Emulateur
+017Chk TR-LH
+018Activer Checksum TR High Low
+019Trace
+020Activer Trace
+021Emu
+022Activer Emulateur
+023Chk TR algo
+024Activer Checksum Algorithme
+025=D
+026Egaliser valeurs pour adresses impair
+027=P
+028Egaliser valeurs pour adresses pair
+029Augmenter Plan Gx=+1  Dx=+x (valeur programmée)
+030Augmenter Plan Gx=-1  Dx=-x (valeur programmée)
+031FF
+032Plan à l'Ecran a FF
+033=
+034Egaliser valeurs à l'Ecran
+03500
+036Ecran a 00
+037II
+038Egaliser adresse à l'origine
+039I
+040Aller à l'adresse
+041Inserer Adresse Hexadécimale demandé
+042+
+043Augmenter gx+1 dx+5
+044-
+045Diminuer gx-1 dx-5
+046Souris Gx page avant, Dx fin fichier
+047Souris Gx page arrière, Dx début fichier
+048Souris Gx un byte/word avant Dx page avant
+049Souris Gx un byte/word après Dx page après
+050Deplacements Modifié
+051Deplacements Modifié
+052Deplacements Modifié
+053Deplacements Modifié
+054Deplacements Origine
+055Deplacements Origine
+056Deplacements Origine
+057Deplacements Origine
+058Comp.
+059Comparer les 2 fichiers Gx après et Dx avant
+060Hex
+061Ouvrir fenêtre Hexadécimale
+062&Annuler
+063Annuler dernières 5 modif
+064&M
+065Sauvegarder plan avec nom
+066
+067Joindre Barre
+068Slider
+069&Eliminer
+070Eliminer copie sélectionné
+071-
+072Selectionner N° copie précédente
+073+
+074Selectionner N° copie suivante
+075&Coller
+076Coller Plan Sélectionné
+077&Copier
+078Copier écran
+079Garder
+080Garder copie
+081Visual.
+082Visualiser Copie Sélectionné
+083-
+084Div.par 2 Zoom
+085+
+086Doubler Zoom
+087-
+088Diminuer Zoom Gx-1, Dx-10
+089+
+090Augmenter Zoom Sx+1, Dx+10
+091Byte/word Sélectionné
+092Différence Pourcentage
+093Différence Décimale
+094Valeur zoom
+095Adresse fichier modifié
+096Adresse fichier origine
+097Valeur hexadécimale modifié
+098Valeur hexadécimale origine
+099Valeur décimale modifié
+100Valeur décimale origine
+101Lsb
+102Msb
+103Dec
+104Graphique a byte(8bit) Word(16bit)
+105Active byte low , en appuyant shift +20 o -20
+106Selectionner courbe avec nom
+107Type ouverture
+108Longueur fichier origine
+109Longueur fichier modifié
+110Nom fichier origine
+111Nom fichier modifié
+112Effacer point sélectionné
+113Début fichier origine
+115Fichier
+114Début fichier modifié
+115&Fichier
+116&Ouvrir Fichier pour Modif
+117&Sauver Fichier Modif
+118&1) Ouvrir Fichier de Setting
+119&2) Sauver Fichier de Setting
+120&Créer Répertoire
+121&Fin
+122&Modification
+123&Copié
+124&Coller
+125&Annuler
+126&Checksum
+127Calculer Checksum &8 bit
+128Calculer Checksum &Range 8 bit
+129Calculer Checksum &Impair Pair
+130Calculer Checksum Range Impair &Pair
+131Calculer Checksum &Bcb
+132&Recherche
+133Recherche &Hexadécimale
+134Recherche &Ascii
+135Recherche &Plan
+136Recherche &Séquence
+137Recherche Plan pour Séquence
+138Recherche &Surface Checksum
+139Recherche Espace &Checksum
+140257 bytes FF
+141514 bytes FF
+142257 bytes 00
+143514 bytes 00
+144&Instruments
+145Plans &2D
+146Plans &3D
+147&Info Calculateur
+148&Couleur Fond
+149Couleur Fond &Copie
+150Couleur &Grille
+151Couleur &Barre
+152&Emulation
+153&Envoyer au émulateur
+154Test &Pod
+155&Reset Emulateur
+156Reset &Target
+157&Configurer Reset
+158Vous voulez sauver le travail fait?
+159Ouverture Nouveau Travail
+160L'adresse du début doit être inférieur a celui de la fin
+161Checksum 8 bit Range
+162257 bytes 00 pas trouvés
+163Recherche par Checksum
+164Trovés 257 bytes a 00, placer à FF pour correction Checksum
+165Recherche par Checksum
+166257 bytes FF pas trouvés
+167Recherche par Checksum
+168514 bytes 00 pas trouvés
+169Trouvés 514 bytes 00, placer à FF par correction Checksum ?
+170Trace
+171Ouvrir Fichier
+172Positionnement Fichier Sélectionné
+173Origine High
+174Origine Low
+175Modifié High
+176Modifié Low
+177&Renommer
+178Rénommer fichier Sélectionné
+179Effeuiller
+180Effeuiller Modifié Low
+181Effeuiller
+182Effeuiller Origine Low
+183Effeuiller
+184Effeuiller Modifié High
+185Effeuiller
+186Effeuiller Origine High
+187Origine
+188Modifié
+189Modifié
+190Origine
+191Type Ouverture
+192Siemens 1
+193Fiat ME7
+194Cbc
+195Doubble E.
+196Bcb
+197Siemens
+198Normal
+199&Fin
+200Fermer Fenêtre
+201&Ouvrir
+202Ouvrir graphique
+203Fichier
+204Directory
+205Checksum
+206Dimension Fichier
+207Type Eprom
+208Type Micro
+209Numero Programme
+210Numero Calculateur
+211Type Installation
+212&Fichier
+213&Ouvrir
+214&Fin
+215&Récent
+216Siemens 2
+217Siemens 1
+218Ouvrir Origine High
+219Ouvrir Modifié High
+220Ouvrir Origine Low
+221Ouvrir Modifié Low
+222Le nom du fichier Modifié doit être
+223different de l'Origine
+224Ouvrir
+225Le fichier Origine long
+226a une longueur différente du
+227Fichier Modifié long
+228Le nom Fichier existe déjà
+229Rénommer
+230Le nome du fichier de Setting existe déjà
+231Le fichier n'est pas Bcb
+232Ouverture
+233Erreur dans la décompression Bcb
+234Erreur dans la décompression Bosch
+235Erreur :
+236Eprom LOW
+237Eprom HIGH
+238Origine High
+239Modifié High
+240Origine
+241Modifié
+242Le fichier 
+243existe déjà
+244 Remplacer ?
+245Sauver
+246Erreur dans la sauvegarde : 
+247Codification Bosch
+248Codification CBC
+249Codification BCB
+250Modifié
+251Codification Siemens
+252Pas codifier Siemens
+253Sauver en 2 fichier
+254Sauver en 1 fichier
+255&Sauver
+256&Annuler
+257Effeuiller
+258Répertoire ou sauver le fichier
+259Donner Parcours et Nom Fichier
+260Effeuiller
+261Répertoire au sauver le fichier
+262Modifié
+263 EPROM High
+264 EPROM Low
+265 EPROM
+266 EPROM High+Low
+267 EPROM High
+268Sauver EPROM High 
+269Sauver EPROM Low
+270Le nom du fichier Modifié doit être
+271different de l'Origine
+272Nommer fichier EPROM High
+273Nommer fichier EPROM High+Low
+274Nommer fichier Eprom High
+275Nommer fichier Eprom
+276Sauver Fichier Setting
+277Fichier modifié
+278Fichier origine
+279&Associer
+280&Fin
+281&Sauver
+282Microprocesseur
+283Type Eprom
+284N° Programme
+285N° Calculateur
+286Nommer le fichier de Setting
+287Sauver fichier de Setting
+288Erreur Ecriture fichier
+299Sauver fichier de Setting
+300Sauver fichier de Setting origine
+301Sauver fichier de Setting modifié
+302Envoyer au  Emulateur
+303Interchanger ordre High Low
+304Tracce
+305Début
+306Fin
+307Byte-Word
+308Type
+309&Fin
+310&Charger
+311Porte imprimante
+312Type Eprom
+313-- Initialisation Emulateur --
+314-- Contrôler porte Lpt et connections émulateur --
+315-- Configuration typo eprom --
+316-- Configuration eprom échoué --
+317-- Erreur set buffer trace --
+318-- Erreur set range trace --
+319-- Charge fichier échoué --
+320-- Début émulation --
+321-- Début émulation échoué --
+322-- Chargement accompli --
+323-- Emulateur OK --
+324-- Erreur initialisation N° 
+325-- Mémoire configuré --
+326-- Mémoire pas configuré --
+327-- Fichier transféré --
+328-- Fichier pas transféré, code :
+329Le fichier n'a pas un longueur standard
+330Grandeur interdite
+331-- Je charge le Fichier --
+332-- Erreur set Trigger trace --
+333Ouverture fichier de Setting
+334&Fin
+335&Ouvrir
+336Type Installation
+337Numero Calculateur
+338Numero Programme
+339Type Micro
+340Type Eprom
+341Recherche Zone Checksum
+342Aller à:
+343Fin
+344Début
+345Chercher avec &Offset
+346&Fin
+347&Arrête
+348&Cherche
+349Offset
+350Trouvés
+351Début
+352Fin
+353Checksum à chercher
+354Checksum
+355C&alcule
+356&Fin
+357&Corrige
+358Complément a FFFF
+359Checksum Algorithme
+360&Corrige
+361&Fin
+362Checksum Bcb
+363&Calcule
+364&Corrige
+365&Fin
+366La séquence Bcb pas trouvé
+367&Langue
+368Checksum range 8 bit
+369&Calcule
+370&Fin
+371Checksum 16
+372Checksum Complément a FFFF
+373Checksum Range Hi LO
+374&Fin
+375&Calcule
+376Fin
+377Début
+378Low
+379High
+380L'adresse de fin doit être
+381plus grande de celle du début
+382Choisir Checksum TR Impair Pair
+383Zone 1
+384Début
+385Fin
+386Début Zone Correction
+387Zone 2
+388Début Zone Correction
+389Fin
+390Début
+391&Ok
+392Fin Procédure
+393&Annuler
+394Sauver Fichier &Setting
+395Sauver Fichier &Modifié
+396&Fermer
+397On veut quitter le programme sens sauvegarde ?
+398Configuration Reset
+399Activer Haut
+400Activer Bas
+401&OK
+402 Longueur Reset Ms.
+403Créer Répertoire
+404&Fin
+405&Créer
+406Nom Répertoire à Créer
+407Erreur dans la création du Répertoire
+408Infor Calculateur
+409&Ecrire Set
+410Modifié
+411Origine
+412&Fermer
+413N°Programme
+414N°Calculateur
+415Marque Ecu
+416Gestion Sauvegarde Plan
+417&Sauver
+418&Quitter
+419&Insérer
+420&Renommer
+421&Supprimer
+422Nommer plan
+423Plan 2D
+424&Fin
+425Déplacement Courbe
+426Numero Courbe
+427Plan 3d
+428Grille
+429Rotation Horizontale
+430&Fin
+431Numero Courbe
+432Rechercher Plan par Séquence
+433&Fin
+434&Arrêter
+435&Début
+436Points    Plan
+437Déplacement
+438Travails Récents
+439&Mise a zéro
+440&Ok
+441Recherche Ascii
+442Recherche sur &Origine
+443Recherche sur &Modifié
+444&Recherche
+455&Fin
+466Sequénce Ascii à rechercher
+447Donner Séquence Ascii à rechercher
+448Sequénce pas trouvé
+449Recherche Hexadécimale
+450&Fin
+451&Recherche
+452Recherche sur &Modifié
+453Recherche sur &Origine
+454Donner séquence Hexadécimale à rechercher
+455Donner séquence Hexadécimale à rechercher
+456Sequénce Hexadécimale pas trouvé
+457Recherche Plan
+458Recherche Hexadécimale
+459Selectionner Fichier
+460&Fin
+461&Sélectionner
+462Recherche Séquence
+463&Fin
+464&Recherche
+465Recherche sur &Modifié
+466Recherche sur &Origine
+467Combien
+468Bytes Hex
+469Sequénce Ascii à Rechercher
+470Donner byte hexadécimale à rechercher
+471Donner quantité de bytes à rechercher
+472Sequénce pas Trouvé
+473Test Pod
+474&Test
+475Porte Imprimante
+476&Fin
+477-- Initialisation --
+478-- Erreur initialisation N°  
+479-- Erreur Test N°  
+480-- Emulateur OK --
+481-- Début Test Pod
+482-- Test OK --
+483Visualisation Plan Sauvegardé
+484Aide
+485Hexadecimale
+486Ecrire adresse hexadécimale et cliquer
+487Touche Gx page suivante, Dx fin fichier
+488Touche Gx ligne suivante
+489Touche Gx ligne arrière
+490Touche Gx page arrière, Dx début fichier
+491Adresse
+492Valeur hexadécimale
+493Valque Décimale
+494Caracter Ascii
+495&Fichier
+496&Fin
+497&Recherche
+498&Recherche Hexadécimale
+499Recherche &Ascii
+500Accroissement
+501Decroissement
+50200
+503FF
+504____________________________________
+505Interchange Nibble
+506Interchange avec byte précédent
+507Interchange avec byte successif
+508&Checksum
+509&Cheksum Range 8 bit
+510Checksum &Range Hi Lo
+511Recherche &Différence
+512Différence
+513Adresse
+514Origine
+515Modifié
+516Différence
+517&Recherche
+518&Fin
+519&Choisir Checksum TR Impair-Pair
+520Pas de codification Bosch 
+521Fin fichier Origine
+522Fin fichier modifié
+523&Fin
+524Nom Setting
+525Plans Trovés
+526Activer guide in ligne
+528Tours/ Charge
+529Word par Courbe
+530Tours/Courbe
+531Tours/Plan
+532g
+533Mémorise tours
+527Calculer Checksum & Algorithme
+528Tours/Charge
+529Word par courbe 
+530Tours/Courbe
+531Tours/Plan
+532T 
+533Sauvegarder tours
+534Insérer N° word par courbe
+535S
+536Mémorise adresse commencement du plan
+537SWAP
+538Edc16
+539ME9
+540Utility
+541Double le fichier
+542Réduit de moitié le fichier
+543Liaison au site impossible, controler que la connexion soit active
+544Checksum 32 bit
+545Sont nécessaires 4 bytes  pour la correction 
+546&correction 
+547Erreur
+
+
+
+
+

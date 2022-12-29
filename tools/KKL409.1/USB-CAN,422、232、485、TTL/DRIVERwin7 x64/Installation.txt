@@ -1,0 +1,7 @@
+[64 a WIN 7]
+Manual designated the installation directory installation CH341SER. ZIP
+Download address: http://www.wch.cn/download/list.asp? Id = 5
+When the computer system startup need to press F8 to choose "disable driver signature mandatory" mode
+In the device manager after find corresponding hardware, select update drive, and then manual designated the installation directory for installation,
+Play warning dialog box will choose "continue to install".
+

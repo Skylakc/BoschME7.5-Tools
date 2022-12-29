@@ -1,0 +1,540 @@
+001Inf
+002Steuergeraet Info
+003ck
+004Algorithmencheck
+005Geschwindigkeit Wiederholungen
+006File fuer Bearbeitung oeffnen 
+007Setup File Speichern
+008Bearbeitetes File Speichern
+009Rechner
+010Magnificator verkleinern
+011Magnificator vergroessern
+012Magnificator aktivieren deaktivieren
+013Hilfe
+014Raster aktivieren 
+015R
+016Reset Emulator
+017Chk TR-LH
+018Checksum TR High Low aktivieren 
+019Trace
+020Spur aktivieren 
+021Emu
+022Emulator aktivieren
+023Chk TR algo
+024Algoritmen Checksum aktivieren
+025=D
+026Werte der ungeraden Adressen Ungerade 
+027=P
+028Werte der geraden Adressen 
+029Erhoehe Level Lx=+1  Rx=+x (Progammierter Wert)
+030Erabsetzen Level Lx=-1  Rx=-x (Progammierter Wert)
+031FF
+032Ebene auf Video auf FF
+033=
+034Vidiowerte Ausgleichen
+03500
+036Video auf 00
+537SWAP
+538EDC16
+539ME9
+037II
+038Adresse an das Original angleichen 
+039I
+040Gehe zur Adresse
+041Angeforderte Esadezimaladresse eifuegen
+042+
+043Erhoehe lx+1 rx+5
+044-
+045veringere lx-1 rx-5
+046Mouse lx Seite vorher , rx file Ende
+047Mouse lx Seite zurueck, rx file Anfang
+048Mouse lx ein byte/word zurueck rx Seite zurueck
+049Mouse lx ein byte/word vorher rx eine Seite vorher
+050modifizierte Bewegung
+051modifizierte Bewegung
+052modifizierte Bewegung
+053modifizierte Bewegung
+054Originale Bewegung
+055Originale Bewegung
+056Originale Bewegung
+057Originale Bewegung
+058Comp.
+059Vergleiche die beiden Files Lx vorwaerts e Rx zurueck
+060Hex
+061Esadezimal Fenster oeffnen
+062&loeschen
+063Letzte 5 Bearbietungen annulieren
+064&M
+065Ebene mit Namen speichern
+066
+067Barren verbinden
+068Slider
+069&Eliminieren
+070Ausgewaehlte Kopie eliminieren
+071-
+072Waehle N°der vorhergehenden Kopie
+073+
+074Waehle N°der nachfolgenden Kopie
+075&Einfuegen
+076Ausgewaelte Ebene einfuegen
+077&Kopieren
+078Video Kopieren
+079Beibehal.
+080Kopie Beibehalten
+081Ansich.
+082Ansicht der ausgewaehlen Kopie
+083-
+084Zoom halbieren
+085+
+086Zoom verdoppeln
+087-
+088Zoom vermindern Lx-1, Rx-10
+089+
+090Zoom erhoehen Lx+1, Rx+10
+091Byte/word ausgewaehlt
+092Prozentdifferenz
+093Dezimaldifferenz
+094Zoom Wert
+095Adresse File modifiziert
+096Adresse File original
+097Esadezimalwert modifiziert
+098Esadezimalwert original
+099Dezimalwert modifiziert
+100Dezimalwert original
+101Lsb
+102Msb
+103Dec
+104Grafic mit Byte(8bit)oder Word(16bit)
+105byte low aktivieren,mit shift gedrueckt +20 oder -20
+106Kurve mit Namen auswaehlen
+107Oeffnungsart
+108Original Filelaenge 
+109Modifizierte Filelaenge
+110Originaler Filename
+111Modifizierte Filename
+112Ausgwaehlten Punkt loeschen 
+113Originaler Fileanfang
+114Modifizierter Fileanfang
+115&File
+116&Oeffne File fuer Bearbeitung
+117&Bearbeitetes File speichern
+118&1) Setup File oeffen
+119&2) Setup File speichern
+120&Ordner einfuegen
+121&Ende
+122&Bearbeiten
+123&Kopieren
+124&Einfuegen
+125&Anullieren
+126&Checksum
+127Berechne Checksum &8 bit
+128Berechne Checksum &Range 8 bit
+129Berechne Checksum &Gerade Ungerade
+130Berechne Checksum Range Gerade &Ungerade
+131Berechne Checksum &Bcb
+132&Suche
+133Suche &Esadezimale
+134Suche &Ascii
+135Suche &Ebene
+136Suche &Sequenz
+137Suche &Sequenzebene
+138Suche &Checksum Areale
+139Suche Stelle &Checksum
+140257 bytes FF
+141514 bytes FF
+142257 bytes 00
+143514 bytes 00
+144&Werkzeuge
+145Ebenen &2D
+146Ebenen &3D
+147&Steuergeraet Information
+148&Hintergrundfarbe
+149Hintergrundfarbe &Kopie
+150Farbe &Raster
+151Farbe &Barren
+152&Emulation
+153&An den Emulator Senden
+154Test &Pod
+155&Reset Emulator
+156Reset &Target
+157&Reset Konfiguriren
+158Willst du laufende Aufgaben speichern ?
+159Neue Aufgabe oeffnen
+160Die Startadresse muss niedriger sein als die Bestimmungsadresse. 
+161Checksum 8 bit Range
+162257 bytes 00 nicht gefunden
+163Suche ueber Checksum
+164257 bytes gefunden bei 00, nach FF bringen um Checksum zu korrigieren
+165Suche ueber Checksum
+166257 bytes FF nicht gefunden
+167Suche ueber Checksum
+168514 00 bytes  nicht gefunden
+169514 00 bytes gefunden, nach FF bringen um Checksum zu korrigieren?
+170Trace
+171File oeffnen
+172Die Positionierung der File wählte vor 
+173High Original
+174Low Original
+175High bearbeitet
+176Low bearbeitet
+177&Umbenennen
+178Ausgewaehltes file umbenennen 
+179Blaettern
+180Low bearbeitet durchsuchen 
+181Blaettern
+182Low original durchsuchen 
+183Blaettern
+184High bearbeitet durchsuchen 
+185Blaettern
+186High original durchsuchen 
+187Original
+188bearbeitet
+189bearbeitet
+190Original
+191Oeffnungsart
+192Siemens 1
+193Fiat ME7
+194Cbc
+195Doppel E.
+196Bcb
+197Siemens
+198Normal
+199&Ende
+200Fenster schliessen
+201&oeffnen
+202Grafik oeffnen
+203File
+204Directory
+205Checksum
+206Filedimension
+207Epromtype
+208Microtyp
+209Programnummer 
+210Steurgeraetnummer 
+211Anlagentyp
+212&File
+213&oeffne
+214&Ende
+215&Gegenwaertige
+216Siemens 2
+217Siemens 1
+218High original oeffnen
+219High bearbeitet oeffnen
+220Low original oeffnen
+221Low bearbeitet oeffnen
+222Die Bennenung des bearbeiteten files muss
+223anders sein als die des Originals
+224oeffne
+225Das originale lange file
+226hat eine andere laenge als das
+227Bearbeitete lange file
+228Der Name file existiert schon 
+229Umbenennen
+230Der Name des Stetupfiles existiert schon
+231Das file ist nicht Bcb
+232Oeffnung
+233Fehler in der Dekompression BcB
+234Fehler in der Dekompression Bosch
+235Fehler :
+236Eprom LOW
+237Eprom HIGH
+238High Original
+239High bearbeitet
+240Original        
+241Bearbeitet
+242Das file
+243Existiert schon 
+244 Ueberscreiben ?
+245Speichern
+246Speicherfehler :
+247Bosch codifizieren 
+248CBC codifizieren 
+249BCB codifizieren 
+250Bearbeitet
+251Siemens codifizieren 
+252Siemens nicht codifizieren
+253Auf zwei files speichern
+254Auf einem file speichern
+255&Speichern
+256&Annullieren
+257Blaettern
+258Directory wo file gespeichert wird
+259Filepfad und Name eingeben
+260Blaettern
+261Directory wo file gespeichert wird
+262Bearbeitet 
+263 Eprom High
+264Eprom Low
+265 Eprom
+266 Eprom High+Low
+267 Eprom High
+268Eprom High speichern
+269Eprom Low speichern
+270Der Name des bearbeiteten files muss 
+271anders sein als der des Originals !
+272Namen file Eprom High eingeben 
+273Namen file Eprom High+Low eingeben 
+274Namen file Eprom High eingeben
+275Namen file Eprom eingeben 
+276Setupfile speichern
+277File bearbeitet
+278Originalfile 
+279&Assozieren
+280&Ende
+281&Speichern
+282Microprozessor
+283Epromtype
+284Programm N°
+285Steuergeraet N°
+286Name des Setupfiles eingeben
+287Setupfile speichern
+288File Schreibfehler 
+299Setupfile speichern
+300Setupfile original speichern 
+301Setupfile bearbeitet speichern 
+302An Emulator senden 
+303High Low Befehle umkehren
+304Spur
+305Beginn
+306Ende
+307Byte-Word
+308Typ
+309&Ende
+310&Ubermitteln
+311Printer Ausgang
+312Epromtype
+313-- Inizialisierung Emulator --
+314-- Lpt Ausgang und Verbindung Emulator kontrollieren --
+315-- Konfiguration Epromtype --
+316-- Konfiguration Eprom nicht gelungen --
+317-- Fehler set buffer trace --
+318-- Fehler set range trace --
+319-- Uebermittlung file nicht gelungen --
+320-- Emulation beginnen --
+321-- Emulationsbeginn nicht gelungene --
+322-- Ausgefuehrte Datenuebermittlung --
+323-- Emulator OK --
+324-- Inizialisierungsfehler N° 
+325-- Konfigurierter Speicher --
+326-- Nicht konfigurierter Speicher --
+327-- transferirtes file --
+328-- Nicht transferirtes file , Code :
+329Das File hat keine Standardlaenge
+330Nicht erlaubte Dimension
+331-- File uebermitteln --
+332-- Fehler set Trigger trace --
+333Setup file oeffnen
+334&Ende 
+335&Oeffnen
+336Anlagentyp
+337Steuergeraetnummer
+338Programmnummer 
+339Microtyp
+340Epromtype
+341Checksumareal suchen
+342Gehe zu:
+343Ende 
+344Beginn
+345Finde mit &Offset 
+346&Ende
+347&Unterbreche
+348&Finde
+349Offset
+350Gefunden
+351Beginn
+352Ende
+353Checksum zu finden
+354Checksum
+355&Berechne
+356&Ende
+357&Korigieren 
+358Zusatz fuer FFFF
+359Algorithmen Checksum 
+360&Korigieren
+361&Ende
+362Checksum Bcb
+363&Berechne
+364&Korigieren
+365&Ende
+366Die Bcb Sequenz wurde nicht gefunden
+367&Sprache
+368Checksum range 8 bit
+369&Berechne
+370&Ende
+371Checksum 16
+372Checksum                          Zusatz fuer FFFF
+373Checksum Range Hi LO
+374&Ende
+375&Berechne
+376Ende
+377Adresse
+378Low
+379High
+380Die Destinationsadresse muss
+381groesser sein als die Ausgangsadresse
+382Checksum eingeben TR Gerade Ungerade
+383Zone 1
+384Beginn
+385Ende
+386Beginn Korekturareal
+387Zone 2
+388Beginn Korekturareal
+389Ende
+390Beginn
+391&Ok
+392Ende der Prozedur
+393&Annulliern
+394File speichern &Setup
+395File speichern &Bearbeitet
+396&Schliessen
+397Programm schliessen ohne zu speichern ?
+398Reset Konfiguration
+399Aktives hoch
+400Aktives niedrig
+401&OK
+402 Dauer Reset Ms.
+403Ordner einfuegen
+404&Ende 
+405&Einfuegen
+406Name des einzufuegenden Ordners
+407Fehler eingefuegter Ordner 
+408Steuergeraetinformation
+409&Set schreiben
+410Bearbeitet
+411Original
+412&Schliessen
+413N° Programm
+414N° Steuergeraet
+415Marke Ecu 
+416Verwaltung Ebenenspeicher
+417&Speichern
+418&Schliessen
+419&Einfuegen
+420&Umbenennen
+421&Eliminieren
+422Name der Ebene eingeben
+4232D Ebenen
+424&Ende
+425Kurven verstellen
+426Kurvennummer
+4273d Ebenen
+428Raster
+429Horizontalrotazion
+430&Ende
+431Kurvennummer 
+432Ebenen ueber Sequenz suchen
+433&Ende
+434&Unterbrechen
+435&Adresse 
+436Punkte    Ebenen    
+437Verstellung
+438Vorhergehende Arbeiten
+439&Auf null stellen
+440&Ok
+441Suche Ascii
+442Suchen auf dem &Original
+443Suchen auf dem &Bearbeiteten
+444&Suche
+445&Ende 
+446Ascii Sequenz  zu suchen
+447Ascii Sequenz die zu suchen ist einfuegen 
+448Sequenz nicht gefunden
+449Esadezimalsuche
+450&Ende
+451&Suche
+452Suchen auf dem &Bearbeiteten
+453Suchen auf dem &Original
+454Esadezimalsequenz eifuegen die zu suchen ist
+455Esadezimalsequenz eifuegen die zu suchen ist
+456Esadezimalsequenz nicht gefunden
+457Ebenensuche 
+458Esadezimalsuche
+459File Markieren
+460&Ende
+461&Markieren
+462Sequenzsuche
+463&Ende 
+464&Suche
+465Suchen auf dem &Bearbeiteten
+466Suchen auf dem &Original
+467Wieviele
+468Bytes Hex
+469Ascii Sequenz  zu suchen
+470Esadezimalbyte die zu suchen sind eingeben
+471Menge der zu suchenden bytes eingeben
+472Sequenz nicht gefunden
+473Test Pod
+474&Test
+475Printereingang
+476&Ende
+477-- Inizialisierung --
+478-- Fehler Inizialisierung N°  
+479-- Fehler Test N°  
+480-- Emulator OK --
+481-- Beginn test pod
+482-- Test OK --
+483Ansicht Gespeicherte Ebene
+484Hilfe
+485Esadezimal
+486Esadezimaladresse schreiben un Klicken
+487Lx Taste Seite vorwaerts, Rx Ende file
+488Lx Taste Zeile vorwaerts
+489Lx Taste Zeile zuerueck
+490Lx Taste Seite zuerueck, Rx file Beginn
+491Adresse 
+492Esadizimalwert
+493Decimalwert 
+494?????? Ascii
+495&File
+496&Ende
+497&Suche
+498&Esadezimalsuche
+499Suche &Ascii
+500Erhoehe
+501Vermindere
+50200
+503FF
+504______________________________
+505Nibble vertauschen
+506Vertausche mit vorhergehendem byte
+507Vertausche mit nachfolgendem byte
+508&Checksum
+509&Cheksum Range 8 bit
+510Checksum &Range Hi LO
+511Suche &Differenzen
+512Differenzen
+513Adresse
+514Original
+515Bearbeitet
+516Differenzen
+517&Suchen
+518&Ende
+519&Checksum eingeben TR Gerade-Ungerade
+520Bosch nicht Codifizieren 
+521Ende Original file 
+522Ende Bearbeitetes file
+523&Ende
+524Setupname
+525Gefundene Ebenen
+526Akitivieren der Onlinefuehrung
+527Berechne Checksum &Algoritmen
+528Umdrehungen / Belastung
+529Word fuer Kurven
+530Umdrehungen/Kurve
+531 Umdrehungen /Ebene
+532M
+533Umdrehungen speichern
+534N° Wort für Kurve einsetzen 
+535S
+536Es notiert Adresse Ebeneanfang 
+537Swap
+538Edc16
+539ME9
+540Utility
+541Verdoppeln file
+542Halbieren file
+543Web connection impossible, check if there is an active connection
+544Checksum 32 bit
+545sind notwendiges 4 Byte für die Korrektur
+546korrekt
+547Falsch

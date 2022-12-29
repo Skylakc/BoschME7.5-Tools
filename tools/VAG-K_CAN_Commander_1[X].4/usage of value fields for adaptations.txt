@@ -1,0 +1,13 @@
+all values which tester planning to provide throught diagnostic request to the corresponding electronic control unit must be put in the fields "Value(DEC)" or "Value(HEX)".
+
+Example adaptation of engine control unit to existing immobilizer:
+1. Choice target electronic control unit "1-Motor"
+2. Press open channel
+3. Put in the field "Value(DEC)" security access code (WFS) of immobilizer where was "married" your engine control unit
+4. Press buttun "Security Acc(CS) to release from component protection you ECU
+5. From adaptation frame press button "Start" -> we starting adaptation
+6. Put in the filed "Value(DEC)" value 50 -> will be performed adaptation on channel 50
+7. From adaptation frame press button "Enter/Test" -> provided to the unit channel 50
+8. Put in the filed "Value(DEC)" security access code (WFS) of your existing immobilizer 
+9. From adaptation frame press button "Enter/Test"
+10. From adaptation frame press button "Save"

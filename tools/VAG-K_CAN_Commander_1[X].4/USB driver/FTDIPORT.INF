@@ -1,0 +1,172 @@
+; FTDIPORT.INF
+; Copyright (c) 2000-2004 FTDI Ltd.
+;
+
+[Version]
+Signature="$CHICAGO$"
+Class=Ports
+ClassGUID={4d36e978-e325-11ce-bfc1-08002be10318}
+Provider=%FTDI%
+CatalogFile=ftdiport.cat
+DriverVer=04/16/2004,1.00.2154
+
+[SourceDisksNames]
+1=%DriversDisk%,,,
+
+[SourceDisksFiles]
+ftser2k.sys=1
+ftdiport.inf=1
+ftserui2.dll=1
+FTLang.Dll = 1
+
+[DestinationDirs]
+DefaultDestDir=11
+FtdiPort.NT.Copy=10,system32\drivers
+FtdiPort.NT.CopyUI=10,system32
+
+; Install class "Ports"
+;----------------------------------------------------------
+[ClassInstall]
+AddReg=PortsClass.AddReg
+
+[PortsClass.AddReg]
+HKR,,,,%PortsClassName%
+
+[ClassInstall32.NT]
+AddReg=PortsClass.NT.AddReg
+
+[PortsClass.NT.AddReg]
+HKR,,,,%PortsClassName%
+HKR,,Icon,,"-23"
+HKR,,Installer32,,"MsPorts.Dll,PortsClassInstaller"
+
+[ControlFlags]
+ExcludeFromSelect=*
+
+[Manufacturer]
+%FTDI%=FtdiHw
+
+[FtdiHw]
+%VID_0403&PID_8372.DeviceDesc%=FtdiPort,FTDIBUS\COMPORT&VID_0403&PID_8372
+%VID_0403&PID_6001.DeviceDesc%=FtdiPort232,FTDIBUS\COMPORT&VID_0403&PID_6001
+%VID_0403&PID_6007.DeviceDesc%=FtdiPort232,FTDIBUS\COMPORT&VID_0403&PID_6007
+%VID_0403&PID_6008.DeviceDesc%=FtdiPort232,FTDIBUS\COMPORT&VID_0403&PID_6008
+%VID_0403&PID_6009.DeviceDesc%=FtdiPort232,FTDIBUS\COMPORT&VID_0403&PID_6009
+%VID_0403&PID_0232.DeviceDesc%=FtdiPort232,FTDIBUS\COMPORT&VID_0403&PID_0232
+
+;---------------------------------------------------------------;
+; For Win98 ...
+;
+
+[FtdiPort]
+AddReg=FtdiPort.AddReg,FtdiPort.W98.AddReg
+
+[FtdiPort.AddReg]
+HKR,,PortSubClass,1,01
+
+[FtdiPort.W98.AddReg]
+HKR,,DevLoader,,*vcomm
+HKR,,Enumerator,,ftsenum.vxd
+HKR,,PortDriver,,ftcomms.vxd
+HKR,,Contention,,*vcd
+HKR,,ConfigDialog,,ftserui.dll
+HKR,,DCB,3,1C,00,00,00, 80,25,00,00, 11,33,00,00, 00,00, 0a,00, 0a,00, 08, 00, 00, 11, 13, 00, 00, 00
+HKR,,PortSubClass,1,01
+HKR,,EnumPropPages,,"ftserui.dll,EnumPropPages"
+
+[FtdiPort232]
+AddReg=FtdiPort.AddReg,FtdiPort.W98.AddReg
+
+[FtdiPort232.HW]
+AddReg=FtdiPort232.HW.AddReg
+
+[FtdiPort232.HW.AddReg]
+HKR,,ConfigData,1,01,00,3F,3F,10,27,88,13,C4,09,E2,04,71,02,38,41,9c,80,4E,C0,34,00,1A,00,0D,00,06,40,03,80,00,00,d0,80
+
+;---------------------------------------------------------------;
+; For Win2000 ...
+;
+
+[FtdiPort.NT]
+CopyFiles=FtdiPort.NT.Copy,FtdiPort.NT.CopyUI
+AddReg=FtdiPort.AddReg,FtdiPort.NT.AddReg
+
+[FtdiPort.NT.HW]
+AddReg=FtdiPort.NT.HW.AddReg
+
+[FtdiPort.NT.Services]
+AddService = FTSER2K, 0x00000002, FtdiPort_AddService
+AddService = Serenum,,SerEnum_AddService
+DelService = FTSERIAL
+
+[FtdiPort_AddService]
+DisplayName    = %FtdiPort.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\system32\drivers\ftser2k.sys
+LoadOrderGroup = Base
+AddReg         = FtdiPort_AddService.AddReg
+
+; -------------- Serenum Driver install section
+[SerEnum_AddService]
+DisplayName    = %SerEnum.SvcDesc%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\serenum.sys
+LoadOrderGroup = PNP Filter
+
+[FtdiPort.NT.AddReg]
+HKR,,EnumPropPages32,,"ftserui2.dll,SerialPortPropPageProvider"
+
+[FtdiPort_AddService.AddReg]
+HKR,Parameters,"MaximumTransferSize",0x10001,4096
+;HKR,Parameters,"DebugLevel",0x10001,2
+
+[FtdiPort.NT.HW.AddReg]
+HKR,,"UpperFilters",0x00010000,"serenum"
+
+[FtdiPort.NT.Copy]
+ftser2k.sys
+;serenum.sys
+
+[FtdiPort.NT.CopyUI]
+ftserui2.dll
+FTLang.dll
+
+[FtdiPort232.NT]
+CopyFiles=FtdiPort.NT.Copy,FtdiPort.NT.CopyUI
+AddReg=FtdiPort.NT.AddReg
+
+[FtdiPort232.NT.HW]
+AddReg=FtdiPort232.NT.HW.AddReg
+
+[FtdiPort232.NT.Services]
+AddService = FTSER2K, 0x00000002, FtdiPort_AddService
+AddService = Serenum,,SerEnum_AddService
+DelService = FTSERIAL
+
+[FtdiPort232.NT.HW.AddReg]
+HKR,,"UpperFilters",0x00010000,"serenum"
+HKR,,"ConfigData",1,01,00,3F,3F,10,27,88,13,C4,09,E2,04,71,02,38,41,9c,80,4E,C0,34,00,1A,00,0D,00,06,40,03,80,00,00,d0,80
+HKR,,"MinReadTimeout",0x00010001,0
+HKR,,"MinWriteTimeout",0x00010001,0
+HKR,,"LatencyTimer",0x00010001,16
+
+;---------------------------------------------------------------;
+
+[Strings]
+FTDI="FTDI"
+DriversDisk="FTDI USB Drivers Disk"
+PortsClassName = "Ports (COM & LPT)"
+VID_0403&PID_8372.DeviceDesc="USB Serial Port"
+VID_0403&PID_6001.DeviceDesc="USB Serial Port"
+VID_0403&PID_6007.DeviceDesc="USB Serial Port"
+VID_0403&PID_6008.DeviceDesc="USB Serial Port"
+VID_0403&PID_6009.DeviceDesc="USB Serial Port"
+VID_0403&PID_0232.DeviceDesc="USB Serial Port"
+FtdiPort.SvcDesc="USB Serial Port Driver"
+SerEnum.SvcDesc="Serenum Filter Driver"
+
+

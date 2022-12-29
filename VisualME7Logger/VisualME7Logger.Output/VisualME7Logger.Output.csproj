@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A6FDBC6-5D31-478E-91B1-1CB899F77BAD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VisualME7Logger.Output</RootNamespace>
+    <AssemblyName>VisualME7Logger.Output</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NCalc, Version=1.3.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>resources\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChecksumInfo.cs" />
+    <Compile Include="CommunicationInfo.cs" />
+    <Compile Include="ECUFile.cs" />
+    <Compile Include="EEPROM.cs" />
+    <Compile Include="IdentificationInfo.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="LoggerSession.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\SharedAssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\ME7Logger\bin\savedconfig" />
+    <None Include="resources\ME7Logger\defs\me7_alias.map" />
+    <None Include="resources\ME7Logger\defs\me7_std.map" />
+    <None Include="resources\ME7Logger\ecus\Audi A6 allroad 2.7T BEL 250HP 4Z7907551R.ori.ecu" />
+    <None Include="resources\ME7Logger\ecus\example.ecu" />
+    <None Include="resources\ME7Logger\err.err" />
+    <None Include="resources\ME7Logger\err1.err" />
+    <None Include="resources\ME7Logger\err2.err" />
+    <None Include="resources\ME7Logger\err3.err" />
+    <None Include="resources\ME7Logger\err4.err" />
+    <None Include="resources\ME7Logger\err5.err" />
+    <None Include="resources\ME7Logger\err6.err" />
+    <None Include="resources\ME7Logger\images\example.bin" />
+    <None Include="resources\ME7Logger\lib\libME7Logger.a" />
+    <None Include="resources\ME7Logger\lib\Makefile.example" />
+    <None Include="resources\ME7Logger\logs\Allroad-Config.cfg" />
+    <None Include="resources\ME7Logger\logs\allroad-config_20131016_213900.csv" />
+    <None Include="resources\ME7Logger\logs\allroadtestSTAGE2v13.csv" />
+    <None Include="resources\ME7Logger\logs\Audi A6 allroad 2.7T BEL 250HP 4Z7907551R.ori_template.cfg" />
+    <None Include="resources\ME7Logger\logs\example.commdata" />
+    <None Include="resources\ME7Logger\logs\example.measgroups" />
+    <None Include="resources\ME7Logger\logs\example_log.cfg" />
+    <None Include="resources\ME7Logger\logs\example_template.cfg" />
+    <None Include="resources\ME7Logger\logs\log_4cyl_basic.cfg" />
+    <None Include="resources\ME7Logger\logs\log_typical.cfg" />
+    <None Include="resources\ME7Logger\logs\log_vcds.cfg" />
+    <None Include="resources\ME7Logger\out.out" />
+    <None Include="resources\ME7Logger\out1.out" />
+    <None Include="resources\ME7Logger\out2.out" />
+    <None Include="resources\ME7Logger\out3.out" />
+    <None Include="resources\ME7Logger\out4.out" />
+    <None Include="resources\ME7Logger\out5.out" />
+    <None Include="resources\ME7Logger\out6.out" />
+    <None Include="resources\ME7Logger\outputrealtimewitherror.err" />
+    <None Include="resources\ME7Logger\outputrealtimewitherror.out" />
+    <None Include="resources\ME7Logger\savedconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resources\Antlr3.Runtime.dll" />
+    <Content Include="resources\ME7Logger\bin\ME7Info.exe" />
+    <Content Include="resources\ME7Logger\bin\ME7Info.exe.txt" />
+    <Content Include="resources\ME7Logger\bin\ME7Logger.exe" />
+    <Content Include="resources\ME7Logger\bin\me7logger.exe.txt" />
+    <Content Include="resources\ME7Logger\doc\DISCLAIMER.txt" />
+    <Content Include="resources\ME7Logger\doc\LICENSE.txt" />
+    <Content Include="resources\ME7Logger\doc\README.txt" />
+    <Content Include="resources\ME7Logger\lib\example.c" />
+    <Content Include="resources\ME7Logger\lib\example.exe" />
+    <Content Include="resources\ME7Logger\lib\libME7Logger.dll" />
+    <Content Include="resources\ME7Logger\lib\ME7Logger.h" />
+    <Content Include="resources\ME7Logger\logs\ME7Loggeroutput.txt" />
+    <Content Include="resources\ME7Logger\logs\ME7Loggeroutputconnectionerror.txt" />
+    <Content Include="resources\ME7Logger\logs\ME7Loggeroutputrealtime.txt" />
+    <Content Include="resources\ME7Logger\ME7Logger_GUI.exe" />
+    <Content Include="resources\NCalc.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
